@@ -1,0 +1,1001 @@
+﻿GENE PRODUCT DB	GENE PRODUCT ID	GO TERM	GO NAME	GO ASPECT
+UniProtKB	A0A178U7J2	GO:0015986	ATP synthesis coupled proton transport	P
+UniProtKB	A0A178U9Y5	GO:0016114	terpenoid biosynthetic process	P
+UniProtKB	A0A1I9LMM7	GO:0006384	transcription initiation from RNA polymerase III promoter	P
+UniProtKB	A0A1I9LMN9	GO:0000162	tryptophan biosynthetic process	P
+UniProtKB	A0A1I9LQ21	GO:0006506	GPI anchor biosynthetic process	P
+UniProtKB	A0A1I9LR82	GO:0048478	replication fork protection	P
+UniProtKB	A0A1I9LR82	GO:0043111	replication fork arrest	P
+UniProtKB	A0A1I9LRT3	GO:0006225	UDP biosynthetic process	P
+UniProtKB	A0A1I9LTC7	GO:0015995	chlorophyll biosynthetic process	P
+UniProtKB	A0A1P8AMK1	GO:0006369	termination of RNA polymerase II transcription	P
+UniProtKB	A0A1P8AMW4	GO:0006384	transcription initiation from RNA polymerase III promoter	P
+UniProtKB	A0A1P8AMW4	GO:0042791	5S class rRNA transcription by RNA polymerase III	P
+UniProtKB	A0A1P8APA8	GO:0006361	transcription initiation from RNA polymerase I promoter	P
+UniProtKB	A0A1P8APF4	GO:0006366	transcription by RNA polymerase II	P
+UniProtKB	A0A1P8APZ3	GO:0006425	glutaminyl-tRNA aminoacylation	P
+UniProtKB	A0A1P8AQE4	GO:0031297	replication fork processing	P
+UniProtKB	A0A1P8AQE4	GO:0048478	replication fork protection	P
+UniProtKB	A0A1P8AS31	GO:0019438	aromatic compound biosynthetic process	P
+UniProtKB	A0A1P8AST1	GO:0006384	transcription initiation from RNA polymerase III promoter	P
+UniProtKB	A0A1P8AST1	GO:0042791	5S class rRNA transcription by RNA polymerase III	P
+UniProtKB	A0A1P8ASY1	GO:0071932	replication fork reversal	P
+UniProtKB	A0A1P8ASY1	GO:0006260	DNA replication	P
+UniProtKB	A0A1P8AT59	GO:0006413	translational initiation	P
+UniProtKB	A0A1P8AVS2	GO:0006413	translational initiation	P
+UniProtKB	A0A1P8AW53	GO:1902983	DNA strand elongation involved in mitotic DNA replication	P
+UniProtKB	A0A1P8AW93	GO:0042790	nucleolar large rRNA transcription by RNA polymerase I	P
+UniProtKB	A0A1P8AW96	GO:0046513	ceramide biosynthetic process	P
+UniProtKB	A0A1P8AWF3	GO:0006270	DNA replication initiation	P
+UniProtKB	A0A1P8AYS2	GO:0006415	translational termination	P
+UniProtKB	A0A1P8B2C9	GO:0019878	lysine biosynthetic process via aminoadipic acid	P
+UniProtKB	A0A1P8B4J3	GO:0046103	inosine biosynthetic process	P
+UniProtKB	A0A1P8B6F9	GO:0019856	pyrimidine nucleobase biosynthetic process	P
+UniProtKB	A0A1P8B6F9	GO:0006241	CTP biosynthetic process	P
+UniProtKB	A0A1P8B7P8	GO:0006048	UDP-N-acetylglucosamine biosynthetic process	P
+UniProtKB	A0A1P8B9S9	GO:0043111	replication fork arrest	P
+UniProtKB	A0A1P8B9S9	GO:0048478	replication fork protection	P
+UniProtKB	A0A1P8BFD8	GO:0001732	formation of cytoplasmic translation initiation complex	P
+UniProtKB	A0A1P8BFD8	GO:0001731	formation of translation preinitiation complex	P
+UniProtKB	A0A2P2CLF5	GO:0006412	translation	P
+UniProtKB	A0A2P2CLF9	GO:0015986	ATP synthesis coupled proton transport	P
+UniProtKB	A0A2P2CLG6	GO:0032543	mitochondrial translation	P
+UniProtKB	A0A2P2CLH1	GO:0006412	translation	P
+UniProtKB	A1A6M1	GO:0042793	plastid transcription	P
+UniProtKB	A3EWL3	GO:0070987	error-free translesion synthesis	P
+UniProtKB	A3EWL3	GO:0042276	error-prone translesion synthesis	P
+UniProtKB	A4FVP2	GO:0016106	sesquiterpenoid biosynthetic process	P
+UniProtKB	A4GNA8	GO:0006646	phosphatidylethanolamine biosynthetic process	P
+UniProtKB	A7XDQ9	GO:0018258	protein O-linked glycosylation via hydroxyproline	P
+UniProtKB	A8MQJ1	GO:1901695	tyramine biosynthetic process	P
+UniProtKB	A8MQN2	GO:0006354	DNA-templated transcription, elongation	P
+UniProtKB	A8MQN4	GO:0006506	GPI anchor biosynthetic process	P
+UniProtKB	A8MQQ8	GO:0000105	histidine biosynthetic process	P
+UniProtKB	A8MR93	GO:0006487	protein N-linked glycosylation	P
+UniProtKB	A8MR93	GO:0006487	protein N-linked glycosylation	P
+UniProtKB	A8MRX0	GO:0019761	glucosinolate biosynthetic process	P
+UniProtKB	A8MS68	GO:0006086	acetyl-CoA biosynthetic process from pyruvate	P
+UniProtKB	A8MS85	GO:0042789	mRNA transcription by RNA polymerase II	P
+UniProtKB	A8MS85	GO:0006368	transcription elongation from RNA polymerase II promoter	P
+UniProtKB	B0F481	GO:0009102	biotin biosynthetic process	P
+UniProtKB	B0F481	GO:0009102	biotin biosynthetic process	P
+UniProtKB	B0F481	GO:0009102	biotin biosynthetic process	P
+UniProtKB	B0F481	GO:0009102	biotin biosynthetic process	P
+UniProtKB	B0F481	GO:0009102	biotin biosynthetic process	P
+UniProtKB	B3DN87	GO:0018230	peptidyl-L-cysteine S-palmitoylation	P
+UniProtKB	B3H4S0	GO:0046705	CDP biosynthetic process	P
+UniProtKB	B3H4S0	GO:0006225	UDP biosynthetic process	P
+UniProtKB	B3H501	GO:0030148	sphingolipid biosynthetic process	P
+UniProtKB	B3H572	GO:0006366	transcription by RNA polymerase II	P
+UniProtKB	B3H6K1	GO:0006506	GPI anchor biosynthetic process	P
+UniProtKB	B3H7H1	GO:0006413	translational initiation	P
+UniProtKB	B3LFA4	GO:0006423	cysteinyl-tRNA aminoacylation	P
+UniProtKB	B5X565	GO:0042793	plastid transcription	P
+UniProtKB	B5X582	GO:0009260	ribonucleotide biosynthetic process	P
+UniProtKB	B6EXY6	GO:0016104	triterpenoid biosynthetic process	P
+UniProtKB	B7U179	GO:0006261	DNA-dependent DNA replication	P
+UniProtKB	B9DFR6	GO:0019344	cysteine biosynthetic process	P
+UniProtKB	B9DFU2	GO:0016117	carotenoid biosynthetic process	P
+UniProtKB	B9DG24	GO:0051123	RNA polymerase II preinitiation complex assembly	P
+UniProtKB	B9DGU7	GO:0009229	thiamine diphosphate biosynthetic process	P
+UniProtKB	B9DGY1	GO:0046467	membrane lipid biosynthetic process	P
+UniProtKB	B9DGY1	GO:0046467	membrane lipid biosynthetic process	P
+UniProtKB	B9DH75	GO:0015937	coenzyme A biosynthetic process	P
+UniProtKB	B9DHD3	GO:0000105	histidine biosynthetic process	P
+UniProtKB	B9TSP7	GO:0010345	suberin biosynthetic process	P
+UniProtKB	C0LGL9	GO:0010192	mucilage biosynthetic process	P
+UniProtKB	C0LGL9	GO:0048354	mucilage biosynthetic process involved in seed coat development	P
+UniProtKB	F2Y4A3	GO:0046512	sphingosine biosynthetic process	P
+UniProtKB	F4HP69	GO:0006383	transcription by RNA polymerase III	P
+UniProtKB	F4HPZ9	GO:0006273	lagging strand elongation	P
+UniProtKB	F4HQE2	GO:0006260	DNA replication	P
+UniProtKB	F4HQE2	GO:0006260	DNA replication	P
+UniProtKB	F4HQE2	GO:0070716	mismatch repair involved in maintenance of fidelity involved in DNA-dependent DNA replication	P
+UniProtKB	F4HQE2	GO:0070716	mismatch repair involved in maintenance of fidelity involved in DNA-dependent DNA replication	P
+UniProtKB	F4HQM3	GO:0046512	sphingosine biosynthetic process	P
+UniProtKB	F4HQM3	GO:0042759	long-chain fatty acid biosynthetic process	P
+UniProtKB	F4HR03	GO:0051123	RNA polymerase II preinitiation complex assembly	P
+UniProtKB	F4HSX1	GO:0006168	adenine salvage	P
+UniProtKB	F4HT77	GO:0019677	NAD catabolic process	P
+UniProtKB	F4HTM3	GO:0006487	protein N-linked glycosylation	P
+UniProtKB	F4HTP2	GO:0006270	DNA replication initiation	P
+UniProtKB	F4HVA6	GO:0006367	transcription initiation from RNA polymerase II promoter	P
+UniProtKB	F4HVG0	GO:0009809	lignin biosynthetic process	P
+UniProtKB	F4HVY0	GO:0043447	alkane biosynthetic process	P
+UniProtKB	F4HVY0	GO:0043447	alkane biosynthetic process	P
+UniProtKB	F4HW04	GO:0006272	leading strand elongation	P
+UniProtKB	F4HW04	GO:0045004	DNA replication proofreading	P
+UniProtKB	F4HW65	GO:0006261	DNA-dependent DNA replication	P
+UniProtKB	F4HX14	GO:0009695	jasmonic acid biosynthetic process	P
+UniProtKB	F4HX15	GO:0009695	jasmonic acid biosynthetic process	P
+UniProtKB	F4HXY6	GO:0006659	phosphatidylserine biosynthetic process	P
+UniProtKB	F4HXY7	GO:0006659	phosphatidylserine biosynthetic process	P
+UniProtKB	F4HYF3	GO:0009693	ethylene biosynthetic process	P
+UniProtKB	F4HZC3	GO:0045492	xylan biosynthetic process	P
+UniProtKB	F4I057	GO:0006413	translational initiation	P
+UniProtKB	F4I0K2	GO:0042793	plastid transcription	P
+UniProtKB	F4I0K2	GO:0042793	plastid transcription	P
+UniProtKB	F4I0K2	GO:0042793	plastid transcription	P
+UniProtKB	F4I116	GO:0006429	leucyl-tRNA aminoacylation	P
+UniProtKB	F4I1A6	GO:0005992	trehalose biosynthetic process	P
+UniProtKB	F4I1P7	GO:0006273	lagging strand elongation	P
+UniProtKB	F4I1Z0	GO:0016255	attachment of GPI anchor to protein	P
+UniProtKB	F4I2W6	GO:0010306	rhamnogalacturonan II biosynthetic process	P
+UniProtKB	F4I403	GO:0009695	jasmonic acid biosynthetic process	P
+UniProtKB	F4I4V4	GO:0006352	DNA-templated transcription, initiation	P
+UniProtKB	F4I4V4	GO:0006383	transcription by RNA polymerase III	P
+UniProtKB	F4I5G3	GO:0009695	jasmonic acid biosynthetic process	P
+UniProtKB	F4I5H7	GO:0006177	GMP biosynthetic process	P
+UniProtKB	F4I5V8	GO:0019252	starch biosynthetic process	P
+UniProtKB	F4I5V8	GO:0016117	carotenoid biosynthetic process	P
+UniProtKB	F4I5V8	GO:0015995	chlorophyll biosynthetic process	P
+UniProtKB	F4I5V8	GO:0006633	fatty acid biosynthetic process	P
+UniProtKB	F4I5V8	GO:0006085	acetyl-CoA biosynthetic process	P
+UniProtKB	F4I6G9	GO:0019856	pyrimidine nucleobase biosynthetic process	P
+UniProtKB	F4I6G9	GO:0006241	CTP biosynthetic process	P
+UniProtKB	F4I6M1	GO:0033259	plastid DNA replication	P
+UniProtKB	F4I6M1	GO:0006264	mitochondrial DNA replication	P
+UniProtKB	F4I718	GO:0052324	plant-type cell wall cellulose biosynthetic process	P
+UniProtKB	F4I7J9	GO:0042791	5S class rRNA transcription by RNA polymerase III	P
+UniProtKB	F4I7J9	GO:0006384	transcription initiation from RNA polymerase III promoter	P
+UniProtKB	F4I8X8	GO:0018279	protein N-linked glycosylation via asparagine	P
+UniProtKB	F4I9M9	GO:0006537	glutamate biosynthetic process	P
+UniProtKB	F4IA25	GO:0032264	IMP salvage	P
+UniProtKB	F4IA25	GO:0032263	GMP salvage	P
+UniProtKB	F4IA25	GO:0006178	guanine salvage	P
+UniProtKB	F4IA25	GO:0006168	adenine salvage	P
+UniProtKB	F4IAG1	GO:0019252	starch biosynthetic process	P
+UniProtKB	F4IAM7	GO:0006435	threonyl-tRNA aminoacylation	P
+UniProtKB	F4IAW5	GO:0009851	auxin biosynthetic process	P
+UniProtKB	F4IBS4	GO:0015995	chlorophyll biosynthetic process	P
+UniProtKB	F4IBV4	GO:0033577	protein glycosylation in endoplasmic reticulum	P
+UniProtKB	F4ICF4	GO:0006654	phosphatidic acid biosynthetic process	P
+UniProtKB	F4ICG2	GO:0006424	glutamyl-tRNA aminoacylation	P
+UniProtKB	F4IDJ0	GO:0006270	DNA replication initiation	P
+UniProtKB	F4IDU4	GO:0019432	triglyceride biosynthetic process	P
+UniProtKB	F4IDU4	GO:0008654	phospholipid biosynthetic process	P
+UniProtKB	F4IDU4	GO:0019432	triglyceride biosynthetic process	P
+UniProtKB	F4IDU4	GO:0019375	galactolipid biosynthetic process	P
+UniProtKB	F4IDU4	GO:0008654	phospholipid biosynthetic process	P
+UniProtKB	F4IDU4	GO:0045017	glycerolipid biosynthetic process	P
+UniProtKB	F4IE14	GO:0006744	ubiquinone biosynthetic process	P
+UniProtKB	F4IF99	GO:0009245	lipid A biosynthetic process	P
+UniProtKB	F4IFC5	GO:0006435	threonyl-tRNA aminoacylation	P
+UniProtKB	F4IFN6	GO:0006272	leading strand elongation	P
+UniProtKB	F4IFN6	GO:0045004	DNA replication proofreading	P
+UniProtKB	F4IHY7	GO:0042793	plastid transcription	P
+UniProtKB	F4IHY7	GO:0042793	plastid transcription	P
+UniProtKB	F4II66	GO:0002183	cytoplasmic translational initiation	P
+UniProtKB	F4IIM1	GO:0030244	cellulose biosynthetic process	P
+UniProtKB	F4IIM1	GO:0030244	cellulose biosynthetic process	P
+UniProtKB	F4IIM1	GO:0030244	cellulose biosynthetic process	P
+UniProtKB	F4IJJ8	GO:0006506	GPI anchor biosynthetic process	P
+UniProtKB	F4IM82	GO:0006260	DNA replication	P
+UniProtKB	F4IMB5	GO:0015986	ATP synthesis coupled proton transport	P
+UniProtKB	F4IMC7	GO:0032543	mitochondrial translation	P
+UniProtKB	F4IMI8	GO:0016094	polyprenol biosynthetic process	P
+UniProtKB	F4IMY0	GO:0006369	termination of RNA polymerase II transcription	P
+UniProtKB	F4IN86	GO:0006352	DNA-templated transcription, initiation	P
+UniProtKB	F4IN86	GO:0006383	transcription by RNA polymerase III	P
+UniProtKB	F4INZ9	GO:0009686	gibberellin biosynthetic process	P
+UniProtKB	F4IPY2	GO:0006423	cysteinyl-tRNA aminoacylation	P
+UniProtKB	F4IQH8	GO:0009299	mRNA transcription	P
+UniProtKB	F4IRA7	GO:0019878	lysine biosynthetic process via aminoadipic acid	P
+UniProtKB	F4IRF5	GO:0001731	formation of translation preinitiation complex	P
+UniProtKB	F4IS32	GO:0006636	unsaturated fatty acid biosynthetic process	P
+UniProtKB	F4ITI0	GO:0006679	glucosylceramide biosynthetic process	P
+UniProtKB	F4ITI0	GO:0006679	glucosylceramide biosynthetic process	P
+UniProtKB	F4IU14	GO:0019432	triglyceride biosynthetic process	P
+UniProtKB	F4IUM0	GO:0010024	phytochromobilin biosynthetic process	P
+UniProtKB	F4IV16	GO:0009229	thiamine diphosphate biosynthetic process	P
+UniProtKB	F4IW10	GO:0070125	mitochondrial translational elongation	P
+UniProtKB	F4IW19	GO:0006352	DNA-templated transcription, initiation	P
+UniProtKB	F4IW19	GO:0006383	transcription by RNA polymerase III	P
+UniProtKB	F4IWD3	GO:0006741	NADP biosynthetic process	P
+UniProtKB	F4IX26	GO:0019344	cysteine biosynthetic process	P
+UniProtKB	F4IY62	GO:0006048	UDP-N-acetylglucosamine biosynthetic process	P
+UniProtKB	F4IY62	GO:0046506	sulfolipid biosynthetic process	P
+UniProtKB	F4IYF8	GO:0032543	mitochondrial translation	P
+UniProtKB	F4IYF8	GO:0006427	histidyl-tRNA aminoacylation	P
+UniProtKB	F4J1A4	GO:0019761	glucosinolate biosynthetic process	P
+UniProtKB	F4J1N5	GO:0006413	translational initiation	P
+UniProtKB	F4J220	GO:0006487	protein N-linked glycosylation	P
+UniProtKB	F4J220	GO:0006651	diacylglycerol biosynthetic process	P
+UniProtKB	F4J2K2	GO:0046901	tetrahydrofolylpolyglutamate biosynthetic process	P
+UniProtKB	F4J2K2	GO:0009396	folic acid-containing compound biosynthetic process	P
+UniProtKB	F4J2W0	GO:0006428	isoleucyl-tRNA aminoacylation	P
+UniProtKB	F4J376	GO:0070150	mitochondrial glycyl-tRNA aminoacylation	P
+UniProtKB	F4J376	GO:0006426	glycyl-tRNA aminoacylation	P
+UniProtKB	F4J3Q1	GO:0017183	peptidyl-diphthamide biosynthetic process from peptidyl-histidine	P
+UniProtKB	F4J3S6	GO:0006351	transcription, DNA-templated	P
+UniProtKB	F4J4C8	GO:0043048	dolichyl monophosphate biosynthetic process	P
+UniProtKB	F4J4C8	GO:0006486	protein glycosylation	P
+UniProtKB	F4J6I6	GO:0006744	ubiquinone biosynthetic process	P
+UniProtKB	F4J6V5	GO:0006367	transcription initiation from RNA polymerase II promoter	P
+UniProtKB	F4J7V2	GO:0006430	lysyl-tRNA aminoacylation	P
+UniProtKB	F4J8K0	GO:0016117	carotenoid biosynthetic process	P
+UniProtKB	F4J8K0	GO:0010236	plastoquinone biosynthetic process	P
+UniProtKB	F4JB05	GO:0006414	translational elongation	P
+UniProtKB	F4JCU3	GO:0019287	isopentenyl diphosphate biosynthetic process, mevalonate pathway	P
+UniProtKB	F4JE17	GO:0033260	nuclear DNA replication	P
+UniProtKB	F4JEL4	GO:0006413	translational initiation	P
+UniProtKB	F4JEQ3	GO:0033259	plastid DNA replication	P
+UniProtKB	F4JEQ3	GO:0006264	mitochondrial DNA replication	P
+UniProtKB	F4JF14	GO:0006261	DNA-dependent DNA replication	P
+UniProtKB	F4JF17	GO:0007004	telomere maintenance via telomerase	P
+UniProtKB	F4JF36	GO:0017183	peptidyl-diphthamide biosynthetic process from peptidyl-histidine	P
+UniProtKB	F4JF53	GO:0046513	ceramide biosynthetic process	P
+UniProtKB	F4JF53	GO:0046512	sphingosine biosynthetic process	P
+UniProtKB	F4JFM1	GO:0046467	membrane lipid biosynthetic process	P
+UniProtKB	F4JFQ0	GO:0001732	formation of cytoplasmic translation initiation complex	P
+UniProtKB	F4JFQ0	GO:0001731	formation of translation preinitiation complex	P
+UniProtKB	F4JFR1	GO:0031408	oxylipin biosynthetic process	P
+UniProtKB	F4JFR1	GO:0015995	chlorophyll biosynthetic process	P
+UniProtKB	F4JFV6	GO:0050665	hydrogen peroxide biosynthetic process	P
+UniProtKB	F4JIK9	GO:0018258	protein O-linked glycosylation via hydroxyproline	P
+UniProtKB	F4JJ27	GO:0006744	ubiquinone biosynthetic process	P
+UniProtKB	F4JJ97	GO:0006412	translation	P
+UniProtKB	F4JJE0	GO:0006656	phosphatidylcholine biosynthetic process	P
+UniProtKB	F4JKK0	GO:0008299	isoprenoid biosynthetic process	P
+UniProtKB	F4JKK0	GO:0010345	suberin biosynthetic process	P
+UniProtKB	F4JLM5	GO:0006428	isoleucyl-tRNA aminoacylation	P
+UniProtKB	F4JME7	GO:0006368	transcription elongation from RNA polymerase II promoter	P
+UniProtKB	F4JPA3	GO:0006412	translation	P
+UniProtKB	F4JPA9	GO:0006744	ubiquinone biosynthetic process	P
+UniProtKB	F4JPW1	GO:0033506	glucosinolate biosynthetic process from homomethionine	P
+UniProtKB	F4JPW1	GO:0033506	glucosinolate biosynthetic process from homomethionine	P
+UniProtKB	F4JPW1	GO:0019761	glucosinolate biosynthetic process	P
+UniProtKB	F4JPZ7	GO:0006592	ornithine biosynthetic process	P
+UniProtKB	F4JQU1	GO:0001731	formation of translation preinitiation complex	P
+UniProtKB	F4JRP0	GO:0006261	DNA-dependent DNA replication	P
+UniProtKB	F4JRP8	GO:0006261	DNA-dependent DNA replication	P
+UniProtKB	F4JRT7	GO:0006633	fatty acid biosynthetic process	P
+UniProtKB	F4JSG3	GO:0007004	telomere maintenance via telomerase	P
+UniProtKB	F4JSG3	GO:0006268	DNA unwinding involved in DNA replication	P
+UniProtKB	F4JSH1	GO:0009134	nucleoside diphosphate catabolic process	P
+UniProtKB	F4JTE7	GO:0006114	glycerol biosynthetic process	P
+UniProtKB	F4JTE7	GO:0006114	glycerol biosynthetic process	P
+UniProtKB	F4JUV3	GO:0001113	transcription open complex formation at RNA polymerase II promoter	P
+UniProtKB	F4JVA4	GO:0070898	RNA polymerase III preinitiation complex assembly	P
+UniProtKB	F4JVA9	GO:0006656	phosphatidylcholine biosynthetic process	P
+UniProtKB	F4JVI3	GO:0042793	plastid transcription	P
+UniProtKB	F4JW79	GO:0006368	transcription elongation from RNA polymerase II promoter	P
+UniProtKB	F4JW83	GO:0009809	lignin biosynthetic process	P
+UniProtKB	F4JY69	GO:0009851	auxin biosynthetic process	P
+UniProtKB	F4JY76	GO:0006413	translational initiation	P
+UniProtKB	F4JYE0	GO:0006633	fatty acid biosynthetic process	P
+UniProtKB	F4JYE9	GO:0009396	folic acid-containing compound biosynthetic process	P
+UniProtKB	F4JZM4	GO:0016255	attachment of GPI anchor to protein	P
+UniProtKB	F4JZN6	GO:0030148	sphingolipid biosynthetic process	P
+UniProtKB	F4JZN6	GO:0030148	sphingolipid biosynthetic process	P
+UniProtKB	F4JZZ1	GO:0006269	DNA replication, synthesis of RNA primer	P
+UniProtKB	F4K0E8	GO:0019288	isopentenyl diphosphate biosynthetic process, methylerythritol 4-phosphate pathway	P
+UniProtKB	F4K0E8	GO:0019288	isopentenyl diphosphate biosynthetic process, methylerythritol 4-phosphate pathway	P
+UniProtKB	F4K0T5	GO:0000162	tryptophan biosynthetic process	P
+UniProtKB	F4K0T5	GO:0009851	auxin biosynthetic process	P
+UniProtKB	F4K2A1	GO:0046901	tetrahydrofolylpolyglutamate biosynthetic process	P
+UniProtKB	F4K2A1	GO:0009396	folic acid-containing compound biosynthetic process	P
+UniProtKB	F4K2A1	GO:0009809	lignin biosynthetic process	P
+UniProtKB	F4K2A1	GO:0046901	tetrahydrofolylpolyglutamate biosynthetic process	P
+UniProtKB	F4K2L4	GO:0006425	glutaminyl-tRNA aminoacylation	P
+UniProtKB	F4K2R6	GO:0009697	salicylic acid biosynthetic process	P
+UniProtKB	F4K3M1	GO:0006412	translation	P
+UniProtKB	F4K4L7	GO:0006367	transcription initiation from RNA polymerase II promoter	P
+UniProtKB	F4K556	GO:0006506	GPI anchor biosynthetic process	P
+UniProtKB	F4K5T2	GO:0006535	cysteine biosynthetic process from serine	P
+UniProtKB	F4K5W7	GO:0019438	aromatic compound biosynthetic process	P
+UniProtKB	F4K687	GO:0009435	NAD biosynthetic process	P
+UniProtKB	F4K688	GO:0009435	NAD biosynthetic process	P
+UniProtKB	F4K6F1	GO:0009969	xyloglucan biosynthetic process	P
+UniProtKB	F4K6F1	GO:0009969	xyloglucan biosynthetic process	P
+UniProtKB	F4K6Y8	GO:0009090	homoserine biosynthetic process	P
+UniProtKB	F4K6Y8	GO:0009067	aspartate family amino acid biosynthetic process	P
+UniProtKB	F4K727	GO:0000162	tryptophan biosynthetic process	P
+UniProtKB	F4K7T6	GO:0019288	isopentenyl diphosphate biosynthetic process, methylerythritol 4-phosphate pathway	P
+UniProtKB	F4K7T6	GO:0019288	isopentenyl diphosphate biosynthetic process, methylerythritol 4-phosphate pathway	P
+UniProtKB	F4K7T6	GO:0008299	isoprenoid biosynthetic process	P
+UniProtKB	F4K856	GO:0031297	replication fork processing	P
+UniProtKB	F4K856	GO:0048478	replication fork protection	P
+UniProtKB	F4K8F7	GO:0030244	cellulose biosynthetic process	P
+UniProtKB	F4K8F7	GO:0006506	GPI anchor biosynthetic process	P
+UniProtKB	F4K9L3	GO:0006351	transcription, DNA-templated	P
+UniProtKB	F4KA12	GO:0006260	DNA replication	P
+UniProtKB	F4KAB8	GO:1902969	mitotic DNA replication	P
+UniProtKB	F4KAB8	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	P
+UniProtKB	F4KAB8	GO:0006268	DNA unwinding involved in DNA replication	P
+UniProtKB	F4KAB8	GO:0006268	DNA unwinding involved in DNA replication	P
+UniProtKB	F4KAK5	GO:0006646	phosphatidylethanolamine biosynthetic process	P
+UniProtKB	F4KBG5	GO:0006487	protein N-linked glycosylation	P
+UniProtKB	F4KDD7	GO:0006260	DNA replication	P
+UniProtKB	F4KE63	GO:0006438	valyl-tRNA aminoacylation	P
+UniProtKB	F4KEM0	GO:0006261	DNA-dependent DNA replication	P
+UniProtKB	F4KFB0	GO:0006427	histidyl-tRNA aminoacylation	P
+UniProtKB	F4KFB3	GO:0019252	starch biosynthetic process	P
+UniProtKB	F4KFG5	GO:0005992	trehalose biosynthetic process	P
+UniProtKB	F4KFT7	GO:0009228	thiamine biosynthetic process	P
+UniProtKB	F4KFT7	GO:0009228	thiamine biosynthetic process	P
+UniProtKB	F4KGM7	GO:0048354	mucilage biosynthetic process involved in seed coat development	P
+UniProtKB	F4KGW0	GO:0042761	very long-chain fatty acid biosynthetic process	P
+UniProtKB	F4KGX7	GO:0016117	carotenoid biosynthetic process	P
+UniProtKB	F4KGY0	GO:0006506	GPI anchor biosynthetic process	P
+UniProtKB	F4KHB6	GO:0006203	dGTP catabolic process	P
+UniProtKB	F4KHM4	GO:0019985	translesion synthesis	P
+UniProtKB	F4KHM4	GO:0031297	replication fork processing	P
+UniProtKB	F4KHM4	GO:0006264	mitochondrial DNA replication	P
+UniProtKB	F4KHP4	GO:0006260	DNA replication	P
+UniProtKB	F4KHQ8	GO:0042759	long-chain fatty acid biosynthetic process	P
+UniProtKB	F4KHQ8	GO:0046512	sphingosine biosynthetic process	P
+UniProtKB	F4KI56	GO:0006564	L-serine biosynthetic process	P
+UniProtKB	F4KI56	GO:0070179	D-serine biosynthetic process	P
+UniProtKB	F4KIN4	GO:0015940	pantothenate biosynthetic process	P
+UniProtKB	F4KJ05	GO:0006597	spermine biosynthetic process	P
+UniProtKB	F4KJ05	GO:0006596	polyamine biosynthetic process	P
+UniProtKB	F4KJ46	GO:0019432	triglyceride biosynthetic process	P
+UniProtKB	I3XHK1	GO:0071932	replication fork reversal	P
+UniProtKB	O04046	GO:0008299	isoprenoid biosynthetic process	P
+UniProtKB	O04202	GO:0006413	translational initiation	P
+UniProtKB	O04204	GO:0002181	cytoplasmic translation	P
+UniProtKB	O04316	GO:0080028	nitrile biosynthetic process	P
+UniProtKB	O04316	GO:0080028	nitrile biosynthetic process	P
+UniProtKB	O04318	GO:0080028	nitrile biosynthetic process	P
+UniProtKB	O04318	GO:0080028	nitrile biosynthetic process	P
+UniProtKB	O04319	GO:0006413	translational initiation	P
+UniProtKB	O04331	GO:0009697	salicylic acid biosynthetic process	P
+UniProtKB	O04500	GO:0052324	plant-type cell wall cellulose biosynthetic process	P
+UniProtKB	O04573	GO:0010192	mucilage biosynthetic process	P
+UniProtKB	O04575	GO:0010192	mucilage biosynthetic process	P
+UniProtKB	O04587	GO:0010192	mucilage biosynthetic process	P
+UniProtKB	O04630	GO:0006435	threonyl-tRNA aminoacylation	P
+UniProtKB	O04714	GO:0009094	L-phenylalanine biosynthetic process	P
+UniProtKB	O04714	GO:0006571	tyrosine biosynthetic process	P
+UniProtKB	O04904	GO:0006221	pyrimidine nucleotide biosynthetic process	P
+UniProtKB	O04904	GO:0006207	'de novo' pyrimidine nucleobase biosynthetic process	P
+UniProtKB	O04905	GO:0006225	UDP biosynthetic process	P
+UniProtKB	O04905	GO:0046705	CDP biosynthetic process	P
+UniProtKB	O04905	GO:0006221	pyrimidine nucleotide biosynthetic process	P
+UniProtKB	O04921	GO:0006783	heme biosynthetic process	P
+UniProtKB	O04921	GO:0033014	tetrapyrrole biosynthetic process	P
+UniProtKB	O04921	GO:0006783	heme biosynthetic process	P
+UniProtKB	O04921	GO:0006779	porphyrin-containing compound biosynthetic process	P
+UniProtKB	O04928	GO:0008654	phospholipid biosynthetic process	P
+UniProtKB	O22043	GO:0008299	isoprenoid biosynthetic process	P
+UniProtKB	O22056	GO:0006352	DNA-templated transcription, initiation	P
+UniProtKB	O22056	GO:0006352	DNA-templated transcription, initiation	P
+UniProtKB	O22165	GO:0006412	translation	P
+UniProtKB	O22184	GO:0051762	sesquiterpene biosynthetic process	P
+UniProtKB	O22203	GO:0009809	lignin biosynthetic process	P
+UniProtKB	O22203	GO:0009805	coumarin biosynthetic process	P
+UniProtKB	O22203	GO:0009699	phenylpropanoid biosynthetic process	P
+UniProtKB	O22203	GO:0009699	phenylpropanoid biosynthetic process	P
+UniProtKB	O22211	GO:0006489	dolichyl diphosphate biosynthetic process	P
+UniProtKB	O22241	GO:0009094	L-phenylalanine biosynthetic process	P
+UniProtKB	O22287	GO:0030244	cellulose biosynthetic process	P
+UniProtKB	O22287	GO:0019853	L-ascorbic acid biosynthetic process	P
+UniProtKB	O22622	GO:0006487	protein N-linked glycosylation	P
+UniProtKB	O22682	GO:0006535	cysteine biosynthetic process from serine	P
+UniProtKB	O22718	GO:0006085	acetyl-CoA biosynthetic process	P
+UniProtKB	O22765	GO:0000162	tryptophan biosynthetic process	P
+UniProtKB	O22775	GO:0009969	xyloglucan biosynthetic process	P
+UniProtKB	O22788	GO:1902609	(R)-2-hydroxy-alpha-linolenic acid biosynthetic process	P
+UniProtKB	O22943	GO:0052324	plant-type cell wall cellulose biosynthetic process	P
+UniProtKB	O22943	GO:0052324	plant-type cell wall cellulose biosynthetic process	P
+UniProtKB	O22943	GO:0052324	plant-type cell wall cellulose biosynthetic process	P
+UniProtKB	O22943	GO:0052324	plant-type cell wall cellulose biosynthetic process	P
+UniProtKB	O22951	GO:0015938	coenzyme A catabolic process	P
+UniProtKB	O22975	GO:0006654	phosphatidic acid biosynthetic process	P
+UniProtKB	O23051	GO:0009686	gibberellin biosynthetic process	P
+UniProtKB	O23095	GO:0002181	cytoplasmic translation	P
+UniProtKB	O23141	GO:0033388	putrescine biosynthetic process from arginine	P
+UniProtKB	O23141	GO:0006596	polyamine biosynthetic process	P
+UniProtKB	O23141	GO:0006596	polyamine biosynthetic process	P
+UniProtKB	O23141	GO:0009446	putrescine biosynthetic process	P
+UniProtKB	O23215	GO:0006352	DNA-templated transcription, initiation	P
+UniProtKB	O23247	GO:0006420	arginyl-tRNA aminoacylation	P
+UniProtKB	O23249	GO:0042023	DNA endoreduplication	P
+UniProtKB	O23249	GO:0042023	DNA endoreduplication	P
+UniProtKB	O23254	GO:0019264	glycine biosynthetic process from serine	P
+UniProtKB	O23346	GO:0000105	histidine biosynthetic process	P
+UniProtKB	O23390	GO:0016104	triterpenoid biosynthetic process	P
+UniProtKB	O23390	GO:0010686	tetracyclic triterpenoid biosynthetic process	P
+UniProtKB	O23514	GO:0006488	dolichol-linked oligosaccharide biosynthetic process	P
+UniProtKB	O23515	GO:0002181	cytoplasmic translation	P
+UniProtKB	O23553	GO:0000024	maltose biosynthetic process	P
+UniProtKB	O23617	GO:0005992	trehalose biosynthetic process	P
+UniProtKB	O23627	GO:0070150	mitochondrial glycyl-tRNA aminoacylation	P
+UniProtKB	O23627	GO:0006426	glycyl-tRNA aminoacylation	P
+UniProtKB	O23627	GO:0015966	diadenosine tetraphosphate biosynthetic process	P
+UniProtKB	O23651	GO:0051762	sesquiterpene biosynthetic process	P
+UniProtKB	O23651	GO:0046246	terpene biosynthetic process	P
+UniProtKB	O23653	GO:0009090	homoserine biosynthetic process	P
+UniProtKB	O23653	GO:0009089	lysine biosynthetic process via diaminopimelate	P
+UniProtKB	O23674	GO:0080110	sporopollenin biosynthetic process	P
+UniProtKB	O23722	GO:0019287	isopentenyl diphosphate biosynthetic process, mevalonate pathway	P
+UniProtKB	O23722	GO:0019287	isopentenyl diphosphate biosynthetic process, mevalonate pathway	P
+UniProtKB	O23722	GO:0019287	isopentenyl diphosphate biosynthetic process, mevalonate pathway	P
+UniProtKB	O24456	GO:0072344	rescue of stalled ribosome	P
+UniProtKB	O24457	GO:0006086	acetyl-CoA biosynthetic process from pyruvate	P
+UniProtKB	O24521	GO:0019432	triglyceride biosynthetic process	P
+UniProtKB	O24600	GO:0006390	mitochondrial transcription	P
+UniProtKB	O24621	GO:0006352	DNA-templated transcription, initiation	P
+UniProtKB	O24621	GO:0006352	DNA-templated transcription, initiation	P
+UniProtKB	O24629	GO:0006352	DNA-templated transcription, initiation	P
+UniProtKB	O24629	GO:0006352	DNA-templated transcription, initiation	P
+UniProtKB	O48520	GO:0006271	DNA strand elongation involved in DNA replication	P
+UniProtKB	O48533	GO:0042023	DNA endoreduplication	P
+UniProtKB	O48533	GO:0042023	DNA endoreduplication	P
+UniProtKB	O48538	GO:0050665	hydrogen peroxide biosynthetic process	P
+UniProtKB	O48593	GO:0006421	asparaginyl-tRNA aminoacylation	P
+UniProtKB	O48661	GO:0006596	polyamine biosynthetic process	P
+UniProtKB	O48661	GO:0008295	spermidine biosynthetic process	P
+UniProtKB	O48676	GO:0019761	glucosinolate biosynthetic process	P
+UniProtKB	O48696	GO:0006261	DNA-dependent DNA replication	P
+UniProtKB	O48721	GO:0006780	uroporphyrinogen III biosynthetic process	P
+UniProtKB	O48721	GO:0006780	uroporphyrinogen III biosynthetic process	P
+UniProtKB	O48721	GO:0006780	uroporphyrinogen III biosynthetic process	P
+UniProtKB	O48723	GO:0031408	oxylipin biosynthetic process	P
+UniProtKB	O48782	GO:0016117	carotenoid biosynthetic process	P
+UniProtKB	O48782	GO:0010024	phytochromobilin biosynthetic process	P
+UniProtKB	O48845	GO:0043447	alkane biosynthetic process	P
+UniProtKB	O48845	GO:0042761	very long-chain fatty acid biosynthetic process	P
+UniProtKB	O48847	GO:0010192	mucilage biosynthetic process	P
+UniProtKB	O48847	GO:0048358	mucilage pectin biosynthetic process	P
+UniProtKB	O48890	GO:0006367	transcription initiation from RNA polymerase II promoter	P
+UniProtKB	O48890	GO:0006366	transcription by RNA polymerase II	P
+UniProtKB	O48917	GO:0009247	glycolipid biosynthetic process	P
+UniProtKB	O48917	GO:0046506	sulfolipid biosynthetic process	P
+UniProtKB	O48917	GO:0009247	glycolipid biosynthetic process	P
+UniProtKB	O48946	GO:0030244	cellulose biosynthetic process	P
+UniProtKB	O48946	GO:0030244	cellulose biosynthetic process	P
+UniProtKB	O48947	GO:0030244	cellulose biosynthetic process	P
+UniProtKB	O49160	GO:0006413	translational initiation	P
+UniProtKB	O49213	GO:0019853	L-ascorbic acid biosynthetic process	P
+UniProtKB	O49301	GO:0009423	chorismate biosynthetic process	P
+UniProtKB	O49312	GO:0009684	indoleacetic acid biosynthetic process	P
+UniProtKB	O49326	GO:0080028	nitrile biosynthetic process	P
+UniProtKB	O49326	GO:0080028	nitrile biosynthetic process	P
+UniProtKB	O49354	GO:0006744	ubiquinone biosynthetic process	P
+UniProtKB	O49354	GO:0006744	ubiquinone biosynthetic process	P
+UniProtKB	O49482	GO:0009809	lignin biosynthetic process	P
+UniProtKB	O49482	GO:0009809	lignin biosynthetic process	P
+UniProtKB	O49482	GO:0009809	lignin biosynthetic process	P
+UniProtKB	O49499	GO:0009809	lignin biosynthetic process	P
+UniProtKB	O49499	GO:0009805	coumarin biosynthetic process	P
+UniProtKB	O49505	GO:0009688	abscisic acid biosynthetic process	P
+UniProtKB	O49506	GO:0050665	hydrogen peroxide biosynthetic process	P
+UniProtKB	O49730	GO:0044038	cell wall macromolecule biosynthetic process	P
+UniProtKB	O49782	GO:0009759	indole glucosinolate biosynthetic process	P
+UniProtKB	O50008	GO:0009086	methionine biosynthetic process	P
+UniProtKB	O50008	GO:0009086	methionine biosynthetic process	P
+UniProtKB	O50039	GO:0019240	citrulline biosynthetic process	P
+UniProtKB	O50039	GO:0042450	arginine biosynthetic process via ornithine	P
+UniProtKB	O50061	GO:0006412	translation	P
+UniProtKB	O64399	GO:0000162	tryptophan biosynthetic process	P
+UniProtKB	O64399	GO:0009759	indole glucosinolate biosynthetic process	P
+UniProtKB	O64470	GO:0080088	spermidine hydroxycinnamate conjugate biosynthetic process	P
+UniProtKB	O64490	GO:0001731	formation of translation preinitiation complex	P
+UniProtKB	O64614	GO:0052324	plant-type cell wall cellulose biosynthetic process	P
+UniProtKB	O64688	GO:0006086	acetyl-CoA biosynthetic process from pyruvate	P
+UniProtKB	O64692	GO:0009686	gibberellin biosynthetic process	P
+UniProtKB	O64728	GO:0006261	DNA-dependent DNA replication	P
+UniProtKB	O64753	GO:0019856	pyrimidine nucleobase biosynthetic process	P
+UniProtKB	O64753	GO:0006241	CTP biosynthetic process	P
+UniProtKB	O64761	GO:0006506	GPI anchor biosynthetic process	P
+UniProtKB	O64765	GO:0006048	UDP-N-acetylglucosamine biosynthetic process	P
+UniProtKB	O64886	GO:0006783	heme biosynthetic process	P
+UniProtKB	O64888	GO:0006164	purine nucleotide biosynthetic process	P
+UniProtKB	O64896	GO:0005992	trehalose biosynthetic process	P
+UniProtKB	O64896	GO:0005992	trehalose biosynthetic process	P
+UniProtKB	O65202	GO:0009695	jasmonic acid biosynthetic process	P
+UniProtKB	O65378	GO:0009693	ethylene biosynthetic process	P
+UniProtKB	O65434	GO:0051762	sesquiterpene biosynthetic process	P
+UniProtKB	O65435	GO:0051762	sesquiterpene biosynthetic process	P
+UniProtKB	O65607	GO:0043111	replication fork arrest	P
+UniProtKB	O65621	GO:0009809	lignin biosynthetic process	P
+UniProtKB	O65621	GO:0009809	lignin biosynthetic process	P
+UniProtKB	O65782	GO:0000162	tryptophan biosynthetic process	P
+UniProtKB	O65782	GO:0009759	indole glucosinolate biosynthetic process	P
+UniProtKB	O65782	GO:0009684	indoleacetic acid biosynthetic process	P
+UniProtKB	O65797	GO:0042761	very long-chain fatty acid biosynthetic process	P
+UniProtKB	O80386	GO:0015995	chlorophyll biosynthetic process	P
+UniProtKB	O80386	GO:0015995	chlorophyll biosynthetic process	P
+UniProtKB	O80434	GO:0009809	lignin biosynthetic process	P
+UniProtKB	O80434	GO:0009809	lignin biosynthetic process	P
+UniProtKB	O80439	GO:0032544	plastid translation	P
+UniProtKB	O80439	GO:0032544	plastid translation	P
+UniProtKB	O80446	GO:0042823	pyridoxal phosphate biosynthetic process	P
+UniProtKB	O80446	GO:0008615	pyridoxine biosynthetic process	P
+UniProtKB	O80448	GO:0042823	pyridoxal phosphate biosynthetic process	P
+UniProtKB	O80448	GO:0008615	pyridoxine biosynthetic process	P
+UniProtKB	O80452	GO:0006188	IMP biosynthetic process	P
+UniProtKB	O80458	GO:0016094	polyprenol biosynthetic process	P
+UniProtKB	O80458	GO:0019408	dolichol biosynthetic process	P
+UniProtKB	O80501	GO:0052324	plant-type cell wall cellulose biosynthetic process	P
+UniProtKB	O80505	GO:0006487	protein N-linked glycosylation	P
+UniProtKB	O80526	GO:0006085	acetyl-CoA biosynthetic process	P
+UniProtKB	O80574	GO:0019877	diaminopimelate biosynthetic process	P
+UniProtKB	O80575	GO:0009231	riboflavin biosynthetic process	P
+UniProtKB	O80585	GO:0009086	methionine biosynthetic process	P
+UniProtKB	O80612	GO:0009134	nucleoside diphosphate catabolic process	P
+UniProtKB	O80678	GO:0009693	ethylene biosynthetic process	P
+UniProtKB	O80685	GO:0018230	peptidyl-L-cysteine S-palmitoylation	P
+UniProtKB	O80690	GO:0009809	lignin biosynthetic process	P
+UniProtKB	O80713	GO:0009688	abscisic acid biosynthetic process	P
+UniProtKB	O80738	GO:0005992	trehalose biosynthetic process	P
+UniProtKB	O80765	GO:0015937	coenzyme A biosynthetic process	P
+UniProtKB	O80765	GO:0015937	coenzyme A biosynthetic process	P
+UniProtKB	O80770	GO:0006368	transcription elongation from RNA polymerase II promoter	P
+UniProtKB	O80786	GO:0006270	DNA replication initiation	P
+UniProtKB	O80786	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	P
+UniProtKB	O80786	GO:0006268	DNA unwinding involved in DNA replication	P
+UniProtKB	O80840	GO:0006487	protein N-linked glycosylation	P
+UniProtKB	O80840	GO:0019853	L-ascorbic acid biosynthetic process	P
+UniProtKB	O80919	GO:0045492	xylan biosynthetic process	P
+UniProtKB	O80929	GO:0002181	cytoplasmic translation	P
+UniProtKB	O80940	GO:0045492	xylan biosynthetic process	P
+UniProtKB	O80952	GO:0046474	glycerophospholipid biosynthetic process	P
+UniProtKB	O80952	GO:0008654	phospholipid biosynthetic process	P
+UniProtKB	O80952	GO:0008654	phospholipid biosynthetic process	P
+UniProtKB	O81007	GO:0010192	mucilage biosynthetic process	P
+UniProtKB	O81024	GO:0008654	phospholipid biosynthetic process	P
+UniProtKB	O81027	GO:0046951	ketone body biosynthetic process	P
+UniProtKB	O81030	GO:0019853	L-ascorbic acid biosynthetic process	P
+UniProtKB	O81053	GO:0009969	xyloglucan biosynthetic process	P
+UniProtKB	O81242	GO:0042023	DNA endoreduplication	P
+UniProtKB	O81270	GO:0031408	oxylipin biosynthetic process	P
+UniProtKB	O81346	GO:0010120	camalexin biosynthetic process	P
+UniProtKB	O81346	GO:0009684	indoleacetic acid biosynthetic process	P
+UniProtKB	O81770	GO:0009247	glycolipid biosynthetic process	P
+UniProtKB	O81787	GO:0006352	DNA-templated transcription, initiation	P
+UniProtKB	O81829	GO:0010120	camalexin biosynthetic process	P
+UniProtKB	O81852	GO:0009090	homoserine biosynthetic process	P
+UniProtKB	O81852	GO:0009067	aspartate family amino acid biosynthetic process	P
+UniProtKB	O81884	GO:0019853	L-ascorbic acid biosynthetic process	P
+UniProtKB	O81884	GO:0019853	L-ascorbic acid biosynthetic process	P
+UniProtKB	O82209	GO:0015986	ATP synthesis coupled proton transport	P
+UniProtKB	O82244	GO:0006486	protein glycosylation	P
+UniProtKB	O82244	GO:0006486	protein glycosylation	P
+UniProtKB	O82268	GO:0009299	mRNA transcription	P
+UniProtKB	O82268	GO:0009299	mRNA transcription	P
+UniProtKB	O82357	GO:0015940	pantothenate biosynthetic process	P
+UniProtKB	O82387	GO:0042023	DNA endoreduplication	P
+UniProtKB	O82392	GO:0009228	thiamine biosynthetic process	P
+UniProtKB	O82413	GO:0006427	histidyl-tRNA aminoacylation	P
+UniProtKB	O82413	GO:0006427	histidyl-tRNA aminoacylation	P
+UniProtKB	O82462	GO:0006425	glutaminyl-tRNA aminoacylation	P
+UniProtKB	O82491	GO:0006368	transcription elongation from RNA polymerase II promoter	P
+UniProtKB	O82498	GO:0009807	lignan biosynthetic process	P
+UniProtKB	O82623	GO:0017183	peptidyl-diphthamide biosynthetic process from peptidyl-histidine	P
+UniProtKB	O82768	GO:0000105	histidine biosynthetic process	P
+UniProtKB	O82782	GO:0000105	histidine biosynthetic process	P
+UniProtKB	O82782	GO:0000162	tryptophan biosynthetic process	P
+UniProtKB	O82782	GO:0000105	histidine biosynthetic process	P
+UniProtKB	O82796	GO:0006564	L-serine biosynthetic process	P
+UniProtKB	O82796	GO:0006564	L-serine biosynthetic process	P
+UniProtKB	P05466	GO:0009423	chorismate biosynthetic process	P
+UniProtKB	P05466	GO:0009423	chorismate biosynthetic process	P
+UniProtKB	P09468	GO:0015986	ATP synthesis coupled proton transport	P
+UniProtKB	P0C8Y0	GO:0016104	triterpenoid biosynthetic process	P
+UniProtKB	P0DH99	GO:0006412	translation	P
+UniProtKB	P0DH99	GO:0006414	translational elongation	P
+UniProtKB	P0DI07	GO:0000105	histidine biosynthetic process	P
+UniProtKB	P11035	GO:0006809	nitric oxide biosynthetic process	P
+UniProtKB	P11035	GO:0006809	nitric oxide biosynthetic process	P
+UniProtKB	P11829	GO:0006633	fatty acid biosynthetic process	P
+UniProtKB	P11832	GO:0006809	nitric oxide biosynthetic process	P
+UniProtKB	P11832	GO:0006809	nitric oxide biosynthetic process	P
+UniProtKB	P14671	GO:0000162	tryptophan biosynthetic process	P
+UniProtKB	P14671	GO:0009684	indoleacetic acid biosynthetic process	P
+UniProtKB	P14891	GO:0008299	isoprenoid biosynthetic process	P
+UniProtKB	P14891	GO:0019287	isopentenyl diphosphate biosynthetic process, mevalonate pathway	P
+UniProtKB	P14891	GO:0008299	isoprenoid biosynthetic process	P
+UniProtKB	P16127	GO:0015995	chlorophyll biosynthetic process	P
+UniProtKB	P16127	GO:0015995	chlorophyll biosynthetic process	P
+UniProtKB	P16180	GO:0032544	plastid translation	P
+UniProtKB	P17562	GO:0006556	S-adenosylmethionine biosynthetic process	P
+UniProtKB	P17597	GO:0009099	valine biosynthetic process	P
+UniProtKB	P17597	GO:0009097	isoleucine biosynthetic process	P
+UniProtKB	P17597	GO:0009099	valine biosynthetic process	P
+UniProtKB	P17745	GO:0006414	translational elongation	P
+UniProtKB	P17745	GO:0070125	mitochondrial translational elongation	P
+UniProtKB	P18064	GO:0009094	L-phenylalanine biosynthetic process	P
+UniProtKB	P18064	GO:0006571	tyrosine biosynthetic process	P
+UniProtKB	P19366	GO:0042776	mitochondrial ATP synthesis coupled proton transport	P
+UniProtKB	P23686	GO:0006556	S-adenosylmethionine biosynthetic process	P
+UniProtKB	P23686	GO:0009693	ethylene biosynthetic process	P
+UniProtKB	P23686	GO:0009693	ethylene biosynthetic process	P
+UniProtKB	P24100	GO:0042023	DNA endoreduplication	P
+UniProtKB	P25269	GO:0000162	tryptophan biosynthetic process	P
+UniProtKB	P25269	GO:0000162	tryptophan biosynthetic process	P
+UniProtKB	P25851	GO:0005986	sucrose biosynthetic process	P
+UniProtKB	P25859	GO:0042023	DNA endoreduplication	P
+UniProtKB	P25864	GO:0006412	translation	P
+UniProtKB	P25873	GO:0006412	translation	P
+UniProtKB	P26289	GO:0006744	ubiquinone biosynthetic process	P
+UniProtKB	P28147	GO:0006352	DNA-templated transcription, initiation	P
+UniProtKB	P28148	GO:0006352	DNA-templated transcription, initiation	P
+UniProtKB	P28148	GO:0006352	DNA-templated transcription, initiation	P
+UniProtKB	P29976	GO:0009073	aromatic amino acid family biosynthetic process	P
+UniProtKB	P29976	GO:0009423	chorismate biosynthetic process	P
+UniProtKB	P30181	GO:0006260	DNA replication	P
+UniProtKB	P31166	GO:0044209	AMP salvage	P
+UniProtKB	P32068	GO:0000162	tryptophan biosynthetic process	P
+UniProtKB	P32068	GO:0000162	tryptophan biosynthetic process	P
+UniProtKB	P32068	GO:0000162	tryptophan biosynthetic process	P
+UniProtKB	P32069	GO:0000162	tryptophan biosynthetic process	P
+UniProtKB	P32746	GO:0006207	'de novo' pyrimidine nucleobase biosynthetic process	P
+UniProtKB	P32746	GO:0009220	pyrimidine ribonucleotide biosynthetic process	P
+UniProtKB	P32746	GO:0009220	pyrimidine ribonucleotide biosynthetic process	P
+UniProtKB	P32961	GO:0009684	indoleacetic acid biosynthetic process	P
+UniProtKB	P32962	GO:0009684	indoleacetic acid biosynthetic process	P
+UniProtKB	P33207	GO:0030497	fatty acid elongation	P
+UniProtKB	P34047	GO:0000105	histidine biosynthetic process	P
+UniProtKB	P34047	GO:0000105	histidine biosynthetic process	P
+UniProtKB	P34047	GO:0000105	histidine biosynthetic process	P
+UniProtKB	P34788	GO:0006413	translational initiation	P
+UniProtKB	P34802	GO:0008299	isoprenoid biosynthetic process	P
+UniProtKB	P34802	GO:0043693	monoterpene biosynthetic process	P
+UniProtKB	P35614	GO:0002184	cytoplasmic translational termination	P
+UniProtKB	P35614	GO:0006415	translational termination	P
+UniProtKB	P36210	GO:0006412	translation	P
+UniProtKB	P36211	GO:0006412	translation	P
+UniProtKB	P36212	GO:0006412	translation	P
+UniProtKB	P36428	GO:0006419	alanyl-tRNA aminoacylation	P
+UniProtKB	P37271	GO:0016117	carotenoid biosynthetic process	P
+UniProtKB	P37271	GO:0016117	carotenoid biosynthetic process	P
+UniProtKB	P38025	GO:0006189	'de novo' IMP biosynthetic process	P
+UniProtKB	P38418	GO:0009695	jasmonic acid biosynthetic process	P
+UniProtKB	P38421	GO:0006367	transcription initiation from RNA polymerase II promoter	P
+UniProtKB	P38605	GO:0019745	pentacyclic triterpenoid biosynthetic process	P
+UniProtKB	P38666	GO:0006412	translation	P
+UniProtKB	P39697	GO:0006412	translation	P
+UniProtKB	P41376	GO:0002183	cytoplasmic translational initiation	P
+UniProtKB	P41377	GO:0002183	cytoplasmic translational initiation	P
+UniProtKB	P42036	GO:0006412	translation	P
+UniProtKB	P42043	GO:0006783	heme biosynthetic process	P
+UniProtKB	P42043	GO:0033014	tetrapyrrole biosynthetic process	P
+UniProtKB	P42043	GO:0006783	heme biosynthetic process	P
+UniProtKB	P42339	GO:0036092	phosphatidylinositol-3-phosphate biosynthetic process	P
+UniProtKB	P42339	GO:0046854	phosphatidylinositol phosphate biosynthetic process	P
+UniProtKB	P42731	GO:0006413	translational initiation	P
+UniProtKB	P42734	GO:0009809	lignin biosynthetic process	P
+UniProtKB	P42738	GO:0009073	aromatic amino acid family biosynthetic process	P
+UniProtKB	P42738	GO:0009073	aromatic amino acid family biosynthetic process	P
+UniProtKB	P42738	GO:1901747	prephenate(2-) biosynthetic process	P
+UniProtKB	P42794	GO:0006412	translation	P
+UniProtKB	P42795	GO:0006412	translation	P
+UniProtKB	P42797	GO:0006412	translation	P
+UniProtKB	P42799	GO:0006779	porphyrin-containing compound biosynthetic process	P
+UniProtKB	P42801	GO:0006021	inositol biosynthetic process	P
+UniProtKB	P42801	GO:0006659	phosphatidylserine biosynthetic process	P
+UniProtKB	P42801	GO:0006021	inositol biosynthetic process	P
+UniProtKB	P42804	GO:0015995	chlorophyll biosynthetic process	P
+UniProtKB	P42804	GO:0006783	heme biosynthetic process	P
+UniProtKB	P43256	GO:0008299	isoprenoid biosynthetic process	P
+UniProtKB	P43256	GO:0008299	isoprenoid biosynthetic process	P
+UniProtKB	P43256	GO:0016104	triterpenoid biosynthetic process	P
+UniProtKB	P43299	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	P
+UniProtKB	P43299	GO:0006268	DNA unwinding involved in DNA replication	P
+UniProtKB	P43299	GO:0006270	DNA replication initiation	P
+UniProtKB	P43299	GO:0006271	DNA strand elongation involved in DNA replication	P
+UniProtKB	P43299	GO:0006268	DNA unwinding involved in DNA replication	P
+UniProtKB	P45724	GO:0009699	phenylpropanoid biosynthetic process	P
+UniProtKB	P46086	GO:0019287	isopentenyl diphosphate biosynthetic process, mevalonate pathway	P
+UniProtKB	P46283	GO:0005986	sucrose biosynthetic process	P
+UniProtKB	P46283	GO:0019252	starch biosynthetic process	P
+UniProtKB	P46283	GO:0005986	sucrose biosynthetic process	P
+UniProtKB	P46286	GO:0002181	cytoplasmic translation	P
+UniProtKB	P46309	GO:0019761	glucosinolate biosynthetic process	P
+UniProtKB	P46309	GO:0006750	glutathione biosynthetic process	P
+UniProtKB	P46309	GO:0006750	glutathione biosynthetic process	P
+UniProtKB	P46309	GO:0006750	glutathione biosynthetic process	P
+UniProtKB	P46309	GO:0009700	indole phytoalexin biosynthetic process	P
+UniProtKB	P46310	GO:0006633	fatty acid biosynthetic process	P
+UniProtKB	P46312	GO:0006633	fatty acid biosynthetic process	P
+UniProtKB	P46416	GO:0006750	glutathione biosynthetic process	P
+UniProtKB	P46637	GO:0033389	putrescine biosynthetic process from arginine, using agmatinase	P
+UniProtKB	P46637	GO:0033389	putrescine biosynthetic process from arginine, using agmatinase	P
+UniProtKB	P47924	GO:0009231	riboflavin biosynthetic process	P
+UniProtKB	P47924	GO:0009231	riboflavin biosynthetic process	P
+UniProtKB	P47996	GO:0006183	GTP biosynthetic process	P
+UniProtKB	P47998	GO:0006535	cysteine biosynthetic process from serine	P
+UniProtKB	P47998	GO:0019344	cysteine biosynthetic process	P
+UniProtKB	P47998	GO:0006535	cysteine biosynthetic process from serine	P
+UniProtKB	P47999	GO:0006535	cysteine biosynthetic process from serine	P
+UniProtKB	P47999	GO:0019344	cysteine biosynthetic process	P
+UniProtKB	P48006	GO:0006414	translational elongation	P
+UniProtKB	P48421	GO:0019761	glucosinolate biosynthetic process	P
+UniProtKB	P48422	GO:0010345	suberin biosynthetic process	P
+UniProtKB	P48491	GO:0046166	glyceraldehyde-3-phosphate biosynthetic process	P
+UniProtKB	P48512	GO:0006352	DNA-templated transcription, initiation	P
+UniProtKB	P48523	GO:0009809	lignin biosynthetic process	P
+UniProtKB	P48523	GO:0009809	lignin biosynthetic process	P
+UniProtKB	P48622	GO:0006633	fatty acid biosynthetic process	P
+UniProtKB	P48623	GO:0006636	unsaturated fatty acid biosynthetic process	P
+UniProtKB	P49078	GO:0006529	asparagine biosynthetic process	P
+UniProtKB	P49078	GO:0006529	asparagine biosynthetic process	P
+UniProtKB	P49201	GO:0006412	translation	P
+UniProtKB	P49204	GO:0006412	translation	P
+UniProtKB	P49209	GO:0002181	cytoplasmic translation	P
+UniProtKB	P49294	GO:0033014	tetrapyrrole biosynthetic process	P
+UniProtKB	P49294	GO:0006783	heme biosynthetic process	P
+UniProtKB	P49333	GO:0050665	hydrogen peroxide biosynthetic process	P
+UniProtKB	P49572	GO:0000162	tryptophan biosynthetic process	P
+UniProtKB	P49572	GO:0000162	tryptophan biosynthetic process	P
+UniProtKB	P49688	GO:0006412	translation	P
+UniProtKB	P50318	GO:0019375	galactolipid biosynthetic process	P
+UniProtKB	P50546	GO:0006354	DNA-templated transcription, elongation	P
+UniProtKB	P50883	GO:0006412	translation	P
+UniProtKB	P51413	GO:0002181	cytoplasmic translation	P
+UniProtKB	P51414	GO:0002181	cytoplasmic translation	P
+UniProtKB	P51420	GO:0002181	cytoplasmic translation	P
+UniProtKB	P51422	GO:0002181	cytoplasmic translation	P
+UniProtKB	P51427	GO:0006412	translation	P
+UniProtKB	P52410	GO:0006633	fatty acid biosynthetic process	P
+UniProtKB	P52422	GO:0006189	'de novo' IMP biosynthetic process	P
+UniProtKB	P52901	GO:0006086	acetyl-CoA biosynthetic process from pyruvate	P
+UniProtKB	P53665	GO:0006633	fatty acid biosynthetic process	P
+UniProtKB	P53780	GO:0019343	cysteine biosynthetic process via cystathionine	P
+UniProtKB	P53780	GO:0019279	L-methionine biosynthetic process from L-homoserine via cystathionine	P
+UniProtKB	P54873	GO:0010142	farnesyl diphosphate biosynthetic process, mevalonate pathway	P
+UniProtKB	P54873	GO:0019287	isopentenyl diphosphate biosynthetic process, mevalonate pathway	P
+UniProtKB	P54887	GO:0006561	proline biosynthetic process	P
+UniProtKB	P54887	GO:0006561	proline biosynthetic process	P
+UniProtKB	P54887	GO:0006561	proline biosynthetic process	P
+UniProtKB	P54888	GO:0006561	proline biosynthetic process	P
+UniProtKB	P54888	GO:0006561	proline biosynthetic process	P
+UniProtKB	P54904	GO:0055129	L-proline biosynthetic process	P
+UniProtKB	P54967	GO:0009102	biotin biosynthetic process	P
+UniProtKB	P55217	GO:0009086	methionine biosynthetic process	P
+UniProtKB	P55228	GO:0019252	starch biosynthetic process	P
+UniProtKB	P55228	GO:0019252	starch biosynthetic process	P
+UniProtKB	P55230	GO:0019252	starch biosynthetic process	P
+UniProtKB	P55231	GO:0019252	starch biosynthetic process	P
+UniProtKB	P55826	GO:0006783	heme biosynthetic process	P
+UniProtKB	P55826	GO:0006779	porphyrin-containing compound biosynthetic process	P
+UniProtKB	P56757	GO:0015986	ATP synthesis coupled proton transport	P
+UniProtKB	P56760	GO:0015986	ATP synthesis coupled proton transport	P
+UniProtKB	P56791	GO:0002181	cytoplasmic translation	P
+UniProtKB	P56793	GO:0032543	mitochondrial translation	P
+UniProtKB	P56802	GO:0006412	translation	P
+UniProtKB	P56804	GO:0006412	translation	P
+UniProtKB	P56820	GO:0006413	translational initiation	P
+UniProtKB	P57691	GO:0002181	cytoplasmic translation	P
+UniProtKB	P57720	GO:0009423	chorismate biosynthetic process	P
+UniProtKB	P57720	GO:0009073	aromatic amino acid family biosynthetic process	P
+UniProtKB	P57750	GO:0006048	UDP-N-acetylglucosamine biosynthetic process	P
+UniProtKB	P59224	GO:0006412	translation	P
+UniProtKB	P60112	GO:0015986	ATP synthesis coupled proton transport	P
+UniProtKB	P61841	GO:0006412	translation	P
+UniProtKB	P62126	GO:0006412	translation	P
+UniProtKB	P69834	GO:0019288	isopentenyl diphosphate biosynthetic process, methylerythritol 4-phosphate pathway	P
+UniProtKB	P83483	GO:0042776	mitochondrial ATP synthesis coupled proton transport	P
+UniProtKB	P83484	GO:0042776	mitochondrial ATP synthesis coupled proton transport	P
+UniProtKB	P84634	GO:0006353	DNA-templated transcription, termination	P
+UniProtKB	P92532	GO:0006412	translation	P
+UniProtKB	P92541	GO:0015986	ATP synthesis coupled proton transport	P
+UniProtKB	P92547	GO:0015986	ATP synthesis coupled proton transport	P
+UniProtKB	P92549	GO:0015986	ATP synthesis coupled proton transport	P
+UniProtKB	P92557	GO:0006412	translation	P
+UniProtKB	P92959	GO:0006412	translation	P
+UniProtKB	P92959	GO:0032544	plastid translation	P
+UniProtKB	P92969	GO:0006390	mitochondrial transcription	P
+UniProtKB	P92994	GO:0006744	ubiquinone biosynthetic process	P
+UniProtKB	P93014	GO:0006412	translation	P
+UniProtKB	P93014	GO:0032544	plastid translation	P
+UniProtKB	P93031	GO:0042351	'de novo' GDP-L-fucose biosynthetic process	P
+UniProtKB	P93031	GO:0042351	'de novo' GDP-L-fucose biosynthetic process	P
+UniProtKB	P93278	GO:0015986	ATP synthesis coupled proton transport	P
+UniProtKB	P93298	GO:0015986	ATP synthesis coupled proton transport	P
+UniProtKB	P93311	GO:0032543	mitochondrial translation	P
+UniProtKB	P93736	GO:0006438	valyl-tRNA aminoacylation	P
+UniProtKB	P93832	GO:0009098	leucine biosynthetic process	P
+UniProtKB	P93832	GO:0009098	leucine biosynthetic process	P
+UniProtKB	P93832	GO:0009098	leucine biosynthetic process	P
+UniProtKB	P93832	GO:0009098	leucine biosynthetic process	P
+UniProtKB	P93832	GO:0009098	leucine biosynthetic process	P
+UniProtKB	P94063	GO:0015937	coenzyme A biosynthetic process	P
+UniProtKB	P94063	GO:0015937	coenzyme A biosynthetic process	P
+UniProtKB	Q01908	GO:0015986	ATP synthesis coupled proton transport	P
+UniProtKB	Q01908	GO:0015986	ATP synthesis coupled proton transport	P
+UniProtKB	Q01908	GO:0006754	ATP biosynthetic process	P
+UniProtKB	Q01909	GO:0015986	ATP synthesis coupled proton transport	P
+UniProtKB	Q01909	GO:0015986	ATP synthesis coupled proton transport	P
+UniProtKB	Q02166	GO:0000162	tryptophan biosynthetic process	P
+UniProtKB	Q02166	GO:0000162	tryptophan biosynthetic process	P
+UniProtKB	Q02971	GO:0009809	lignin biosynthetic process	P
+UniProtKB	Q02971	GO:0009809	lignin biosynthetic process	P
+UniProtKB	Q02972	GO:0009809	lignin biosynthetic process	P
+UniProtKB	Q02972	GO:0009809	lignin biosynthetic process	P
+UniProtKB	Q05196	GO:0006413	translational initiation	P
+UniProtKB	Q05431	GO:0009809	lignin biosynthetic process	P
+UniProtKB	Q05431	GO:0009809	lignin biosynthetic process	P
+UniProtKB	Q05431	GO:0009809	lignin biosynthetic process	P
+UniProtKB	Q05431	GO:0009809	lignin biosynthetic process	P
+UniProtKB	Q05431	GO:0009699	phenylpropanoid biosynthetic process	P
+UniProtKB	Q05609	GO:0009686	gibberellin biosynthetic process	P
+UniProtKB	Q05728	GO:0006164	purine nucleotide biosynthetic process	P
+UniProtKB	Q05728	GO:0046084	adenine biosynthetic process	P
+UniProtKB	Q05758	GO:0009097	isoleucine biosynthetic process	P
+UniProtKB	Q05758	GO:0009099	valine biosynthetic process	P
+UniProtKB	Q05762	GO:0006231	dTMP biosynthetic process	P
+UniProtKB	Q05762	GO:0009257	10-formyltetrahydrofolate biosynthetic process	P
+UniProtKB	Q05763	GO:0006231	dTMP biosynthetic process	P
+UniProtKB	Q05763	GO:0009257	10-formyltetrahydrofolate biosynthetic process	P
+UniProtKB	Q06402	GO:0009693	ethylene biosynthetic process	P
+UniProtKB	Q06429	GO:0009693	ethylene biosynthetic process	P
+UniProtKB	Q06588	GO:0009693	ethylene biosynthetic process	P
+UniProtKB	Q06588	GO:0009693	ethylene biosynthetic process	P
+UniProtKB	Q07356	GO:0016117	carotenoid biosynthetic process	P
+UniProtKB	Q07356	GO:0016117	carotenoid biosynthetic process	P
+UniProtKB	Q08682	GO:0002181	cytoplasmic translation	P
+UniProtKB	Q08682	GO:0006412	translation	P
+UniProtKB	Q08891	GO:0010345	suberin biosynthetic process	P
+UniProtKB	Q09152	GO:0045337	farnesyl diphosphate biosynthetic process	P
+UniProtKB	Q09152	GO:0045337	farnesyl diphosphate biosynthetic process	P
+UniProtKB	Q0WL56	GO:0006412	translation	P
+UniProtKB	Q0WL56	GO:0006414	translational elongation	P
+UniProtKB	Q0WL80	GO:0018279	protein N-linked glycosylation via asparagine	P
+UniProtKB	Q0WNW0	GO:0009969	xyloglucan biosynthetic process	P
+UniProtKB	Q0WNZ5	GO:0009086	methionine biosynthetic process	P
+UniProtKB	Q0WNZ5	GO:0009086	methionine biosynthetic process	P
+UniProtKB	Q0WPA5	GO:0052325	cell wall pectin biosynthetic process	P
+UniProtKB	Q0WPF2	GO:0006369	termination of RNA polymerase II transcription	P
+UniProtKB	Q0WPK3	GO:0006497	protein lipidation	P
+UniProtKB	Q0WPS0	GO:0045492	xylan biosynthetic process	P
+UniProtKB	Q0WPT7	GO:0006744	ubiquinone biosynthetic process	P
+UniProtKB	Q0WPW4	GO:0009693	ethylene biosynthetic process	P
+UniProtKB	Q0WPX9	GO:0046854	phosphatidylinositol phosphate biosynthetic process	P
+UniProtKB	Q0WQ07	GO:0046246	terpene biosynthetic process	P
+UniProtKB	Q0WQ07	GO:0046246	terpene biosynthetic process	P
+UniProtKB	Q0WQK2	GO:0018230	peptidyl-L-cysteine S-palmitoylation	P
+UniProtKB	Q0WRB0	GO:0010345	suberin biosynthetic process	P
+UniProtKB	Q0WRB0	GO:0010345	suberin biosynthetic process	P
+UniProtKB	Q0WRJ2	GO:0030148	sphingolipid biosynthetic process	P
+UniProtKB	Q0WRJ2	GO:0030148	sphingolipid biosynthetic process	P
+UniProtKB	Q0WRY1	GO:0006241	CTP biosynthetic process	P
+UniProtKB	Q0WRY1	GO:0019856	pyrimidine nucleobase biosynthetic process	P
+UniProtKB	Q0WSH6	GO:0019288	isopentenyl diphosphate biosynthetic process, methylerythritol 4-phosphate pathway	P
+UniProtKB	Q0WSH6	GO:0019287	isopentenyl diphosphate biosynthetic process, mevalonate pathway	P
+UniProtKB	Q0WUA3	GO:0042371	vitamin K biosynthetic process	P
+UniProtKB	Q0WUA3	GO:0042372	phylloquinone biosynthetic process	P
+UniProtKB	Q0WUA3	GO:0032194	ubiquinone biosynthetic process via 3,4-dihydroxy-5-polyprenylbenzoate	P
+UniProtKB	Q0WUA3	GO:0010236	plastoquinone biosynthetic process	P
+UniProtKB	Q0WUA3	GO:0042372	phylloquinone biosynthetic process	P
+UniProtKB	Q0WUI9	GO:0005992	trehalose biosynthetic process	P
+UniProtKB	Q0WUR1	GO:0001731	formation of translation preinitiation complex	P
+UniProtKB	Q0WUR5	GO:0046854	phosphatidylinositol phosphate biosynthetic process	P
+UniProtKB	Q0WV13	GO:0052325	cell wall pectin biosynthetic process	P
+UniProtKB	Q0WVF5	GO:0006271	DNA strand elongation involved in DNA replication	P
+UniProtKB	Q0WVF5	GO:0006268	DNA unwinding involved in DNA replication	P
+UniProtKB	Q0WVF5	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	P
+UniProtKB	Q0WVF5	GO:1902975	mitotic DNA replication initiation	P
+UniProtKB	Q0WVF5	GO:0006268	DNA unwinding involved in DNA replication	P
+UniProtKB	Q0WVQ3	GO:0006383	transcription by RNA polymerase III	P
+UniProtKB	Q0WVQ3	GO:0006352	DNA-templated transcription, initiation	P
+UniProtKB	Q0WVW7	GO:0006268	DNA unwinding involved in DNA replication	P
+UniProtKB	Q0WW17	GO:0045492	xylan biosynthetic process	P
+UniProtKB	Q0WW17	GO:0045492	xylan biosynthetic process	P
+UniProtKB	Q0WW55	GO:0006227	dUDP biosynthetic process	P
+UniProtKB	Q0WW55	GO:0006233	dTDP biosynthetic process	P
+UniProtKB	Q0WW55	GO:0006235	dTTP biosynthetic process	P
+UniProtKB	Q15KI9	GO:0042372	phylloquinone biosynthetic process	P
+UniProtKB	Q1EBS5	GO:0002181	cytoplasmic translation	P
+UniProtKB	Q1ENB6	GO:0046654	tetrahydrofolate biosynthetic process	P
+UniProtKB	Q1ENB6	GO:0046654	tetrahydrofolate biosynthetic process	P
+UniProtKB	Q1G3F7	GO:0002183	cytoplasmic translational initiation	P
+UniProtKB	Q1G3W0	GO:0006383	transcription by RNA polymerase III	P
+UniProtKB	Q1G3Z3	GO:0006412	translation	P
+UniProtKB	Q1H537	GO:0015995	chlorophyll biosynthetic process	P
+UniProtKB	Q1H537	GO:0015995	chlorophyll biosynthetic process	P
+UniProtKB	Q1H568	GO:0006261	DNA-dependent DNA replication	P
+UniProtKB	Q1H568	GO:0000731	DNA synthesis involved in DNA repair	P
+UniProtKB	Q1PEE4	GO:0006352	DNA-templated transcription, initiation	P
+UniProtKB	Q1PEI6	GO:0010345	suberin biosynthetic process	P
+UniProtKB	Q1PEV9	GO:0006361	transcription initiation from RNA polymerase I promoter	P
+UniProtKB	Q1PFD9	GO:0045492	xylan biosynthetic process	P
+UniProtKB	Q24JJ8	GO:0050665	hydrogen peroxide biosynthetic process	P
+UniProtKB	Q2PGG3	GO:0070179	D-serine biosynthetic process	P
+UniProtKB	Q2PGG3	GO:0042866	pyruvate biosynthetic process	P
+UniProtKB	Q2V3B2	GO:0042023	DNA endoreduplication	P
+UniProtKB	Q304B9	GO:0042759	long-chain fatty acid biosynthetic process	P
+UniProtKB	Q304B9	GO:0046512	sphingosine biosynthetic process	P
+UniProtKB	Q304C3	GO:0015986	ATP synthesis coupled proton transport	P
+UniProtKB	Q37001	GO:0009693	ethylene biosynthetic process	P
+UniProtKB	Q38799	GO:0006086	acetyl-CoA biosynthetic process from pyruvate	P
+UniProtKB	Q38802	GO:0009686	gibberellin biosynthetic process	P
+UniProtKB	Q38802	GO:0016102	diterpenoid biosynthetic process	P
+UniProtKB	Q38802	GO:0009686	gibberellin biosynthetic process	P
+UniProtKB	Q38814	GO:0018131	oxazole or thiazole biosynthetic process	P
+UniProtKB	Q38814	GO:0009228	thiamine biosynthetic process	P
+UniProtKB	Q38814	GO:0009228	thiamine biosynthetic process	P
+UniProtKB	Q38819	GO:0042023	DNA endoreduplication	P
+UniProtKB	Q38850	GO:0048354	mucilage biosynthetic process involved in seed coat development	P
+UniProtKB	Q38854	GO:0015995	chlorophyll biosynthetic process	P
+UniProtKB	Q38854	GO:0019288	isopentenyl diphosphate biosynthetic process, methylerythritol 4-phosphate pathway	P
+UniProtKB	Q38854	GO:0015995	chlorophyll biosynthetic process	P
+UniProtKB	Q38861	GO:0006367	transcription initiation from RNA polymerase II promoter	P
+UniProtKB	Q38862	GO:0006021	inositol biosynthetic process	P
+UniProtKB	Q38874	GO:0009691	cytokinin biosynthetic process	P
+UniProtKB	Q38884	GO:0002183	cytoplasmic translational initiation	P
+UniProtKB	Q38890	GO:0030244	cellulose biosynthetic process	P
+UniProtKB	Q38890	GO:0030244	cellulose biosynthetic process	P
+UniProtKB	Q38893	GO:0016120	carotene biosynthetic process	P
+UniProtKB	Q38893	GO:0016117	carotenoid biosynthetic process	P
+UniProtKB	Q38893	GO:0016117	carotenoid biosynthetic process	P
+UniProtKB	Q38893	GO:1901177	lycopene biosynthetic process	P
+UniProtKB	Q38899	GO:0006260	DNA replication	P
+UniProtKB	Q38929	GO:0009240	isopentenyl diphosphate biosynthetic process	P
+UniProtKB	Q38929	GO:0009240	isopentenyl diphosphate biosynthetic process	P
+UniProtKB	Q38932	GO:0016123	xanthophyll biosynthetic process	P
+UniProtKB	Q38932	GO:0016120	carotene biosynthetic process	P
+UniProtKB	Q38932	GO:0006744	ubiquinone biosynthetic process	P
+UniProtKB	Q38932	GO:0016123	xanthophyll biosynthetic process	P
+UniProtKB	Q38932	GO:0016117	carotenoid biosynthetic process	P
+UniProtKB	Q38933	GO:0016123	xanthophyll biosynthetic process	P
+UniProtKB	Q38933	GO:0016120	carotene biosynthetic process	P
+UniProtKB	Q38933	GO:0006744	ubiquinone biosynthetic process	P
+UniProtKB	Q38933	GO:0016117	carotenoid biosynthetic process	P
+UniProtKB	Q38970	GO:0030497	fatty acid elongation	P
+UniProtKB	Q39023	GO:0010120	camalexin biosynthetic process	P
+UniProtKB	Q39026	GO:0010120	camalexin biosynthetic process	P
+UniProtKB	Q39048	GO:0042761	very long-chain fatty acid biosynthetic process	P
+UniProtKB	Q39054	GO:0006777	Mo-molybdopterin cofactor biosynthetic process	P
+UniProtKB	Q39054	GO:0032324	molybdopterin cofactor biosynthetic process	P
+UniProtKB	Q39055	GO:0006777	Mo-molybdopterin cofactor biosynthetic process	P
+UniProtKB	Q39080	GO:0006487	protein N-linked glycosylation	P
+UniProtKB	Q39097	GO:0002184	cytoplasmic translational termination	P
+UniProtKB	Q39097	GO:0006415	translational termination	P
+UniProtKB	Q39103	GO:0009686	gibberellin biosynthetic process	P
+UniProtKB	Q39103	GO:0009686	gibberellin biosynthetic process	P
+UniProtKB	Q39108	GO:0043693	monoterpene biosynthetic process	P
+UniProtKB	Q39110	GO:0009686	gibberellin biosynthetic process	P
+UniProtKB	Q39110	GO:0009686	gibberellin biosynthetic process	P
+UniProtKB	Q39111	GO:0009686	gibberellin biosynthetic process	P
+UniProtKB	Q39111	GO:0009686	gibberellin biosynthetic process	P
+UniProtKB	Q39112	GO:0009686	gibberellin biosynthetic process	P
+UniProtKB	Q39112	GO:0009686	gibberellin biosynthetic process	P
+UniProtKB	Q39112	GO:0009686	gibberellin biosynthetic process	P
+UniProtKB	Q39152	GO:0010345	suberin biosynthetic process	P
+UniProtKB	Q39152	GO:0010345	suberin biosynthetic process	P
+UniProtKB	Q39168	GO:0010192	mucilage biosynthetic process	P
+UniProtKB	Q39218	GO:0019344	cysteine biosynthetic process	P
+UniProtKB	Q39230	GO:0006434	seryl-tRNA aminoacylation	P
+UniProtKB	Q39236	GO:0051123	RNA polymerase II preinitiation complex assembly	P
+UniProtKB	Q3B724	GO:0006075	(1->3)-beta-D-glucan biosynthetic process	P
+UniProtKB	Q3E7K4	GO:0019252	starch biosynthetic process	P
+UniProtKB	Q3E983	GO:0046854	phosphatidylinositol phosphate biosynthetic process	P
+UniProtKB	Q3E9D5	GO:0006597	spermine biosynthetic process	P
+UniProtKB	Q3E9D5	GO:0008295	spermidine biosynthetic process	P
+UniProtKB	Q3E9D5	GO:0008295	spermidine biosynthetic process	P
+UniProtKB	Q3E9D5	GO:0006597	spermine biosynthetic process	P
+UniProtKB	Q3EBC2	GO:0018230	peptidyl-L-cysteine S-palmitoylation	P
+UniProtKB	Q3EBF7	GO:0030148	sphingolipid biosynthetic process	P
+UniProtKB	Q3EC11	GO:0018230	peptidyl-L-cysteine S-palmitoylation	P
+UniProtKB	Q3EC44	GO:0015986	ATP synthesis coupled proton transport	P
+UniProtKB	Q3ECP0	GO:0006360	transcription by RNA polymerase I	P
+UniProtKB	Q3ECP0	GO:0006366	transcription by RNA polymerase II	P
+UniProtKB	Q3ED65	GO:0006744	ubiquinone biosynthetic process	P
+UniProtKB	Q3ED65	GO:0042372	phylloquinone biosynthetic process	P
+UniProtKB	Q3EDG5	GO:0015015	heparan sulfate proteoglycan biosynthetic process, enzymatic modification	P
+UniProtKB	Q41931	GO:0009693	ethylene biosynthetic process	P
+UniProtKB	Q41969	GO:0001731	formation of translation preinitiation complex	P
+UniProtKB	Q41969	GO:0001732	formation of cytoplasmic translation initiation complex	P
+UniProtKB	Q42064	GO:0002181	cytoplasmic translation	P
+UniProtKB	Q42112	GO:0002181	cytoplasmic translation	P
+UniProtKB	Q42347	GO:0006412	translation	P
+UniProtKB	Q42440	GO:0000162	tryptophan biosynthetic process	P
+UniProtKB	Q42440	GO:0000162	tryptophan biosynthetic process	P
+UniProtKB	Q42522	GO:0006779	porphyrin-containing compound biosynthetic process	P
+UniProtKB	Q42527	GO:0000162	tryptophan biosynthetic process	P
+UniProtKB	Q42527	GO:0000162	tryptophan biosynthetic process	P
+UniProtKB	Q42529	GO:0000162	tryptophan biosynthetic process	P
+UniProtKB	Q42529	GO:0000162	tryptophan biosynthetic process	P
+UniProtKB	Q42533	GO:0006633	fatty acid biosynthetic process	P
+UniProtKB	Q42553	GO:0009240	isopentenyl diphosphate biosynthetic process	P
+UniProtKB	Q42561	GO:0006633	fatty acid biosynthetic process	P
+UniProtKB	Q42563	GO:0006168	adenine salvage	P
+UniProtKB	Q42565	GO:0000162	tryptophan biosynthetic process	P
+UniProtKB	Q42565	GO:0000162	tryptophan biosynthetic process	P
+UniProtKB	Q42572	GO:0006273	lagging strand elongation	P
+UniProtKB	Q42572	GO:0006260	DNA replication	P
+UniProtKB	Q42581	GO:0006164	purine nucleotide biosynthetic process	P

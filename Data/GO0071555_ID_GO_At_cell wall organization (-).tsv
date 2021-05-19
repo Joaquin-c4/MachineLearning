@@ -1,0 +1,566 @@
+﻿GENE PRODUCT DB	GENE PRODUCT ID	GO TERM	GO NAME	GO ASPECT
+UniProtKB	A7XDQ9	GO:0010405	arabinogalactan protein metabolic process	P
+UniProtKB	A8MRC4	GO:0071668	plant-type cell wall assembly	P
+UniProtKB	B9DFR3	GO:0071555	cell wall organization	P
+UniProtKB	B9DFR3	GO:0071555	cell wall organization	P
+UniProtKB	B9DH97	GO:0009920	cell plate formation involved in plant-type cell wall biogenesis	P
+UniProtKB	C0LGL9	GO:0009664	plant-type cell wall organization	P
+UniProtKB	F4HPC1	GO:0009828	plant-type cell wall loosening	P
+UniProtKB	F4HR76	GO:0010407	non-classical arabinogalactan protein metabolic process	P
+UniProtKB	F4HUY1	GO:0052543	callose deposition in cell wall	P
+UniProtKB	F4HZC3	GO:0045492	xylan biosynthetic process	P
+UniProtKB	F4I107	GO:0071555	cell wall organization	P
+UniProtKB	F4I2W6	GO:0010306	rhamnogalacturonan II biosynthetic process	P
+UniProtKB	F4I6V0	GO:0042546	cell wall biogenesis	P
+UniProtKB	F4I718	GO:0052324	plant-type cell wall cellulose biosynthetic process	P
+UniProtKB	F4I839	GO:0071555	cell wall organization	P
+UniProtKB	F4I9D5	GO:0009664	plant-type cell wall organization	P
+UniProtKB	F4IA77	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	F4IH21	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	F4IH21	GO:1990937	xylan acetylation	P
+UniProtKB	F4IIM1	GO:0010215	cellulose microfibril organization	P
+UniProtKB	F4IIM1	GO:0010215	cellulose microfibril organization	P
+UniProtKB	F4IIM1	GO:0009833	plant-type primary cell wall biogenesis	P
+UniProtKB	F4IVV0	GO:0010215	cellulose microfibril organization	P
+UniProtKB	F4J9G0	GO:0009832	plant-type cell wall biogenesis	P
+UniProtKB	F4JCI4	GO:0010405	arabinogalactan protein metabolic process	P
+UniProtKB	F4JIK9	GO:0010405	arabinogalactan protein metabolic process	P
+UniProtKB	F4JSU0	GO:0009664	plant-type cell wall organization	P
+UniProtKB	F4K6F1	GO:0009969	xyloglucan biosynthetic process	P
+UniProtKB	F4K6F1	GO:0009969	xyloglucan biosynthetic process	P
+UniProtKB	F4K8F7	GO:0009832	plant-type cell wall biogenesis	P
+UniProtKB	F4KE06	GO:0045493	xylan catabolic process	P
+UniProtKB	F4KGM7	GO:0009832	plant-type cell wall biogenesis	P
+UniProtKB	O04500	GO:0052324	plant-type cell wall cellulose biosynthetic process	P
+UniProtKB	O04523	GO:0010411	xyloglucan metabolic process	P
+UniProtKB	O22244	GO:0009827	plant-type cell wall modification	P
+UniProtKB	O22666	GO:0009832	plant-type cell wall biogenesis	P
+UniProtKB	O22775	GO:0009969	xyloglucan biosynthetic process	P
+UniProtKB	O22775	GO:0010411	xyloglucan metabolic process	P
+UniProtKB	O22807	GO:0042546	cell wall biogenesis	P
+UniProtKB	O22943	GO:0052324	plant-type cell wall cellulose biosynthetic process	P
+UniProtKB	O22943	GO:0052324	plant-type cell wall cellulose biosynthetic process	P
+UniProtKB	O22943	GO:0052324	plant-type cell wall cellulose biosynthetic process	P
+UniProtKB	O22943	GO:0052324	plant-type cell wall cellulose biosynthetic process	P
+UniProtKB	O22960	GO:0009827	plant-type cell wall modification	P
+UniProtKB	O23147	GO:0009830	cell wall modification involved in abscission	P
+UniProtKB	O23386	GO:0009833	plant-type primary cell wall biogenesis	P
+UniProtKB	O48676	GO:0052544	defense response by callose deposition in cell wall	P
+UniProtKB	O48847	GO:0009827	plant-type cell wall modification	P
+UniProtKB	O48847	GO:0009827	plant-type cell wall modification	P
+UniProtKB	O48946	GO:0009833	plant-type primary cell wall biogenesis	P
+UniProtKB	O48946	GO:0009833	plant-type primary cell wall biogenesis	P
+UniProtKB	O48947	GO:0009833	plant-type primary cell wall biogenesis	P
+UniProtKB	O49323	GO:0009833	plant-type primary cell wall biogenesis	P
+UniProtKB	O49607	GO:0009827	plant-type cell wall modification	P
+UniProtKB	O49730	GO:0044038	cell wall macromolecule biosynthetic process	P
+UniProtKB	O49730	GO:0071555	cell wall organization	P
+UniProtKB	O49782	GO:0052544	defense response by callose deposition in cell wall	P
+UniProtKB	O64614	GO:0052324	plant-type cell wall cellulose biosynthetic process	P
+UniProtKB	O64883	GO:0052544	defense response by callose deposition in cell wall	P
+UniProtKB	O65431	GO:0042546	cell wall biogenesis	P
+UniProtKB	O65782	GO:0052544	defense response by callose deposition in cell wall	P
+UniProtKB	O80434	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	O80501	GO:0052324	plant-type cell wall cellulose biosynthetic process	P
+UniProtKB	O80731	GO:0071555	cell wall organization	P
+UniProtKB	O80731	GO:0071555	cell wall organization	P
+UniProtKB	O80803	GO:0010411	xyloglucan metabolic process	P
+UniProtKB	O80891	GO:0009833	plant-type primary cell wall biogenesis	P
+UniProtKB	O80898	GO:0009833	plant-type primary cell wall biogenesis	P
+UniProtKB	O80899	GO:0009833	plant-type primary cell wall biogenesis	P
+UniProtKB	O80919	GO:0045492	xylan biosynthetic process	P
+UniProtKB	O80940	GO:1990937	xylan acetylation	P
+UniProtKB	O80940	GO:0045492	xylan biosynthetic process	P
+UniProtKB	O80940	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	O80940	GO:0010411	xyloglucan metabolic process	P
+UniProtKB	O81053	GO:0009969	xyloglucan biosynthetic process	P
+UniProtKB	O81346	GO:0052544	defense response by callose deposition in cell wall	P
+UniProtKB	O81417	GO:0009832	plant-type cell wall biogenesis	P
+UniProtKB	O82481	GO:0009664	plant-type cell wall organization	P
+UniProtKB	P21216	GO:0052546	cell wall pectin metabolic process	P
+UniProtKB	P21216	GO:0052386	cell wall thickening	P
+UniProtKB	P24806	GO:0009828	plant-type cell wall loosening	P
+UniProtKB	P24806	GO:0071669	plant-type cell wall organization or biogenesis	P
+UniProtKB	P28185	GO:0042546	cell wall biogenesis	P
+UniProtKB	P31414	GO:0052546	cell wall pectin metabolic process	P
+UniProtKB	P42697	GO:0009920	cell plate formation involved in plant-type cell wall biogenesis	P
+UniProtKB	P42697	GO:0009920	cell plate formation involved in plant-type cell wall biogenesis	P
+UniProtKB	P42697	GO:0009920	cell plate formation involved in plant-type cell wall biogenesis	P
+UniProtKB	P42697	GO:0009920	cell plate formation involved in plant-type cell wall biogenesis	P
+UniProtKB	P46309	GO:0052544	defense response by callose deposition in cell wall	P
+UniProtKB	P49333	GO:0052544	defense response by callose deposition in cell wall	P
+UniProtKB	P57751	GO:0052543	callose deposition in cell wall	P
+UniProtKB	P93042	GO:0009832	plant-type cell wall biogenesis	P
+UniProtKB	P93046	GO:0016998	cell wall macromolecule catabolic process	P
+UniProtKB	Q0WNP7	GO:0009664	plant-type cell wall organization	P
+UniProtKB	Q0WNP7	GO:0009664	plant-type cell wall organization	P
+UniProtKB	Q0WNP7	GO:0009664	plant-type cell wall organization	P
+UniProtKB	Q0WNW0	GO:0009969	xyloglucan biosynthetic process	P
+UniProtKB	Q0WPA5	GO:0010412	mannan metabolic process	P
+UniProtKB	Q0WPA5	GO:0052325	cell wall pectin biosynthetic process	P
+UniProtKB	Q0WPN7	GO:0009832	plant-type cell wall biogenesis	P
+UniProtKB	Q0WPN7	GO:0009664	plant-type cell wall organization	P
+UniProtKB	Q0WPS0	GO:0010411	xyloglucan metabolic process	P
+UniProtKB	Q0WPS0	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	Q0WPS0	GO:0045492	xylan biosynthetic process	P
+UniProtKB	Q0WPS0	GO:1990937	xylan acetylation	P
+UniProtKB	Q0WT40	GO:0009833	plant-type primary cell wall biogenesis	P
+UniProtKB	Q0WV12	GO:0009827	plant-type cell wall modification	P
+UniProtKB	Q0WV13	GO:0052325	cell wall pectin biosynthetic process	P
+UniProtKB	Q0WVN5	GO:0009833	plant-type primary cell wall biogenesis	P
+UniProtKB	Q0WW17	GO:0010411	xyloglucan metabolic process	P
+UniProtKB	Q0WW17	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	Q0WW17	GO:0045492	xylan biosynthetic process	P
+UniProtKB	Q0WW17	GO:1990937	xylan acetylation	P
+UniProtKB	Q0WW17	GO:0010411	xyloglucan metabolic process	P
+UniProtKB	Q0WW17	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	Q0WW17	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	Q0WW17	GO:0045492	xylan biosynthetic process	P
+UniProtKB	Q0WW17	GO:0045491	xylan metabolic process	P
+UniProtKB	Q0WW17	GO:0045491	xylan metabolic process	P
+UniProtKB	Q0WW17	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	Q0WW17	GO:1990937	xylan acetylation	P
+UniProtKB	Q1PFD9	GO:0045492	xylan biosynthetic process	P
+UniProtKB	Q38857	GO:0009664	plant-type cell wall organization	P
+UniProtKB	Q38907	GO:0009832	plant-type cell wall biogenesis	P
+UniProtKB	Q38958	GO:0052546	cell wall pectin metabolic process	P
+UniProtKB	Q39085	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	Q39088	GO:0042545	cell wall modification	P
+UniProtKB	Q39099	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	Q39258	GO:0009832	plant-type cell wall biogenesis	P
+UniProtKB	Q42371	GO:0009664	plant-type cell wall organization	P
+UniProtKB	Q42510	GO:0071555	cell wall organization	P
+UniProtKB	Q42529	GO:0052544	defense response by callose deposition in cell wall	P
+UniProtKB	Q4V398	GO:0010395	rhamnogalacturonan I metabolic process	P
+UniProtKB	Q500V2	GO:0009827	plant-type cell wall modification	P
+UniProtKB	Q501D8	GO:0052544	defense response by callose deposition in cell wall	P
+UniProtKB	Q570S7	GO:0009833	plant-type primary cell wall biogenesis	P
+UniProtKB	Q5PP23	GO:0009827	plant-type cell wall modification	P
+UniProtKB	Q5XEZ1	GO:0010405	arabinogalactan protein metabolic process	P
+UniProtKB	Q66GM8	GO:0071555	cell wall organization	P
+UniProtKB	Q66GQ5	GO:1990937	xylan acetylation	P
+UniProtKB	Q66GQ5	GO:0045492	xylan biosynthetic process	P
+UniProtKB	Q66GQ5	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	Q66GQ5	GO:0010411	xyloglucan metabolic process	P
+UniProtKB	Q66GQ5	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	Q66GQ5	GO:0045492	xylan biosynthetic process	P
+UniProtKB	Q66GQ5	GO:0045491	xylan metabolic process	P
+UniProtKB	Q66GQ5	GO:0045491	xylan metabolic process	P
+UniProtKB	Q66GQ5	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	Q66GQ5	GO:1990937	xylan acetylation	P
+UniProtKB	Q67Z07	GO:0009664	plant-type cell wall organization	P
+UniProtKB	Q6DBP4	GO:0071555	cell wall organization	P
+UniProtKB	Q6DR41	GO:0071669	plant-type cell wall organization or biogenesis	P
+UniProtKB	Q6NKR6	GO:0010409	extensin metabolic process	P
+UniProtKB	Q6NKW9	GO:0009664	plant-type cell wall organization	P
+UniProtKB	Q6NMK1	GO:0045492	xylan biosynthetic process	P
+UniProtKB	Q6NMK1	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	Q6NMK1	GO:0045491	xylan metabolic process	P
+UniProtKB	Q6NMM8	GO:0010417	glucuronoxylan biosynthetic process	P
+UniProtKB	Q6NNL9	GO:0052543	callose deposition in cell wall	P
+UniProtKB	Q6NNL9	GO:0052543	callose deposition in cell wall	P
+UniProtKB	Q6NNL9	GO:0071433	cell wall repair	P
+UniProtKB	Q6NNL9	GO:0071433	cell wall repair	P
+UniProtKB	Q6NQL4	GO:0010306	rhamnogalacturonan II biosynthetic process	P
+UniProtKB	Q6R0C4	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	Q6R0C4	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	Q7XJ98	GO:0009969	xyloglucan biosynthetic process	P
+UniProtKB	Q7XZU3	GO:0009832	plant-type cell wall biogenesis	P
+UniProtKB	Q7Y223	GO:0010412	mannan metabolic process	P
+UniProtKB	Q84JA6	GO:0009833	plant-type primary cell wall biogenesis	P
+UniProtKB	Q84JA6	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	Q84JA6	GO:0052386	cell wall thickening	P
+UniProtKB	Q84JS1	GO:0071555	cell wall organization	P
+UniProtKB	Q84TK1	GO:0052543	callose deposition in cell wall	P
+UniProtKB	Q84WP6	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	Q84WP6	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	Q84WU6	GO:0052543	callose deposition in cell wall	P
+UniProtKB	Q8GS71	GO:0010215	cellulose microfibril organization	P
+UniProtKB	Q8GS71	GO:0009832	plant-type cell wall biogenesis	P
+UniProtKB	Q8GWT1	GO:0052325	cell wall pectin biosynthetic process	P
+UniProtKB	Q8GWW4	GO:0045492	xylan biosynthetic process	P
+UniProtKB	Q8GWW4	GO:0010417	glucuronoxylan biosynthetic process	P
+UniProtKB	Q8GWW4	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	Q8GWW4	GO:0045492	xylan biosynthetic process	P
+UniProtKB	Q8GWW4	GO:0045492	xylan biosynthetic process	P
+UniProtKB	Q8GX46	GO:0052543	callose deposition in cell wall	P
+UniProtKB	Q8GXG6	GO:0010405	arabinogalactan protein metabolic process	P
+UniProtKB	Q8GY42	GO:0009831	plant-type cell wall modification involved in multidimensional cell growth	P
+UniProtKB	Q8GYX3	GO:0009832	plant-type cell wall biogenesis	P
+UniProtKB	Q8GYY5	GO:0009664	plant-type cell wall organization	P
+UniProtKB	Q8GYY5	GO:0009664	plant-type cell wall organization	P
+UniProtKB	Q8L707	GO:0010417	glucuronoxylan biosynthetic process	P
+UniProtKB	Q8L707	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	Q8L707	GO:0045491	xylan metabolic process	P
+UniProtKB	Q8L707	GO:0010417	glucuronoxylan biosynthetic process	P
+UniProtKB	Q8L707	GO:0010246	rhamnogalacturonan I biosynthetic process	P
+UniProtKB	Q8L707	GO:0045492	xylan biosynthetic process	P
+UniProtKB	Q8L778	GO:0009833	plant-type primary cell wall biogenesis	P
+UniProtKB	Q8L778	GO:0009833	plant-type primary cell wall biogenesis	P
+UniProtKB	Q8L7C8	GO:1990937	xylan acetylation	P
+UniProtKB	Q8L7C8	GO:0045492	xylan biosynthetic process	P
+UniProtKB	Q8L7C8	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	Q8L7C8	GO:0010411	xyloglucan metabolic process	P
+UniProtKB	Q8L7C8	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	Q8L7C8	GO:0045492	xylan biosynthetic process	P
+UniProtKB	Q8L7C8	GO:0045491	xylan metabolic process	P
+UniProtKB	Q8L7C8	GO:0045491	xylan metabolic process	P
+UniProtKB	Q8L7C8	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	Q8L7C8	GO:1990937	xylan acetylation	P
+UniProtKB	Q8L8Q7	GO:0052324	plant-type cell wall cellulose biosynthetic process	P
+UniProtKB	Q8L8Q7	GO:0010215	cellulose microfibril organization	P
+UniProtKB	Q8L8Q7	GO:0009832	plant-type cell wall biogenesis	P
+UniProtKB	Q8L8Q7	GO:0009664	plant-type cell wall organization	P
+UniProtKB	Q8L8Q7	GO:0052324	plant-type cell wall cellulose biosynthetic process	P
+UniProtKB	Q8LBX7	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	Q8LC45	GO:0009831	plant-type cell wall modification involved in multidimensional cell growth	P
+UniProtKB	Q8LDW9	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	Q8LED3	GO:0009827	plant-type cell wall modification	P
+UniProtKB	Q8LED3	GO:0045492	xylan biosynthetic process	P
+UniProtKB	Q8LEE9	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	Q8LEE9	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	Q8LEJ6	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	Q8LEJ6	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	Q8LFH5	GO:0052543	callose deposition in cell wall	P
+UniProtKB	Q8LPG9	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	Q8LPK5	GO:0009833	plant-type primary cell wall biogenesis	P
+UniProtKB	Q8LPK5	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	Q8LPK5	GO:0052386	cell wall thickening	P
+UniProtKB	Q8RWE8	GO:0052544	defense response by callose deposition in cell wall	P
+UniProtKB	Q8RWQ4	GO:0009920	cell plate formation involved in plant-type cell wall biogenesis	P
+UniProtKB	Q8RX55	GO:0010405	arabinogalactan protein metabolic process	P
+UniProtKB	Q8RX83	GO:0009833	plant-type primary cell wall biogenesis	P
+UniProtKB	Q8RXD8	GO:0009827	plant-type cell wall modification	P
+UniProtKB	Q8RXQ1	GO:0045492	xylan biosynthetic process	P
+UniProtKB	Q8RY29	GO:0009830	cell wall modification involved in abscission	P
+UniProtKB	Q8VWF1	GO:0009920	cell plate formation involved in plant-type cell wall biogenesis	P
+UniProtKB	Q8VWJ1	GO:0071555	cell wall organization	P
+UniProtKB	Q8VXZ5	GO:0052325	cell wall pectin biosynthetic process	P
+UniProtKB	Q8VXZ5	GO:0052325	cell wall pectin biosynthetic process	P
+UniProtKB	Q8VYR4	GO:0009833	plant-type primary cell wall biogenesis	P
+UniProtKB	Q8VYU8	GO:0009664	plant-type cell wall organization	P
+UniProtKB	Q8VZK9	GO:0009833	plant-type primary cell wall biogenesis	P
+UniProtKB	Q8W112	GO:0009969	xyloglucan biosynthetic process	P
+UniProtKB	Q8W4A7	GO:0045492	xylan biosynthetic process	P
+UniProtKB	Q8W4A7	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	Q8W4A7	GO:0045492	xylan biosynthetic process	P
+UniProtKB	Q8W4A7	GO:0045492	xylan biosynthetic process	P
+UniProtKB	Q8W4A7	GO:0045492	xylan biosynthetic process	P
+UniProtKB	Q93V56	GO:0042546	cell wall biogenesis	P
+UniProtKB	Q93V56	GO:0042546	cell wall biogenesis	P
+UniProtKB	Q93V66	GO:0071668	plant-type cell wall assembly	P
+UniProtKB	Q93VH1	GO:0052324	plant-type cell wall cellulose biosynthetic process	P
+UniProtKB	Q93W95	GO:0042546	cell wall biogenesis	P
+UniProtKB	Q93W95	GO:0052546	cell wall pectin metabolic process	P
+UniProtKB	Q93YQ7	GO:0009828	plant-type cell wall loosening	P
+UniProtKB	Q93Z02	GO:0042545	cell wall modification	P
+UniProtKB	Q93Z04	GO:0042547	cell wall modification involved in multidimensional cell growth	P
+UniProtKB	Q93ZC9	GO:0042546	cell wall biogenesis	P
+UniProtKB	Q940B8	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	Q940J8	GO:0071555	cell wall organization	P
+UniProtKB	Q940Q8	GO:0010417	glucuronoxylan biosynthetic process	P
+UniProtKB	Q940Q8	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	Q940Q8	GO:0010417	glucuronoxylan biosynthetic process	P
+UniProtKB	Q940Q8	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	Q940Q8	GO:0045492	xylan biosynthetic process	P
+UniProtKB	Q940Q8	GO:0045492	xylan biosynthetic process	P
+UniProtKB	Q940Q8	GO:0042546	cell wall biogenesis	P
+UniProtKB	Q941L0	GO:0009833	plant-type primary cell wall biogenesis	P
+UniProtKB	Q941L0	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	Q941L0	GO:0009833	plant-type primary cell wall biogenesis	P
+UniProtKB	Q944K2	GO:0009664	plant-type cell wall organization	P
+UniProtKB	Q949Q1	GO:0010246	rhamnogalacturonan I biosynthetic process	P
+UniProtKB	Q949Z1	GO:0009831	plant-type cell wall modification involved in multidimensional cell growth	P
+UniProtKB	Q94A05	GO:0010405	arabinogalactan protein metabolic process	P
+UniProtKB	Q94AP3	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	Q94CD1	GO:0052325	cell wall pectin biosynthetic process	P
+UniProtKB	Q94F27	GO:0010405	arabinogalactan protein metabolic process	P
+UniProtKB	Q94FN2	GO:0009920	cell plate formation involved in plant-type cell wall biogenesis	P
+UniProtKB	Q94JQ6	GO:0009833	plant-type primary cell wall biogenesis	P
+UniProtKB	Q94JQ6	GO:0009833	plant-type primary cell wall biogenesis	P
+UniProtKB	Q94KD8	GO:0045493	xylan catabolic process	P
+UniProtKB	Q94KT8	GO:0052324	plant-type cell wall cellulose biosynthetic process	P
+UniProtKB	Q94KT8	GO:0010215	cellulose microfibril organization	P
+UniProtKB	Q9ASW1	GO:0010405	arabinogalactan protein metabolic process	P
+UniProtKB	Q9AV97	GO:0010306	rhamnogalacturonan II biosynthetic process	P
+UniProtKB	Q9C7F9	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	Q9C7F9	GO:0045492	xylan biosynthetic process	P
+UniProtKB	Q9C7F9	GO:0009827	plant-type cell wall modification	P
+UniProtKB	Q9C7W7	GO:0010306	rhamnogalacturonan II biosynthetic process	P
+UniProtKB	Q9C7W7	GO:0010246	rhamnogalacturonan I biosynthetic process	P
+UniProtKB	Q9C7W7	GO:0009969	xyloglucan biosynthetic process	P
+UniProtKB	Q9C7W7	GO:0009832	plant-type cell wall biogenesis	P
+UniProtKB	Q9C7W7	GO:0042546	cell wall biogenesis	P
+UniProtKB	Q9C878	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	Q9C8W9	GO:0045491	xylan metabolic process	P
+UniProtKB	Q9C9J1	GO:0045492	xylan biosynthetic process	P
+UniProtKB	Q9C9J1	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	Q9C9Q8	GO:0010289	homogalacturonan biosynthetic process	P
+UniProtKB	Q9C9X0	GO:0009832	plant-type cell wall biogenesis	P
+UniProtKB	Q9C9Z9	GO:0010215	cellulose microfibril organization	P
+UniProtKB	Q9C9Z9	GO:0009831	plant-type cell wall modification involved in multidimensional cell growth	P
+UniProtKB	Q9CA71	GO:0009969	xyloglucan biosynthetic process	P
+UniProtKB	Q9CA75	GO:0009969	xyloglucan biosynthetic process	P
+UniProtKB	Q9CA75	GO:0010411	xyloglucan metabolic process	P
+UniProtKB	Q9CAC1	GO:0042547	cell wall modification involved in multidimensional cell growth	P
+UniProtKB	Q9CAX3	GO:0042545	cell wall modification	P
+UniProtKB	Q9CAX3	GO:0042545	cell wall modification	P
+UniProtKB	Q9CAX8	GO:0009664	plant-type cell wall organization	P
+UniProtKB	Q9CAX8	GO:0009664	plant-type cell wall organization	P
+UniProtKB	Q9FFD2	GO:0009832	plant-type cell wall biogenesis	P
+UniProtKB	Q9FFD5	GO:0010215	cellulose microfibril organization	P
+UniProtKB	Q9FFH6	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	Q9FFN4	GO:0009827	plant-type cell wall modification	P
+UniProtKB	Q9FFZ7	GO:0042545	cell wall modification	P
+UniProtKB	Q9FFZ7	GO:0042545	cell wall modification	P
+UniProtKB	Q9FG35	GO:0009827	plant-type cell wall modification	P
+UniProtKB	Q9FGQ2	GO:0052543	callose deposition in cell wall	P
+UniProtKB	Q9FGY1	GO:0045493	xylan catabolic process	P
+UniProtKB	Q9FH36	GO:0010417	glucuronoxylan biosynthetic process	P
+UniProtKB	Q9FH36	GO:0010413	glucuronoxylan metabolic process	P
+UniProtKB	Q9FH36	GO:0045492	xylan biosynthetic process	P
+UniProtKB	Q9FH36	GO:0071555	cell wall organization	P
+UniProtKB	Q9FH82	GO:0071555	cell wall organization	P
+UniProtKB	Q9FH90	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	Q9FH90	GO:0010417	glucuronoxylan biosynthetic process	P
+UniProtKB	Q9FH90	GO:0010417	glucuronoxylan biosynthetic process	P
+UniProtKB	Q9FH92	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	Q9FH92	GO:0045492	xylan biosynthetic process	P
+UniProtKB	Q9FH92	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	Q9FH92	GO:0045492	xylan biosynthetic process	P
+UniProtKB	Q9FI79	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	Q9FIF9	GO:0042546	cell wall biogenesis	P
+UniProtKB	Q9FJN8	GO:0042546	cell wall biogenesis	P
+UniProtKB	Q9FJR5	GO:0071669	plant-type cell wall organization or biogenesis	P
+UniProtKB	Q9FJW9	GO:0010406	classical arabinogalactan protein metabolic process	P
+UniProtKB	Q9FJZ3	GO:0009828	plant-type cell wall loosening	P
+UniProtKB	Q9FK68	GO:0042546	cell wall biogenesis	P
+UniProtKB	Q9FKL8	GO:0010411	xyloglucan metabolic process	P
+UniProtKB	Q9FKL9	GO:0010411	xyloglucan metabolic process	P
+UniProtKB	Q9FL28	GO:0052544	defense response by callose deposition in cell wall	P
+UniProtKB	Q9FLA5	GO:0009832	plant-type cell wall biogenesis	P
+UniProtKB	Q9FLG1	GO:0045493	xylan catabolic process	P
+UniProtKB	Q9FLG1	GO:0045493	xylan catabolic process	P
+UniProtKB	Q9FMA0	GO:0009828	plant-type cell wall loosening	P
+UniProtKB	Q9FME5	GO:0052324	plant-type cell wall cellulose biosynthetic process	P
+UniProtKB	Q9FMP8	GO:0009920	cell plate formation involved in plant-type cell wall biogenesis	P
+UniProtKB	Q9FNQ2	GO:0052543	callose deposition in cell wall	P
+UniProtKB	Q9FVR3	GO:0009833	plant-type primary cell wall biogenesis	P
+UniProtKB	Q9FWY9	GO:0071668	plant-type cell wall assembly	P
+UniProtKB	Q9FX31	GO:0009828	plant-type cell wall loosening	P
+UniProtKB	Q9FXA7	GO:0010306	rhamnogalacturonan II biosynthetic process	P
+UniProtKB	Q9FXG3	GO:1990937	xylan acetylation	P
+UniProtKB	Q9FXG3	GO:0045492	xylan biosynthetic process	P
+UniProtKB	Q9FXG3	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	Q9FXG3	GO:0010411	xyloglucan metabolic process	P
+UniProtKB	Q9FXG3	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	Q9FXG3	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	Q9FXG3	GO:0045492	xylan biosynthetic process	P
+UniProtKB	Q9FXG3	GO:0045491	xylan metabolic process	P
+UniProtKB	Q9FXG3	GO:0045491	xylan metabolic process	P
+UniProtKB	Q9FXG3	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	Q9FXG3	GO:1990937	xylan acetylation	P
+UniProtKB	Q9FYG0	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	Q9FYG0	GO:0045492	xylan biosynthetic process	P
+UniProtKB	Q9FYG0	GO:0009827	plant-type cell wall modification	P
+UniProtKB	Q9FZ37	GO:0045492	xylan biosynthetic process	P
+UniProtKB	Q9FZ97	GO:0045491	xylan metabolic process	P
+UniProtKB	Q9FZ97	GO:0010246	rhamnogalacturonan I biosynthetic process	P
+UniProtKB	Q9FZH5	GO:0000032	cell wall mannoprotein biosynthetic process	P
+UniProtKB	Q9FZJ1	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	Q9FZJ1	GO:0010417	glucuronoxylan biosynthetic process	P
+UniProtKB	Q9FZJ1	GO:0010417	glucuronoxylan biosynthetic process	P
+UniProtKB	Q9FZJ1	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	Q9LE59	GO:0010289	homogalacturonan biosynthetic process	P
+UniProtKB	Q9LF33	GO:0052546	cell wall pectin metabolic process	P
+UniProtKB	Q9LF80	GO:0009969	xyloglucan biosynthetic process	P
+UniProtKB	Q9LF80	GO:0010411	xyloglucan metabolic process	P
+UniProtKB	Q9LFL0	GO:0009833	plant-type primary cell wall biogenesis	P
+UniProtKB	Q9LFW1	GO:0009832	plant-type cell wall biogenesis	P
+UniProtKB	Q9LFW1	GO:0071669	plant-type cell wall organization or biogenesis	P
+UniProtKB	Q9LFW1	GO:0009832	plant-type cell wall biogenesis	P
+UniProtKB	Q9LFW3	GO:0052324	plant-type cell wall cellulose biosynthetic process	P
+UniProtKB	Q9LFW3	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	Q9LIA8	GO:0052546	cell wall pectin metabolic process	P
+UniProtKB	Q9LIN9	GO:0052325	cell wall pectin biosynthetic process	P
+UniProtKB	Q9LJN4	GO:0045493	xylan catabolic process	P
+UniProtKB	Q9LJP4	GO:0071555	cell wall organization	P
+UniProtKB	Q9LJR7	GO:0009832	plant-type cell wall biogenesis	P
+UniProtKB	Q9LJU0	GO:0071555	cell wall organization	P
+UniProtKB	Q9LK99	GO:0042546	cell wall biogenesis	P
+UniProtKB	Q9LMJ4	GO:0042545	cell wall modification	P
+UniProtKB	Q9LN68	GO:0010417	glucuronoxylan biosynthetic process	P
+UniProtKB	Q9LN68	GO:0052386	cell wall thickening	P
+UniProtKB	Q9LND0	GO:0052543	callose deposition in cell wall	P
+UniProtKB	Q9LNK1	GO:0042546	cell wall biogenesis	P
+UniProtKB	Q9LNW1	GO:0042546	cell wall biogenesis	P
+UniProtKB	Q9LPI7	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	Q9LQ32	GO:0045492	xylan biosynthetic process	P
+UniProtKB	Q9LQ32	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	Q9LQ32	GO:0045491	xylan metabolic process	P
+UniProtKB	Q9LRS2	GO:0010411	xyloglucan metabolic process	P
+UniProtKB	Q9LSB1	GO:0045492	xylan biosynthetic process	P
+UniProtKB	Q9LSB1	GO:0010417	glucuronoxylan biosynthetic process	P
+UniProtKB	Q9LSB1	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	Q9LSB1	GO:0045492	xylan biosynthetic process	P
+UniProtKB	Q9LSB1	GO:0045492	xylan biosynthetic process	P
+UniProtKB	Q9LSG3	GO:0010289	homogalacturonan biosynthetic process	P
+UniProtKB	Q9LSI1	GO:0009831	plant-type cell wall modification involved in multidimensional cell growth	P
+UniProtKB	Q9LT31	GO:0042546	cell wall biogenesis	P
+UniProtKB	Q9LTZ9	GO:0042546	cell wall biogenesis	P
+UniProtKB	Q9LU40	GO:0010412	mannan metabolic process	P
+UniProtKB	Q9LU40	GO:0052325	cell wall pectin biosynthetic process	P
+UniProtKB	Q9LUE6	GO:0009832	plant-type cell wall biogenesis	P
+UniProtKB	Q9LV16	GO:0010405	arabinogalactan protein metabolic process	P
+UniProtKB	Q9LVA1	GO:0045491	xylan metabolic process	P
+UniProtKB	Q9LVA3	GO:0009827	plant-type cell wall modification	P
+UniProtKB	Q9LVD6	GO:0052544	defense response by callose deposition in cell wall	P
+UniProtKB	Q9LXA8	GO:0045493	xylan catabolic process	P
+UniProtKB	Q9LXD6	GO:0045493	xylan catabolic process	P
+UniProtKB	Q9LXF3	GO:0042545	cell wall modification	P
+UniProtKB	Q9LXF3	GO:0042545	cell wall modification	P
+UniProtKB	Q9LXV2	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	Q9LY46	GO:0045492	xylan biosynthetic process	P
+UniProtKB	Q9LY62	GO:0010401	pectic galactan metabolic process	P
+UniProtKB	Q9LY62	GO:0052541	plant-type cell wall cellulose metabolic process	P
+UniProtKB	Q9LYJ5	GO:0009827	plant-type cell wall modification	P
+UniProtKB	Q9LZJ3	GO:0009969	xyloglucan biosynthetic process	P
+UniProtKB	Q9LZJ3	GO:0010411	xyloglucan metabolic process	P
+UniProtKB	Q9LZN0	GO:0009664	plant-type cell wall organization	P
+UniProtKB	Q9LZN0	GO:0009664	plant-type cell wall organization	P
+UniProtKB	Q9M0D1	GO:0010411	xyloglucan metabolic process	P
+UniProtKB	Q9M0D2	GO:0010411	xyloglucan metabolic process	P
+UniProtKB	Q9M146	GO:0010306	rhamnogalacturonan II biosynthetic process	P
+UniProtKB	Q9M146	GO:0010306	rhamnogalacturonan II biosynthetic process	P
+UniProtKB	Q9M199	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	Q9M1K2	GO:0009827	plant-type cell wall modification	P
+UniProtKB	Q9M274	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	Q9M2X0	GO:0010406	classical arabinogalactan protein metabolic process	P
+UniProtKB	Q9M2Y6	GO:0009832	plant-type cell wall biogenesis	P
+UniProtKB	Q9M2Y6	GO:0009664	plant-type cell wall organization	P
+UniProtKB	Q9M3B8	GO:0009920	cell plate formation involved in plant-type cell wall biogenesis	P
+UniProtKB	Q9M439	GO:0071669	plant-type cell wall organization or biogenesis	P
+UniProtKB	Q9M884	GO:0000032	cell wall mannoprotein biosynthetic process	P
+UniProtKB	Q9M9M4	GO:0009833	plant-type primary cell wall biogenesis	P
+UniProtKB	Q9M9N9	GO:0045492	xylan biosynthetic process	P
+UniProtKB	Q9M9N9	GO:0045492	xylan biosynthetic process	P
+UniProtKB	Q9M9P3	GO:0052543	callose deposition in cell wall	P
+UniProtKB	Q9M9S2	GO:0009664	plant-type cell wall organization	P
+UniProtKB	Q9M9U0	GO:0009969	xyloglucan biosynthetic process	P
+UniProtKB	Q9M9U0	GO:0010411	xyloglucan metabolic process	P
+UniProtKB	Q9MA17	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	Q9S7Y7	GO:0010411	xyloglucan metabolic process	P
+UniProtKB	Q9S7Y7	GO:0045493	xylan catabolic process	P
+UniProtKB	Q9S7Z3	GO:0052544	defense response by callose deposition in cell wall	P
+UniProtKB	Q9S810	GO:0042546	cell wall biogenesis	P
+UniProtKB	Q9S814	GO:0052544	defense response by callose deposition in cell wall	P
+UniProtKB	Q9SA77	GO:0009832	plant-type cell wall biogenesis	P
+UniProtKB	Q9SB75	GO:0071555	cell wall organization	P
+UniProtKB	Q9SCN0	GO:0052324	plant-type cell wall cellulose biosynthetic process	P
+UniProtKB	Q9SCN0	GO:0052324	plant-type cell wall cellulose biosynthetic process	P
+UniProtKB	Q9SCN0	GO:0052324	plant-type cell wall cellulose biosynthetic process	P
+UniProtKB	Q9SCN0	GO:0052324	plant-type cell wall cellulose biosynthetic process	P
+UniProtKB	Q9SD46	GO:0009827	plant-type cell wall modification	P
+UniProtKB	Q9SD46	GO:0044347	cell wall polysaccharide catabolic process	P
+UniProtKB	Q9SEX2	GO:0009832	plant-type cell wall biogenesis	P
+UniProtKB	Q9SFB7	GO:0009830	cell wall modification involved in abscission	P
+UniProtKB	Q9SFF6	GO:0071555	cell wall organization	P
+UniProtKB	Q9SFU6	GO:0052543	callose deposition in cell wall	P
+UniProtKB	Q9SFU6	GO:0052543	callose deposition in cell wall	P
+UniProtKB	Q9SG80	GO:0045493	xylan catabolic process	P
+UniProtKB	Q9SGZ5	GO:0045493	xylan catabolic process	P
+UniProtKB	Q9SH31	GO:0042546	cell wall biogenesis	P
+UniProtKB	Q9SHY6	GO:0009828	plant-type cell wall loosening	P
+UniProtKB	Q9SI58	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	Q9SI74	GO:0071669	plant-type cell wall organization or biogenesis	P
+UniProtKB	Q9SIH4	GO:0042545	cell wall modification	P
+UniProtKB	Q9SIH4	GO:0042545	cell wall modification	P
+UniProtKB	Q9SIL7	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	Q9SJ22	GO:0009833	plant-type primary cell wall biogenesis	P
+UniProtKB	Q9SJ81	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	Q9SJA2	GO:0071555	cell wall organization	P
+UniProtKB	Q9SJL9	GO:0016998	cell wall macromolecule catabolic process	P
+UniProtKB	Q9SJN8	GO:0045492	xylan biosynthetic process	P
+UniProtKB	Q9SJN8	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	Q9SJP2	GO:0009969	xyloglucan biosynthetic process	P
+UniProtKB	Q9SJP4	GO:0009969	xyloglucan biosynthetic process	P
+UniProtKB	Q9SJP6	GO:0009969	xyloglucan biosynthetic process	P
+UniProtKB	Q9SJQ1	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	Q9SKJ5	GO:0009833	plant-type primary cell wall biogenesis	P
+UniProtKB	Q9SKJ5	GO:0009833	plant-type primary cell wall biogenesis	P
+UniProtKB	Q9SKP9	GO:0009664	plant-type cell wall organization	P
+UniProtKB	Q9SLG9	GO:0009827	plant-type cell wall modification	P
+UniProtKB	Q9SMQ6	GO:0042546	cell wall biogenesis	P
+UniProtKB	Q9SN35	GO:0042546	cell wall biogenesis	P
+UniProtKB	Q9SNE5	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	Q9SNE5	GO:0045492	xylan biosynthetic process	P
+UniProtKB	Q9SNE5	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	Q9SNE5	GO:0045492	xylan biosynthetic process	P
+UniProtKB	Q9SPG3	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	Q9SR22	GO:0071555	cell wall organization	P
+UniProtKB	Q9SR23	GO:0071555	cell wall organization	P
+UniProtKB	Q9SRE4	GO:0009833	plant-type primary cell wall biogenesis	P
+UniProtKB	Q9SRL3	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	Q9SRL3	GO:1990937	xylan acetylation	P
+UniProtKB	Q9SRT3	GO:0071555	cell wall organization	P
+UniProtKB	Q9SRT7	GO:0052324	plant-type cell wall cellulose biosynthetic process	P
+UniProtKB	Q9SRT9	GO:0009832	plant-type cell wall biogenesis	P
+UniProtKB	Q9SRT9	GO:0071669	plant-type cell wall organization or biogenesis	P
+UniProtKB	Q9SRT9	GO:0009832	plant-type cell wall biogenesis	P
+UniProtKB	Q9SRW9	GO:0009833	plant-type primary cell wall biogenesis	P
+UniProtKB	Q9SRW9	GO:0042546	cell wall biogenesis	P
+UniProtKB	Q9STY5	GO:0071669	plant-type cell wall organization or biogenesis	P
+UniProtKB	Q9SV87	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	Q9SW35	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	Q9SW35	GO:0045492	xylan biosynthetic process	P
+UniProtKB	Q9SWH5	GO:0009969	xyloglucan biosynthetic process	P
+UniProtKB	Q9SWH5	GO:0009969	xyloglucan biosynthetic process	P
+UniProtKB	Q9SWW6	GO:0009833	plant-type primary cell wall biogenesis	P
+UniProtKB	Q9SWW6	GO:0010400	rhamnogalacturonan I side chain metabolic process	P
+UniProtKB	Q9SWW6	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	Q9SWW6	GO:0009832	plant-type cell wall biogenesis	P
+UniProtKB	Q9SWW6	GO:0052386	cell wall thickening	P
+UniProtKB	Q9SXC4	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	Q9SXC4	GO:0010417	glucuronoxylan biosynthetic process	P
+UniProtKB	Q9SXC4	GO:0010417	glucuronoxylan biosynthetic process	P
+UniProtKB	Q9SXC4	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	Q9SXC4	GO:0045492	xylan biosynthetic process	P
+UniProtKB	Q9SY22	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	Q9SYM4	GO:0009832	plant-type cell wall biogenesis	P
+UniProtKB	Q9SZL9	GO:0009833	plant-type primary cell wall biogenesis	P
+UniProtKB	Q9T045	GO:0071555	cell wall organization	P
+UniProtKB	Q9T0A7	GO:0042546	cell wall biogenesis	P
+UniProtKB	Q9T0F7	GO:0045492	xylan biosynthetic process	P
+UniProtKB	Q9T0F7	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	Q9T0F7	GO:0045491	xylan metabolic process	P
+UniProtKB	Q9XEE9	GO:0009832	plant-type cell wall biogenesis	P
+UniProtKB	Q9XI72	GO:0042545	cell wall modification	P
+UniProtKB	Q9XI77	GO:0009969	xyloglucan biosynthetic process	P
+UniProtKB	Q9XI78	GO:0009969	xyloglucan biosynthetic process	P
+UniProtKB	Q9XI80	GO:0009969	xyloglucan biosynthetic process	P
+UniProtKB	Q9XI81	GO:0009969	xyloglucan biosynthetic process	P
+UniProtKB	Q9XIE2	GO:0052544	defense response by callose deposition in cell wall	P
+UniProtKB	Q9ZQB9	GO:0071555	cell wall organization	P
+UniProtKB	Q9ZQC6	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	Q9ZQC6	GO:0010417	glucuronoxylan biosynthetic process	P
+UniProtKB	Q9ZQC6	GO:0010417	glucuronoxylan biosynthetic process	P
+UniProtKB	Q9ZQC6	GO:0010413	glucuronoxylan metabolic process	P
+UniProtKB	Q9ZQC6	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	Q9ZQI0	GO:0009827	plant-type cell wall modification	P
+UniProtKB	Q9ZQI2	GO:0042545	cell wall modification	P
+UniProtKB	Q9ZQI2	GO:0042545	cell wall modification	P
+UniProtKB	Q9ZQP3	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	Q9ZSI1	GO:0009828	plant-type cell wall loosening	P
+UniProtKB	Q9ZSJ0	GO:0010306	rhamnogalacturonan II biosynthetic process	P
+UniProtKB	Q9ZSJ0	GO:0010306	rhamnogalacturonan II biosynthetic process	P
+UniProtKB	Q9ZSJ2	GO:0010306	rhamnogalacturonan II biosynthetic process	P
+UniProtKB	Q9ZSJ2	GO:0010306	rhamnogalacturonan II biosynthetic process	P
+UniProtKB	Q9ZT82	GO:0052544	defense response by callose deposition in cell wall	P
+UniProtKB	Q9ZTW3	GO:0009920	cell plate formation involved in plant-type cell wall biogenesis	P
+UniProtKB	Q9ZUV3	GO:0010417	glucuronoxylan biosynthetic process	P
+UniProtKB	Q9ZUV3	GO:0010417	glucuronoxylan biosynthetic process	P
+UniProtKB	Q9ZUV3	GO:0010417	glucuronoxylan biosynthetic process	P
+UniProtKB	Q9ZUV3	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	Q9ZUV3	GO:0009834	plant-type secondary cell wall biogenesis	P
+UniProtKB	Q9ZV40	GO:0042545	cell wall modification	P
+UniProtKB	Q9ZWA8	GO:0009834	plant-type secondary cell wall biogenesis	P

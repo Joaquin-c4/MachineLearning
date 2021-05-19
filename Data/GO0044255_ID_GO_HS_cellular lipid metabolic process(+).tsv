@@ -1,0 +1,1001 @@
+﻿GENE PRODUCT DB	GENE PRODUCT ID	GO TERM	GO NAME	GO ASPECT
+UniProtKB	A0A087WWA1	GO:0046854	phosphatidylinositol phosphate biosynthetic process	P
+UniProtKB	A0A087X0B3	GO:0019373	epoxygenase P450 pathway	P
+UniProtKB	A0A087X1C5	GO:0019369	arachidonic acid metabolic process	P
+UniProtKB	A0FGR8	GO:0006687	glycosphingolipid metabolic process	P
+UniProtKB	A0FGR9	GO:0006687	glycosphingolipid metabolic process	P
+UniProtKB	A1L0T0	GO:0001561	fatty acid alpha-oxidation	P
+UniProtKB	A1L3X0	GO:0042761	very long-chain fatty acid biosynthetic process	P
+UniProtKB	A1L3X0	GO:0034625	fatty acid elongation, monounsaturated fatty acid	P
+UniProtKB	A1L3X0	GO:0034626	fatty acid elongation, polyunsaturated fatty acid	P
+UniProtKB	A1L3X0	GO:0019367	fatty acid elongation, saturated fatty acid	P
+UniProtKB	A1L3X0	GO:0030148	sphingolipid biosynthetic process	P
+UniProtKB	A1L3X0	GO:0019367	fatty acid elongation, saturated fatty acid	P
+UniProtKB	A1L3X0	GO:0034626	fatty acid elongation, polyunsaturated fatty acid	P
+UniProtKB	A1L3X0	GO:0042761	very long-chain fatty acid biosynthetic process	P
+UniProtKB	A1L3X0	GO:0042761	very long-chain fatty acid biosynthetic process	P
+UniProtKB	A4FU01	GO:0046856	phosphatidylinositol dephosphorylation	P
+UniProtKB	A4QPH2	GO:0046854	phosphatidylinositol phosphate biosynthetic process	P
+UniProtKB	A5D6W6	GO:0008654	phospholipid biosynthetic process	P
+UniProtKB	A5PLL7	GO:0008611	ether lipid biosynthetic process	P
+UniProtKB	A5PLL7	GO:0008611	ether lipid biosynthetic process	P
+UniProtKB	A5PLL7	GO:0008611	ether lipid biosynthetic process	P
+UniProtKB	A6NDG6	GO:0006650	glycerophospholipid metabolic process	P
+UniProtKB	A6NDG6	GO:0006650	glycerophospholipid metabolic process	P
+UniProtKB	A6NFH5	GO:0019433	triglyceride catabolic process	P
+UniProtKB	A8MXV4	GO:0009062	fatty acid catabolic process	P
+UniProtKB	B0YJ81	GO:0030497	fatty acid elongation	P
+UniProtKB	B0YJ81	GO:0030148	sphingolipid biosynthetic process	P
+UniProtKB	B0YJ81	GO:0042761	very long-chain fatty acid biosynthetic process	P
+UniProtKB	B0YJ81-1	GO:0030497	fatty acid elongation	P
+UniProtKB	B0YJ81-1	GO:0030148	sphingolipid biosynthetic process	P
+UniProtKB	B0YJ81-1	GO:0042761	very long-chain fatty acid biosynthetic process	P
+UniProtKB	B0YJ81-1	GO:0030497	fatty acid elongation	P
+UniProtKB	B0YJ81-1	GO:0030148	sphingolipid biosynthetic process	P
+UniProtKB	B0YJ81-1	GO:0042761	very long-chain fatty acid biosynthetic process	P
+UniProtKB	O00116	GO:0008611	ether lipid biosynthetic process	P
+UniProtKB	O00116	GO:0008611	ether lipid biosynthetic process	P
+UniProtKB	O00154	GO:0006631	fatty acid metabolic process	P
+UniProtKB	O00154	GO:1900535	palmitic acid biosynthetic process	P
+UniProtKB	O00154	GO:0051792	medium-chain fatty acid biosynthetic process	P
+UniProtKB	O00154	GO:1900535	palmitic acid biosynthetic process	P
+UniProtKB	O00329	GO:0036092	phosphatidylinositol-3-phosphate biosynthetic process	P
+UniProtKB	O00329	GO:0046854	phosphatidylinositol phosphate biosynthetic process	P
+UniProtKB	O00329	GO:0006661	phosphatidylinositol biosynthetic process	P
+UniProtKB	O00443	GO:0046854	phosphatidylinositol phosphate biosynthetic process	P
+UniProtKB	O00443	GO:0036092	phosphatidylinositol-3-phosphate biosynthetic process	P
+UniProtKB	O00443	GO:0006661	phosphatidylinositol biosynthetic process	P
+UniProtKB	O00443	GO:0006661	phosphatidylinositol biosynthetic process	P
+UniProtKB	O00443	GO:0006661	phosphatidylinositol biosynthetic process	P
+UniProtKB	O00443	GO:0006661	phosphatidylinositol biosynthetic process	P
+UniProtKB	O00443	GO:0006661	phosphatidylinositol biosynthetic process	P
+UniProtKB	O00459	GO:0046854	phosphatidylinositol phosphate biosynthetic process	P
+UniProtKB	O00459	GO:0006661	phosphatidylinositol biosynthetic process	P
+UniProtKB	O00468	GO:0001523	retinoid metabolic process	P
+UniProtKB	O00519	GO:0009062	fatty acid catabolic process	P
+UniProtKB	O00519	GO:0052651	monoacylglycerol catabolic process	P
+UniProtKB	O00519	GO:0019369	arachidonic acid metabolic process	P
+UniProtKB	O00519	GO:0009062	fatty acid catabolic process	P
+UniProtKB	O00562	GO:0006661	phosphatidylinositol biosynthetic process	P
+UniProtKB	O00628	GO:0008611	ether lipid biosynthetic process	P
+UniProtKB	O00628	GO:0008611	ether lipid biosynthetic process	P
+UniProtKB	O00748	GO:0006693	prostaglandin metabolic process	P
+UniProtKB	O00750	GO:0046854	phosphatidylinositol phosphate biosynthetic process	P
+UniProtKB	O00750	GO:0036092	phosphatidylinositol-3-phosphate biosynthetic process	P
+UniProtKB	O00750	GO:0006661	phosphatidylinositol biosynthetic process	P
+UniProtKB	O00767	GO:0006636	unsaturated fatty acid biosynthetic process	P
+UniProtKB	O00767	GO:0006636	unsaturated fatty acid biosynthetic process	P
+UniProtKB	O00767	GO:0006636	unsaturated fatty acid biosynthetic process	P
+UniProtKB	O14494	GO:0046839	phospholipid dephosphorylation	P
+UniProtKB	O14494	GO:0006644	phospholipid metabolic process	P
+UniProtKB	O14494	GO:0006672	ceramide metabolic process	P
+UniProtKB	O14494	GO:0006672	ceramide metabolic process	P
+UniProtKB	O14494	GO:0006670	sphingosine metabolic process	P
+UniProtKB	O14494	GO:0006644	phospholipid metabolic process	P
+UniProtKB	O14494	GO:0006644	phospholipid metabolic process	P
+UniProtKB	O14494	GO:0006644	phospholipid metabolic process	P
+UniProtKB	O14494	GO:0046839	phospholipid dephosphorylation	P
+UniProtKB	O14494	GO:0046839	phospholipid dephosphorylation	P
+UniProtKB	O14494	GO:0046839	phospholipid dephosphorylation	P
+UniProtKB	O14494	GO:0030148	sphingolipid biosynthetic process	P
+UniProtKB	O14494	GO:0046839	phospholipid dephosphorylation	P
+UniProtKB	O14494	GO:0046839	phospholipid dephosphorylation	P
+UniProtKB	O14495	GO:0006644	phospholipid metabolic process	P
+UniProtKB	O14495	GO:0046839	phospholipid dephosphorylation	P
+UniProtKB	O14495	GO:0006672	ceramide metabolic process	P
+UniProtKB	O14495	GO:0006672	ceramide metabolic process	P
+UniProtKB	O14495	GO:0006670	sphingosine metabolic process	P
+UniProtKB	O14495	GO:0006670	sphingosine metabolic process	P
+UniProtKB	O14495	GO:0006644	phospholipid metabolic process	P
+UniProtKB	O14495	GO:0006644	phospholipid metabolic process	P
+UniProtKB	O14495	GO:0046839	phospholipid dephosphorylation	P
+UniProtKB	O14495	GO:0046839	phospholipid dephosphorylation	P
+UniProtKB	O14495	GO:0030148	sphingolipid biosynthetic process	P
+UniProtKB	O14508	GO:0046854	phosphatidylinositol phosphate biosynthetic process	P
+UniProtKB	O14512	GO:0046854	phosphatidylinositol phosphate biosynthetic process	P
+UniProtKB	O14543	GO:0046854	phosphatidylinositol phosphate biosynthetic process	P
+UniProtKB	O14544	GO:0046854	phosphatidylinositol phosphate biosynthetic process	P
+UniProtKB	O14561	GO:0006633	fatty acid biosynthetic process	P
+UniProtKB	O14678	GO:0006635	fatty acid beta-oxidation	P
+UniProtKB	O14678	GO:0042760	very long-chain fatty acid catabolic process	P
+UniProtKB	O14684	GO:0001516	prostaglandin biosynthetic process	P
+UniProtKB	O14684	GO:0001516	prostaglandin biosynthetic process	P
+UniProtKB	O14684	GO:0006693	prostaglandin metabolic process	P
+UniProtKB	O14684	GO:0019371	cyclooxygenase pathway	P
+UniProtKB	O14734	GO:0009062	fatty acid catabolic process	P
+UniProtKB	O14734	GO:0033540	fatty acid beta-oxidation using acyl-CoA oxidase	P
+UniProtKB	O14734	GO:0036109	alpha-linolenic acid metabolic process	P
+UniProtKB	O14735	GO:0006661	phosphatidylinositol biosynthetic process	P
+UniProtKB	O14735	GO:0006661	phosphatidylinositol biosynthetic process	P
+UniProtKB	O14735	GO:0006661	phosphatidylinositol biosynthetic process	P
+UniProtKB	O14735	GO:0006661	phosphatidylinositol biosynthetic process	P
+UniProtKB	O14832	GO:0001561	fatty acid alpha-oxidation	P
+UniProtKB	O14832	GO:0001561	fatty acid alpha-oxidation	P
+UniProtKB	O14832	GO:0001561	fatty acid alpha-oxidation	P
+UniProtKB	O14832	GO:0001561	fatty acid alpha-oxidation	P
+UniProtKB	O14832	GO:0006720	isoprenoid metabolic process	P
+UniProtKB	O14939	GO:0006654	phosphatidic acid biosynthetic process	P
+UniProtKB	O14975	GO:0042760	very long-chain fatty acid catabolic process	P
+UniProtKB	O14975	GO:0001561	fatty acid alpha-oxidation	P
+UniProtKB	O14975	GO:0001676	long-chain fatty acid metabolic process	P
+UniProtKB	O14975	GO:0001561	fatty acid alpha-oxidation	P
+UniProtKB	O14975	GO:0006635	fatty acid beta-oxidation	P
+UniProtKB	O14986	GO:0006661	phosphatidylinositol biosynthetic process	P
+UniProtKB	O15055	GO:0006631	fatty acid metabolic process	P
+UniProtKB	O15056	GO:0046856	phosphatidylinositol dephosphorylation	P
+UniProtKB	O15056	GO:0006661	phosphatidylinositol biosynthetic process	P
+UniProtKB	O15120	GO:0006654	phosphatidic acid biosynthetic process	P
+UniProtKB	O15120	GO:0006654	phosphatidic acid biosynthetic process	P
+UniProtKB	O15120	GO:0006654	phosphatidic acid biosynthetic process	P
+UniProtKB	O15120	GO:0006654	phosphatidic acid biosynthetic process	P
+UniProtKB	O15120	GO:0006644	phospholipid metabolic process	P
+UniProtKB	O15121	GO:0046513	ceramide biosynthetic process	P
+UniProtKB	O15121	GO:0006636	unsaturated fatty acid biosynthetic process	P
+UniProtKB	O15121	GO:0030148	sphingolipid biosynthetic process	P
+UniProtKB	O15162	GO:0006659	phosphatidylserine biosynthetic process	P
+UniProtKB	O15228	GO:0006631	fatty acid metabolic process	P
+UniProtKB	O15228	GO:0008611	ether lipid biosynthetic process	P
+UniProtKB	O15228	GO:0008654	phospholipid biosynthetic process	P
+UniProtKB	O15228	GO:0008611	ether lipid biosynthetic process	P
+UniProtKB	O15228	GO:0006654	phosphatidic acid biosynthetic process	P
+UniProtKB	O15228	GO:0008611	ether lipid biosynthetic process	P
+UniProtKB	O15254	GO:0033540	fatty acid beta-oxidation using acyl-CoA oxidase	P
+UniProtKB	O15254	GO:0033540	fatty acid beta-oxidation using acyl-CoA oxidase	P
+UniProtKB	O15269	GO:0046513	ceramide biosynthetic process	P
+UniProtKB	O15269	GO:0046512	sphingosine biosynthetic process	P
+UniProtKB	O15269	GO:0030148	sphingolipid biosynthetic process	P
+UniProtKB	O15269	GO:0006665	sphingolipid metabolic process	P
+UniProtKB	O15269	GO:0030148	sphingolipid biosynthetic process	P
+UniProtKB	O15270	GO:0046512	sphingosine biosynthetic process	P
+UniProtKB	O15270	GO:0046513	ceramide biosynthetic process	P
+UniProtKB	O15270	GO:0030148	sphingolipid biosynthetic process	P
+UniProtKB	O15270	GO:0030148	sphingolipid biosynthetic process	P
+UniProtKB	O15270	GO:0030148	sphingolipid biosynthetic process	P
+UniProtKB	O15296	GO:0043651	linoleic acid metabolic process	P
+UniProtKB	O15296	GO:0051122	hepoxilin biosynthetic process	P
+UniProtKB	O15296	GO:0034440	lipid oxidation	P
+UniProtKB	O15296	GO:0019369	arachidonic acid metabolic process	P
+UniProtKB	O15296	GO:0019372	lipoxygenase pathway	P
+UniProtKB	O15296	GO:0019369	arachidonic acid metabolic process	P
+UniProtKB	O15296	GO:0019369	arachidonic acid metabolic process	P
+UniProtKB	O15296	GO:0019369	arachidonic acid metabolic process	P
+UniProtKB	O15296	GO:0019369	arachidonic acid metabolic process	P
+UniProtKB	O15296	GO:0019369	arachidonic acid metabolic process	P
+UniProtKB	O15296	GO:0006644	phospholipid metabolic process	P
+UniProtKB	O15296	GO:2001303	lipoxin A4 biosynthetic process	P
+UniProtKB	O15296	GO:0051122	hepoxilin biosynthetic process	P
+UniProtKB	O15296	GO:0019372	lipoxygenase pathway	P
+UniProtKB	O15296	GO:0019369	arachidonic acid metabolic process	P
+UniProtKB	O15327	GO:0006661	phosphatidylinositol biosynthetic process	P
+UniProtKB	O15327	GO:0006661	phosphatidylinositol biosynthetic process	P
+UniProtKB	O15357	GO:0006661	phosphatidylinositol biosynthetic process	P
+UniProtKB	O15466	GO:0006688	glycosphingolipid biosynthetic process	P
+UniProtKB	O15466	GO:0006688	glycosphingolipid biosynthetic process	P
+UniProtKB	O15496	GO:0006644	phospholipid metabolic process	P
+UniProtKB	O15496	GO:0034638	phosphatidylcholine catabolic process	P
+UniProtKB	O15496	GO:0006658	phosphatidylserine metabolic process	P
+UniProtKB	O15496	GO:0062234	platelet activating factor catabolic process	P
+UniProtKB	O15496	GO:0046473	phosphatidic acid metabolic process	P
+UniProtKB	O15496	GO:0046471	phosphatidylglycerol metabolic process	P
+UniProtKB	O15496	GO:0046470	phosphatidylcholine metabolic process	P
+UniProtKB	O15496	GO:0046470	phosphatidylcholine metabolic process	P
+UniProtKB	O15496	GO:0046470	phosphatidylcholine metabolic process	P
+UniProtKB	O15496	GO:0046337	phosphatidylethanolamine metabolic process	P
+UniProtKB	O15496	GO:0006654	phosphatidic acid biosynthetic process	P
+UniProtKB	O15496	GO:0036152	phosphatidylethanolamine acyl-chain remodeling	P
+UniProtKB	O15496	GO:0036151	phosphatidylcholine acyl-chain remodeling	P
+UniProtKB	O15496	GO:0036150	phosphatidylserine acyl-chain remodeling	P
+UniProtKB	O15496	GO:0036149	phosphatidylinositol acyl-chain remodeling	P
+UniProtKB	O15496	GO:0036148	phosphatidylglycerol acyl-chain remodeling	P
+UniProtKB	O15496	GO:0019369	arachidonic acid metabolic process	P
+UniProtKB	O15524	GO:0046854	phosphatidylinositol phosphate biosynthetic process	P
+UniProtKB	O15540	GO:0019433	triglyceride catabolic process	P
+UniProtKB	O43173	GO:0006688	glycosphingolipid biosynthetic process	P
+UniProtKB	O43173	GO:0001574	ganglioside biosynthetic process	P
+UniProtKB	O43174	GO:0042573	retinoic acid metabolic process	P
+UniProtKB	O43174	GO:0042573	retinoic acid metabolic process	P
+UniProtKB	O43174	GO:0034653	retinoic acid catabolic process	P
+UniProtKB	O43286	GO:0010706	ganglioside biosynthetic process via lactosylceramide	P
+UniProtKB	O43292	GO:0016255	attachment of GPI anchor to protein	P
+UniProtKB	O43292	GO:0016255	attachment of GPI anchor to protein	P
+UniProtKB	O43292	GO:0016255	attachment of GPI anchor to protein	P
+UniProtKB	O43292	GO:0016255	attachment of GPI anchor to protein	P
+UniProtKB	O43426	GO:0046856	phosphatidylinositol dephosphorylation	P
+UniProtKB	O43426	GO:0046856	phosphatidylinositol dephosphorylation	P
+UniProtKB	O43426	GO:0046856	phosphatidylinositol dephosphorylation	P
+UniProtKB	O43426	GO:0046488	phosphatidylinositol metabolic process	P
+UniProtKB	O43426	GO:0046856	phosphatidylinositol dephosphorylation	P
+UniProtKB	O43426	GO:0006661	phosphatidylinositol biosynthetic process	P
+UniProtKB	O43688	GO:0046839	phospholipid dephosphorylation	P
+UniProtKB	O43688	GO:0006644	phospholipid metabolic process	P
+UniProtKB	O43688	GO:0006672	ceramide metabolic process	P
+UniProtKB	O43688	GO:0006670	sphingosine metabolic process	P
+UniProtKB	O43688	GO:0006644	phospholipid metabolic process	P
+UniProtKB	O43688	GO:0006644	phospholipid metabolic process	P
+UniProtKB	O43688	GO:0046839	phospholipid dephosphorylation	P
+UniProtKB	O43688	GO:0046839	phospholipid dephosphorylation	P
+UniProtKB	O43688	GO:0030148	sphingolipid biosynthetic process	P
+UniProtKB	O43766	GO:0009107	lipoate biosynthetic process	P
+UniProtKB	O43766	GO:0009107	lipoate biosynthetic process	P
+UniProtKB	O43808	GO:0001561	fatty acid alpha-oxidation	P
+UniProtKB	O43808	GO:0006635	fatty acid beta-oxidation	P
+UniProtKB	O43825	GO:0006682	galactosylceramide biosynthetic process	P
+UniProtKB	O60218	GO:0001523	retinoid metabolic process	P
+UniProtKB	O60218	GO:0001523	retinoid metabolic process	P
+UniProtKB	O60218	GO:0016488	farnesol catabolic process	P
+UniProtKB	O60331	GO:0006661	phosphatidylinositol biosynthetic process	P
+UniProtKB	O60427	GO:0006636	unsaturated fatty acid biosynthetic process	P
+UniProtKB	O60427	GO:0043651	linoleic acid metabolic process	P
+UniProtKB	O60427	GO:0036109	alpha-linolenic acid metabolic process	P
+UniProtKB	O60427	GO:0008654	phospholipid biosynthetic process	P
+UniProtKB	O60427	GO:0006636	unsaturated fatty acid biosynthetic process	P
+UniProtKB	O60488	GO:0001676	long-chain fatty acid metabolic process	P
+UniProtKB	O60488	GO:0001676	long-chain fatty acid metabolic process	P
+UniProtKB	O60488	GO:0001676	long-chain fatty acid metabolic process	P
+UniProtKB	O60488	GO:0006631	fatty acid metabolic process	P
+UniProtKB	O60512	GO:0006682	galactosylceramide biosynthetic process	P
+UniProtKB	O60512	GO:0006682	galactosylceramide biosynthetic process	P
+UniProtKB	O60513	GO:0006643	membrane lipid metabolic process	P
+UniProtKB	O60656	GO:0042573	retinoic acid metabolic process	P
+UniProtKB	O60733	GO:0035965	cardiolipin acyl-chain remodeling	P
+UniProtKB	O60733	GO:0034638	phosphatidylcholine catabolic process	P
+UniProtKB	O60733	GO:0046473	phosphatidic acid metabolic process	P
+UniProtKB	O60733	GO:0046469	platelet activating factor metabolic process	P
+UniProtKB	O60733	GO:0046338	phosphatidylethanolamine catabolic process	P
+UniProtKB	O60733	GO:0035965	cardiolipin acyl-chain remodeling	P
+UniProtKB	O60733	GO:0036152	phosphatidylethanolamine acyl-chain remodeling	P
+UniProtKB	O60733	GO:0036151	phosphatidylcholine acyl-chain remodeling	P
+UniProtKB	O60733	GO:0032049	cardiolipin biosynthetic process	P
+UniProtKB	O60760	GO:0006693	prostaglandin metabolic process	P
+UniProtKB	O60760	GO:0019371	cyclooxygenase pathway	P
+UniProtKB	O60762	GO:0006506	GPI anchor biosynthetic process	P
+UniProtKB	O60762	GO:0006506	GPI anchor biosynthetic process	P
+UniProtKB	O60762	GO:0019348	dolichol metabolic process	P
+UniProtKB	O60762	GO:0006506	GPI anchor biosynthetic process	P
+UniProtKB	O60906	GO:0046513	ceramide biosynthetic process	P
+UniProtKB	O60906	GO:0006684	sphingomyelin metabolic process	P
+UniProtKB	O60906	GO:0030149	sphingolipid catabolic process	P
+UniProtKB	O60906	GO:0006684	sphingomyelin metabolic process	P
+UniProtKB	O60906	GO:0006687	glycosphingolipid metabolic process	P
+UniProtKB	O75056	GO:0001523	retinoid metabolic process	P
+UniProtKB	O75131	GO:0046474	glycerophospholipid biosynthetic process	P
+UniProtKB	O75159	GO:0046854	phosphatidylinositol phosphate biosynthetic process	P
+UniProtKB	O75342	GO:0043651	linoleic acid metabolic process	P
+UniProtKB	O75342	GO:0051122	hepoxilin biosynthetic process	P
+UniProtKB	O75342	GO:0034440	lipid oxidation	P
+UniProtKB	O75342	GO:0019369	arachidonic acid metabolic process	P
+UniProtKB	O75342	GO:0019372	lipoxygenase pathway	P
+UniProtKB	O75342	GO:0019372	lipoxygenase pathway	P
+UniProtKB	O75342	GO:0019372	lipoxygenase pathway	P
+UniProtKB	O75342	GO:0019369	arachidonic acid metabolic process	P
+UniProtKB	O75342	GO:0019369	arachidonic acid metabolic process	P
+UniProtKB	O75342	GO:0019369	arachidonic acid metabolic process	P
+UniProtKB	O75342	GO:0006665	sphingolipid metabolic process	P
+UniProtKB	O75342	GO:0051122	hepoxilin biosynthetic process	P
+UniProtKB	O75342	GO:0046513	ceramide biosynthetic process	P
+UniProtKB	O75342	GO:0043651	linoleic acid metabolic process	P
+UniProtKB	O75342	GO:0019372	lipoxygenase pathway	P
+UniProtKB	O75352	GO:0006488	dolichol-linked oligosaccharide biosynthetic process	P
+UniProtKB	O75487	GO:0001523	retinoid metabolic process	P
+UniProtKB	O75521	GO:0006635	fatty acid beta-oxidation	P
+UniProtKB	O75521	GO:0033540	fatty acid beta-oxidation using acyl-CoA oxidase	P
+UniProtKB	O75521-2	GO:0009062	fatty acid catabolic process	P
+UniProtKB	O75521-2	GO:0009062	fatty acid catabolic process	P
+UniProtKB	O75747	GO:0046854	phosphatidylinositol phosphate biosynthetic process	P
+UniProtKB	O75747	GO:0036092	phosphatidylinositol-3-phosphate biosynthetic process	P
+UniProtKB	O75747	GO:0006661	phosphatidylinositol biosynthetic process	P
+UniProtKB	O75747	GO:0006661	phosphatidylinositol biosynthetic process	P
+UniProtKB	O75752	GO:0006687	glycosphingolipid metabolic process	P
+UniProtKB	O75907	GO:0019432	triglyceride biosynthetic process	P
+UniProtKB	O75907	GO:0019432	triglyceride biosynthetic process	P
+UniProtKB	O75907	GO:0019432	triglyceride biosynthetic process	P
+UniProtKB	O75907	GO:0006640	monoacylglycerol biosynthetic process	P
+UniProtKB	O75907	GO:0046339	diacylglycerol metabolic process	P
+UniProtKB	O75907	GO:0046339	diacylglycerol metabolic process	P
+UniProtKB	O75907	GO:0006641	triglyceride metabolic process	P
+UniProtKB	O75907	GO:0019432	triglyceride biosynthetic process	P
+UniProtKB	O75907	GO:0036155	acylglycerol acyl-chain remodeling	P
+UniProtKB	O75907	GO:0046339	diacylglycerol metabolic process	P
+UniProtKB	O75907	GO:0019432	triglyceride biosynthetic process	P
+UniProtKB	O75908	GO:0034435	cholesterol esterification	P
+UniProtKB	O75908	GO:0034435	cholesterol esterification	P
+UniProtKB	O75908	GO:0034435	cholesterol esterification	P
+UniProtKB	O75911	GO:0001523	retinoid metabolic process	P
+UniProtKB	O75911	GO:0001523	retinoid metabolic process	P
+UniProtKB	O75911	GO:0042572	retinol metabolic process	P
+UniProtKB	O75912	GO:0046834	lipid phosphorylation	P
+UniProtKB	O75912	GO:0046339	diacylglycerol metabolic process	P
+UniProtKB	O75912	GO:0046834	lipid phosphorylation	P
+UniProtKB	O94777	GO:0006506	GPI anchor biosynthetic process	P
+UniProtKB	O94777	GO:0019348	dolichol metabolic process	P
+UniProtKB	O94777	GO:0006506	GPI anchor biosynthetic process	P
+UniProtKB	O94777	GO:0016254	preassembly of GPI anchor in ER membrane	P
+UniProtKB	O94777	GO:0006506	GPI anchor biosynthetic process	P
+UniProtKB	O94788	GO:0002138	retinoic acid biosynthetic process	P
+UniProtKB	O94788	GO:0006776	vitamin A metabolic process	P
+UniProtKB	O94788	GO:0042573	retinoic acid metabolic process	P
+UniProtKB	O94806	GO:0030148	sphingolipid biosynthetic process	P
+UniProtKB	O94830	GO:0006654	phosphatidic acid biosynthetic process	P
+UniProtKB	O94911	GO:0006686	sphingomyelin biosynthetic process	P
+UniProtKB	O95237	GO:0006776	vitamin A metabolic process	P
+UniProtKB	O95237	GO:0042572	retinol metabolic process	P
+UniProtKB	O95237	GO:0001523	retinoid metabolic process	P
+UniProtKB	O95237	GO:0001523	retinoid metabolic process	P
+UniProtKB	O95248	GO:0006661	phosphatidylinositol biosynthetic process	P
+UniProtKB	O95292	GO:0030148	sphingolipid biosynthetic process	P
+UniProtKB	O95342	GO:0006631	fatty acid metabolic process	P
+UniProtKB	O95372	GO:0046464	acylglycerol catabolic process	P
+UniProtKB	O95427	GO:0006506	GPI anchor biosynthetic process	P
+UniProtKB	O95427	GO:0016254	preassembly of GPI anchor in ER membrane	P
+UniProtKB	O95445	GO:0001523	retinoid metabolic process	P
+UniProtKB	O95461	GO:0006688	glycosphingolipid biosynthetic process	P
+UniProtKB	O95470	GO:0030149	sphingolipid catabolic process	P
+UniProtKB	O95470	GO:0030149	sphingolipid catabolic process	P
+UniProtKB	O95470	GO:0030149	sphingolipid catabolic process	P
+UniProtKB	O95470	GO:0006631	fatty acid metabolic process	P
+UniProtKB	O95470	GO:0030148	sphingolipid biosynthetic process	P
+UniProtKB	O95470	GO:0030149	sphingolipid catabolic process	P
+UniProtKB	O95470	GO:0006672	ceramide metabolic process	P
+UniProtKB	O95573	GO:0001676	long-chain fatty acid metabolic process	P
+UniProtKB	O95573	GO:0001676	long-chain fatty acid metabolic process	P
+UniProtKB	O95573	GO:0001676	long-chain fatty acid metabolic process	P
+UniProtKB	O95573	GO:0006631	fatty acid metabolic process	P
+UniProtKB	O95674	GO:0016024	CDP-diacylglycerol biosynthetic process	P
+UniProtKB	O95674	GO:0006655	phosphatidylglycerol biosynthetic process	P
+UniProtKB	O95741	GO:0046474	glycerophospholipid biosynthetic process	P
+UniProtKB	O95749	GO:0008299	isoprenoid biosynthetic process	P
+UniProtKB	O95749	GO:0006720	isoprenoid metabolic process	P
+UniProtKB	O95822	GO:0006633	fatty acid biosynthetic process	P
+UniProtKB	O95864	GO:0006636	unsaturated fatty acid biosynthetic process	P
+UniProtKB	O95864	GO:0043651	linoleic acid metabolic process	P
+UniProtKB	O95864	GO:0036109	alpha-linolenic acid metabolic process	P
+UniProtKB	O95870	GO:0052651	monoacylglycerol catabolic process	P
+UniProtKB	O95870	GO:0006660	phosphatidylserine catabolic process	P
+UniProtKB	O95870	GO:0006660	phosphatidylserine catabolic process	P
+UniProtKB	O95870	GO:0052651	monoacylglycerol catabolic process	P
+UniProtKB	O95870	GO:0052651	monoacylglycerol catabolic process	P
+UniProtKB	O96024	GO:0001574	ganglioside biosynthetic process	P
+UniProtKB	P00325	GO:0042573	retinoic acid metabolic process	P
+UniProtKB	P00325	GO:0042572	retinol metabolic process	P
+UniProtKB	P00325	GO:0001523	retinoid metabolic process	P
+UniProtKB	P00325	GO:0001523	retinoid metabolic process	P
+UniProtKB	P00326	GO:0042573	retinoic acid metabolic process	P
+UniProtKB	P00326	GO:0042572	retinol metabolic process	P
+UniProtKB	P00352	GO:0001523	retinoid metabolic process	P
+UniProtKB	P02647	GO:0046470	phosphatidylcholine metabolic process	P
+UniProtKB	P02647	GO:0001523	retinoid metabolic process	P
+UniProtKB	P02647	GO:0006656	phosphatidylcholine biosynthetic process	P
+UniProtKB	P02649	GO:0001523	retinoid metabolic process	P
+UniProtKB	P02649	GO:0006641	triglyceride metabolic process	P
+UniProtKB	P02649	GO:0006641	triglyceride metabolic process	P
+UniProtKB	P02652	GO:0001523	retinoid metabolic process	P
+UniProtKB	P02652	GO:0006656	phosphatidylcholine biosynthetic process	P
+UniProtKB	P02652	GO:0006641	triglyceride metabolic process	P
+UniProtKB	P02652	GO:0009395	phospholipid catabolic process	P
+UniProtKB	P02652	GO:0046340	diacylglycerol catabolic process	P
+UniProtKB	P02654	GO:0006641	triglyceride metabolic process	P
+UniProtKB	P02655	GO:0001523	retinoid metabolic process	P
+UniProtKB	P02656	GO:0006641	triglyceride metabolic process	P
+UniProtKB	P02656	GO:0001523	retinoid metabolic process	P
+UniProtKB	P02656	GO:0019433	triglyceride catabolic process	P
+UniProtKB	P02749	GO:0006641	triglyceride metabolic process	P
+UniProtKB	P02753	GO:0001523	retinoid metabolic process	P
+UniProtKB	P02753	GO:0001523	retinoid metabolic process	P
+UniProtKB	P02753	GO:0042572	retinol metabolic process	P
+UniProtKB	P02766	GO:0001523	retinoid metabolic process	P
+UniProtKB	P02766	GO:0001523	retinoid metabolic process	P
+UniProtKB	P03950	GO:0006651	diacylglycerol biosynthetic process	P
+UniProtKB	P03999	GO:0001523	retinoid metabolic process	P
+UniProtKB	P04000	GO:0001523	retinoid metabolic process	P
+UniProtKB	P04001	GO:0001523	retinoid metabolic process	P
+UniProtKB	P04035	GO:0008299	isoprenoid biosynthetic process	P
+UniProtKB	P04054	GO:0006633	fatty acid biosynthetic process	P
+UniProtKB	P04054	GO:0046471	phosphatidylglycerol metabolic process	P
+UniProtKB	P04054	GO:0046470	phosphatidylcholine metabolic process	P
+UniProtKB	P04054	GO:0006654	phosphatidic acid biosynthetic process	P
+UniProtKB	P04054	GO:0036152	phosphatidylethanolamine acyl-chain remodeling	P
+UniProtKB	P04054	GO:0036151	phosphatidylcholine acyl-chain remodeling	P
+UniProtKB	P04054	GO:0036150	phosphatidylserine acyl-chain remodeling	P
+UniProtKB	P04054	GO:0036149	phosphatidylinositol acyl-chain remodeling	P
+UniProtKB	P04054	GO:0036148	phosphatidylglycerol acyl-chain remodeling	P
+UniProtKB	P04054	GO:0006633	fatty acid biosynthetic process	P
+UniProtKB	P04054	GO:0046470	phosphatidylcholine metabolic process	P
+UniProtKB	P04062	GO:0006680	glucosylceramide catabolic process	P
+UniProtKB	P04062	GO:0006680	glucosylceramide catabolic process	P
+UniProtKB	P04062	GO:0030259	lipid glycosylation	P
+UniProtKB	P04062	GO:0030259	lipid glycosylation	P
+UniProtKB	P04062	GO:0006680	glucosylceramide catabolic process	P
+UniProtKB	P04062	GO:0006680	glucosylceramide catabolic process	P
+UniProtKB	P04062	GO:0006680	glucosylceramide catabolic process	P
+UniProtKB	P04062	GO:0006680	glucosylceramide catabolic process	P
+UniProtKB	P04062	GO:0006687	glycosphingolipid metabolic process	P
+UniProtKB	P04062	GO:0006680	glucosylceramide catabolic process	P
+UniProtKB	P04062	GO:0046513	ceramide biosynthetic process	P
+UniProtKB	P04062	GO:0046512	sphingosine biosynthetic process	P
+UniProtKB	P04066	GO:0019377	glycolipid catabolic process	P
+UniProtKB	P04114	GO:0006642	triglyceride mobilization	P
+UniProtKB	P04114	GO:0001523	retinoid metabolic process	P
+UniProtKB	P04118	GO:0001523	retinoid metabolic process	P
+UniProtKB	P04180	GO:0034435	cholesterol esterification	P
+UniProtKB	P04180	GO:0034435	cholesterol esterification	P
+UniProtKB	P04180	GO:0006656	phosphatidylcholine biosynthetic process	P
+UniProtKB	P04180	GO:0046470	phosphatidylcholine metabolic process	P
+UniProtKB	P04180	GO:0034435	cholesterol esterification	P
+UniProtKB	P04180	GO:0034435	cholesterol esterification	P
+UniProtKB	P04180	GO:0006656	phosphatidylcholine biosynthetic process	P
+UniProtKB	P04180	GO:0006644	phospholipid metabolic process	P
+UniProtKB	P04233	GO:0001516	prostaglandin biosynthetic process	P
+UniProtKB	P04798	GO:0006631	fatty acid metabolic process	P
+UniProtKB	P04798	GO:0042572	retinol metabolic process	P
+UniProtKB	P04798	GO:0019373	epoxygenase P450 pathway	P
+UniProtKB	P04798	GO:0042759	long-chain fatty acid biosynthetic process	P
+UniProtKB	P04798	GO:0097267	omega-hydroxylase P450 pathway	P
+UniProtKB	P04798	GO:0002933	lipid hydroxylation	P
+UniProtKB	P05165	GO:0019626	short-chain fatty acid catabolic process	P
+UniProtKB	P05165	GO:0019626	short-chain fatty acid catabolic process	P
+UniProtKB	P05165	GO:0019626	short-chain fatty acid catabolic process	P
+UniProtKB	P05166	GO:0019626	short-chain fatty acid catabolic process	P
+UniProtKB	P05166	GO:0019626	short-chain fatty acid catabolic process	P
+UniProtKB	P05177	GO:0042572	retinol metabolic process	P
+UniProtKB	P05177	GO:0019373	epoxygenase P450 pathway	P
+UniProtKB	P05177	GO:0042759	long-chain fatty acid biosynthetic process	P
+UniProtKB	P05177	GO:0042759	long-chain fatty acid biosynthetic process	P
+UniProtKB	P05177	GO:0097267	omega-hydroxylase P450 pathway	P
+UniProtKB	P05177	GO:0016098	monoterpenoid metabolic process	P
+UniProtKB	P05181	GO:0019373	epoxygenase P450 pathway	P
+UniProtKB	P05181	GO:0002933	lipid hydroxylation	P
+UniProtKB	P05181	GO:0042759	long-chain fatty acid biosynthetic process	P
+UniProtKB	P05181	GO:0016098	monoterpenoid metabolic process	P
+UniProtKB	P05305	GO:0001516	prostaglandin biosynthetic process	P
+UniProtKB	P05413	GO:0019433	triglyceride catabolic process	P
+UniProtKB	P06280	GO:0046477	glycosylceramide catabolic process	P
+UniProtKB	P06280	GO:0046479	glycosphingolipid catabolic process	P
+UniProtKB	P06280	GO:0046479	glycosphingolipid catabolic process	P
+UniProtKB	P06280	GO:0006687	glycosphingolipid metabolic process	P
+UniProtKB	P06280	GO:0046479	glycosphingolipid catabolic process	P
+UniProtKB	P06280	GO:0046477	glycosylceramide catabolic process	P
+UniProtKB	P06727	GO:0046470	phosphatidylcholine metabolic process	P
+UniProtKB	P06727	GO:0001523	retinoid metabolic process	P
+UniProtKB	P06727	GO:0046470	phosphatidylcholine metabolic process	P
+UniProtKB	P06858	GO:0019433	triglyceride catabolic process	P
+UniProtKB	P06858	GO:0006633	fatty acid biosynthetic process	P
+UniProtKB	P06858	GO:0019433	triglyceride catabolic process	P
+UniProtKB	P06858	GO:0019433	triglyceride catabolic process	P
+UniProtKB	P06858	GO:0019433	triglyceride catabolic process	P
+UniProtKB	P06858	GO:0019433	triglyceride catabolic process	P
+UniProtKB	P06858	GO:0019433	triglyceride catabolic process	P
+UniProtKB	P06858	GO:0006631	fatty acid metabolic process	P
+UniProtKB	P06858	GO:0006631	fatty acid metabolic process	P
+UniProtKB	P06858	GO:0001523	retinoid metabolic process	P
+UniProtKB	P06858	GO:0019433	triglyceride catabolic process	P
+UniProtKB	P06858	GO:0019433	triglyceride catabolic process	P
+UniProtKB	P06858	GO:0019433	triglyceride catabolic process	P
+UniProtKB	P06858	GO:0006644	phospholipid metabolic process	P
+UniProtKB	P06858	GO:0006641	triglyceride metabolic process	P
+UniProtKB	P06858	GO:0006633	fatty acid biosynthetic process	P
+UniProtKB	P06858	GO:0006633	fatty acid biosynthetic process	P
+UniProtKB	P06858	GO:0006633	fatty acid biosynthetic process	P
+UniProtKB	P06865	GO:0006689	ganglioside catabolic process	P
+UniProtKB	P06865	GO:0006689	ganglioside catabolic process	P
+UniProtKB	P06865	GO:0006689	ganglioside catabolic process	P
+UniProtKB	P06865	GO:0006687	glycosphingolipid metabolic process	P
+UniProtKB	P07098	GO:0006641	triglyceride metabolic process	P
+UniProtKB	P07099	GO:0019369	arachidonic acid metabolic process	P
+UniProtKB	P07108	GO:0036151	phosphatidylcholine acyl-chain remodeling	P
+UniProtKB	P07148	GO:0019433	triglyceride catabolic process	P
+UniProtKB	P07203	GO:0019372	lipoxygenase pathway	P
+UniProtKB	P07203	GO:0019369	arachidonic acid metabolic process	P
+UniProtKB	P07203	GO:0019372	lipoxygenase pathway	P
+UniProtKB	P07327	GO:0042573	retinoic acid metabolic process	P
+UniProtKB	P07327	GO:0042572	retinol metabolic process	P
+UniProtKB	P07333	GO:0046488	phosphatidylinositol metabolic process	P
+UniProtKB	P07602	GO:0006687	glycosphingolipid metabolic process	P
+UniProtKB	P07686	GO:0006689	ganglioside catabolic process	P
+UniProtKB	P07686	GO:0006689	ganglioside catabolic process	P
+UniProtKB	P07686	GO:0006687	glycosphingolipid metabolic process	P
+UniProtKB	P08100	GO:0001523	retinoid metabolic process	P
+UniProtKB	P08263	GO:0006693	prostaglandin metabolic process	P
+UniProtKB	P08263	GO:0043651	linoleic acid metabolic process	P
+UniProtKB	P08319	GO:0010430	fatty acid omega-oxidation	P
+UniProtKB	P08319	GO:0042572	retinol metabolic process	P
+UniProtKB	P08319	GO:0001523	retinoid metabolic process	P
+UniProtKB	P08319	GO:0042572	retinol metabolic process	P
+UniProtKB	P08567	GO:0046488	phosphatidylinositol metabolic process	P
+UniProtKB	P08684	GO:0042573	retinoic acid metabolic process	P
+UniProtKB	P08684	GO:0042572	retinol metabolic process	P
+UniProtKB	P08684	GO:0042759	long-chain fatty acid biosynthetic process	P
+UniProtKB	P08684	GO:0016098	monoterpenoid metabolic process	P
+UniProtKB	P08684	GO:0002933	lipid hydroxylation	P
+UniProtKB	P08842	GO:0006687	glycosphingolipid metabolic process	P
+UniProtKB	P08910	GO:0044255	cellular lipid metabolic process	P
+UniProtKB	P08910	GO:0046464	acylglycerol catabolic process	P
+UniProtKB	P08910	GO:0051792	medium-chain fatty acid biosynthetic process	P
+UniProtKB	P08910	GO:0051793	medium-chain fatty acid catabolic process	P
+UniProtKB	P08910	GO:0046464	acylglycerol catabolic process	P
+UniProtKB	P09038	GO:0006661	phosphatidylinositol biosynthetic process	P
+UniProtKB	P09110	GO:0006635	fatty acid beta-oxidation	P
+UniProtKB	P09110	GO:0006635	fatty acid beta-oxidation	P
+UniProtKB	P09110	GO:0033540	fatty acid beta-oxidation using acyl-CoA oxidase	P
+UniProtKB	P09110	GO:0036109	alpha-linolenic acid metabolic process	P
+UniProtKB	P09110	GO:0000038	very long-chain fatty acid metabolic process	P
+UniProtKB	P09110	GO:0006635	fatty acid beta-oxidation	P
+UniProtKB	P09110	GO:0006635	fatty acid beta-oxidation	P
+UniProtKB	P09211	GO:0006693	prostaglandin metabolic process	P
+UniProtKB	P09211	GO:0051122	hepoxilin biosynthetic process	P
+UniProtKB	P09211	GO:0043651	linoleic acid metabolic process	P
+UniProtKB	P09455	GO:0006776	vitamin A metabolic process	P
+UniProtKB	P09455	GO:0006776	vitamin A metabolic process	P
+UniProtKB	P09455	GO:0001523	retinoid metabolic process	P
+UniProtKB	P09455	GO:0001523	retinoid metabolic process	P
+UniProtKB	P09488	GO:0006693	prostaglandin metabolic process	P
+UniProtKB	P09488	GO:0051122	hepoxilin biosynthetic process	P
+UniProtKB	P09619	GO:0046488	phosphatidylinositol metabolic process	P
+UniProtKB	P09917	GO:0019372	lipoxygenase pathway	P
+UniProtKB	P09917	GO:0019369	arachidonic acid metabolic process	P
+UniProtKB	P09917	GO:0034440	lipid oxidation	P
+UniProtKB	P09917	GO:0051122	hepoxilin biosynthetic process	P
+UniProtKB	P09917	GO:0043651	linoleic acid metabolic process	P
+UniProtKB	P09917	GO:0019372	lipoxygenase pathway	P
+UniProtKB	P09917	GO:0019372	lipoxygenase pathway	P
+UniProtKB	P09917	GO:0019372	lipoxygenase pathway	P
+UniProtKB	P09917	GO:0042759	long-chain fatty acid biosynthetic process	P
+UniProtKB	P09917	GO:0042759	long-chain fatty acid biosynthetic process	P
+UniProtKB	P09917	GO:0042759	long-chain fatty acid biosynthetic process	P
+UniProtKB	P09917	GO:0042759	long-chain fatty acid biosynthetic process	P
+UniProtKB	P09917	GO:0042759	long-chain fatty acid biosynthetic process	P
+UniProtKB	P09917	GO:0042759	long-chain fatty acid biosynthetic process	P
+UniProtKB	P09917	GO:0042759	long-chain fatty acid biosynthetic process	P
+UniProtKB	P09923	GO:0006654	phosphatidic acid biosynthetic process	P
+UniProtKB	P09960	GO:0042759	long-chain fatty acid biosynthetic process	P
+UniProtKB	P09960	GO:0042759	long-chain fatty acid biosynthetic process	P
+UniProtKB	P09960	GO:0042759	long-chain fatty acid biosynthetic process	P
+UniProtKB	P09960	GO:0042759	long-chain fatty acid biosynthetic process	P
+UniProtKB	P09960	GO:0042759	long-chain fatty acid biosynthetic process	P
+UniProtKB	P0C024	GO:0044580	butyryl-CoA catabolic process	P
+UniProtKB	P0C7M7	GO:0006633	fatty acid biosynthetic process	P
+UniProtKB	P0C7U1	GO:0046514	ceramide catabolic process	P
+UniProtKB	P0C7U1	GO:0046512	sphingosine biosynthetic process	P
+UniProtKB	P0C7U1	GO:0042759	long-chain fatty acid biosynthetic process	P
+UniProtKB	P0C869	GO:0046475	glycerophospholipid catabolic process	P
+UniProtKB	P0C869	GO:0006654	phosphatidic acid biosynthetic process	P
+UniProtKB	P0C869	GO:0006644	phospholipid metabolic process	P
+UniProtKB	P0C869	GO:0036152	phosphatidylethanolamine acyl-chain remodeling	P
+UniProtKB	P0C869	GO:0036151	phosphatidylcholine acyl-chain remodeling	P
+UniProtKB	P0C869	GO:0036150	phosphatidylserine acyl-chain remodeling	P
+UniProtKB	P0C869	GO:0036148	phosphatidylglycerol acyl-chain remodeling	P
+UniProtKB	P0C869	GO:0019369	arachidonic acid metabolic process	P
+UniProtKB	P0C869	GO:0046475	glycerophospholipid catabolic process	P
+UniProtKB	P0C869-6	GO:0036152	phosphatidylethanolamine acyl-chain remodeling	P
+UniProtKB	P0C869-6	GO:0036151	phosphatidylcholine acyl-chain remodeling	P
+UniProtKB	P0C869-6	GO:0036151	phosphatidylcholine acyl-chain remodeling	P
+UniProtKB	P0C869-6	GO:0036152	phosphatidylethanolamine acyl-chain remodeling	P
+UniProtKB	P0C869-6	GO:0036151	phosphatidylcholine acyl-chain remodeling	P
+UniProtKB	P0C869-8	GO:0036152	phosphatidylethanolamine acyl-chain remodeling	P
+UniProtKB	P10619	GO:0006687	glycosphingolipid metabolic process	P
+UniProtKB	P10632	GO:0019373	epoxygenase P450 pathway	P
+UniProtKB	P10632	GO:0019373	epoxygenase P450 pathway	P
+UniProtKB	P10632	GO:0042573	retinoic acid metabolic process	P
+UniProtKB	P10632	GO:0019373	epoxygenase P450 pathway	P
+UniProtKB	P10632	GO:0042759	long-chain fatty acid biosynthetic process	P
+UniProtKB	P10632	GO:0097267	omega-hydroxylase P450 pathway	P
+UniProtKB	P10632	GO:0002933	lipid hydroxylation	P
+UniProtKB	P10635	GO:0019369	arachidonic acid metabolic process	P
+UniProtKB	P10635	GO:0042572	retinol metabolic process	P
+UniProtKB	P10635	GO:0042759	long-chain fatty acid biosynthetic process	P
+UniProtKB	P10635	GO:0016098	monoterpenoid metabolic process	P
+UniProtKB	P10745	GO:0001523	retinoid metabolic process	P
+UniProtKB	P10745	GO:0001523	retinoid metabolic process	P
+UniProtKB	P11150	GO:0006633	fatty acid biosynthetic process	P
+UniProtKB	P11150	GO:0019433	triglyceride catabolic process	P
+UniProtKB	P11150	GO:0019433	triglyceride catabolic process	P
+UniProtKB	P11150	GO:0019433	triglyceride catabolic process	P
+UniProtKB	P11150	GO:0019433	triglyceride catabolic process	P
+UniProtKB	P11150	GO:0034638	phosphatidylcholine catabolic process	P
+UniProtKB	P11150	GO:0006633	fatty acid biosynthetic process	P
+UniProtKB	P11310	GO:0006635	fatty acid beta-oxidation	P
+UniProtKB	P11310	GO:0051793	medium-chain fatty acid catabolic process	P
+UniProtKB	P11310	GO:0033539	fatty acid beta-oxidation using acyl-CoA dehydrogenase	P
+UniProtKB	P11310	GO:0006635	fatty acid beta-oxidation	P
+UniProtKB	P11310	GO:0006635	fatty acid beta-oxidation	P
+UniProtKB	P11310	GO:0006635	fatty acid beta-oxidation	P
+UniProtKB	P11310	GO:0033539	fatty acid beta-oxidation using acyl-CoA dehydrogenase	P
+UniProtKB	P11310	GO:0033539	fatty acid beta-oxidation using acyl-CoA dehydrogenase	P
+UniProtKB	P11310	GO:0033539	fatty acid beta-oxidation using acyl-CoA dehydrogenase	P
+UniProtKB	P11310	GO:0033539	fatty acid beta-oxidation using acyl-CoA dehydrogenase	P
+UniProtKB	P11310	GO:0051793	medium-chain fatty acid catabolic process	P
+UniProtKB	P11310	GO:0051791	medium-chain fatty acid metabolic process	P
+UniProtKB	P11310	GO:0006635	fatty acid beta-oxidation	P
+UniProtKB	P11509	GO:0019373	epoxygenase P450 pathway	P
+UniProtKB	P11597	GO:0046470	phosphatidylcholine metabolic process	P
+UniProtKB	P11597	GO:0006641	triglyceride metabolic process	P
+UniProtKB	P11597	GO:0006641	triglyceride metabolic process	P
+UniProtKB	P11597	GO:0046470	phosphatidylcholine metabolic process	P
+UniProtKB	P11712	GO:0019373	epoxygenase P450 pathway	P
+UniProtKB	P11712	GO:0019373	epoxygenase P450 pathway	P
+UniProtKB	P11712	GO:0019373	epoxygenase P450 pathway	P
+UniProtKB	P11712	GO:0042759	long-chain fatty acid biosynthetic process	P
+UniProtKB	P11712	GO:0097267	omega-hydroxylase P450 pathway	P
+UniProtKB	P11712	GO:0016098	monoterpenoid metabolic process	P
+UniProtKB	P11766	GO:0010430	fatty acid omega-oxidation	P
+UniProtKB	P12104	GO:0019433	triglyceride catabolic process	P
+UniProtKB	P12271	GO:0006776	vitamin A metabolic process	P
+UniProtKB	P12271	GO:0001523	retinoid metabolic process	P
+UniProtKB	P12271	GO:0001523	retinoid metabolic process	P
+UniProtKB	P13584	GO:0006631	fatty acid metabolic process	P
+UniProtKB	P13804	GO:0033539	fatty acid beta-oxidation using acyl-CoA dehydrogenase	P
+UniProtKB	P13804	GO:0033539	fatty acid beta-oxidation using acyl-CoA dehydrogenase	P
+UniProtKB	P14174	GO:0001516	prostaglandin biosynthetic process	P
+UniProtKB	P14324	GO:0045337	farnesyl diphosphate biosynthetic process	P
+UniProtKB	P14555	GO:0006644	phospholipid metabolic process	P
+UniProtKB	P14555	GO:0046470	phosphatidylcholine metabolic process	P
+UniProtKB	P14555	GO:0046337	phosphatidylethanolamine metabolic process	P
+UniProtKB	P14555	GO:0006654	phosphatidic acid biosynthetic process	P
+UniProtKB	P14555	GO:0036152	phosphatidylethanolamine acyl-chain remodeling	P
+UniProtKB	P14555	GO:0036151	phosphatidylcholine acyl-chain remodeling	P
+UniProtKB	P14555	GO:0036150	phosphatidylserine acyl-chain remodeling	P
+UniProtKB	P14555	GO:0036149	phosphatidylinositol acyl-chain remodeling	P
+UniProtKB	P14555	GO:0036148	phosphatidylglycerol acyl-chain remodeling	P
+UniProtKB	P14555	GO:0006644	phospholipid metabolic process	P
+UniProtKB	P14555	GO:0046473	phosphatidic acid metabolic process	P
+UniProtKB	P15090	GO:0019433	triglyceride catabolic process	P
+UniProtKB	P15121	GO:0001523	retinoid metabolic process	P
+UniProtKB	P15289	GO:0006687	glycosphingolipid metabolic process	P
+UniProtKB	P15428	GO:0006693	prostaglandin metabolic process	P
+UniProtKB	P15428	GO:0006693	prostaglandin metabolic process	P
+UniProtKB	P15428	GO:0042759	long-chain fatty acid biosynthetic process	P
+UniProtKB	P15428	GO:0042759	long-chain fatty acid biosynthetic process	P
+UniProtKB	P15428	GO:0019372	lipoxygenase pathway	P
+UniProtKB	P15428	GO:0006693	prostaglandin metabolic process	P
+UniProtKB	P16050	GO:0019372	lipoxygenase pathway	P
+UniProtKB	P16050	GO:0019369	arachidonic acid metabolic process	P
+UniProtKB	P16050	GO:0034440	lipid oxidation	P
+UniProtKB	P16050	GO:0051122	hepoxilin biosynthetic process	P
+UniProtKB	P16050	GO:0043651	linoleic acid metabolic process	P
+UniProtKB	P16050	GO:0019395	fatty acid oxidation	P
+UniProtKB	P16050	GO:0019395	fatty acid oxidation	P
+UniProtKB	P16050	GO:0019372	lipoxygenase pathway	P
+UniProtKB	P16050	GO:0019372	lipoxygenase pathway	P
+UniProtKB	P16050	GO:0019369	arachidonic acid metabolic process	P
+UniProtKB	P16050	GO:0019369	arachidonic acid metabolic process	P
+UniProtKB	P16050	GO:0019369	arachidonic acid metabolic process	P
+UniProtKB	P16050	GO:0019369	arachidonic acid metabolic process	P
+UniProtKB	P16050	GO:0006646	phosphatidylethanolamine biosynthetic process	P
+UniProtKB	P16050	GO:2001303	lipoxin A4 biosynthetic process	P
+UniProtKB	P16050	GO:0051122	hepoxilin biosynthetic process	P
+UniProtKB	P16050	GO:0043651	linoleic acid metabolic process	P
+UniProtKB	P16050	GO:0019372	lipoxygenase pathway	P
+UniProtKB	P16050	GO:0019372	lipoxygenase pathway	P
+UniProtKB	P16050	GO:0019372	lipoxygenase pathway	P
+UniProtKB	P16050	GO:0042759	long-chain fatty acid biosynthetic process	P
+UniProtKB	P16050	GO:0042759	long-chain fatty acid biosynthetic process	P
+UniProtKB	P16050	GO:0042759	long-chain fatty acid biosynthetic process	P
+UniProtKB	P16050	GO:0042759	long-chain fatty acid biosynthetic process	P
+UniProtKB	P16050	GO:0042759	long-chain fatty acid biosynthetic process	P
+UniProtKB	P16050	GO:0019369	arachidonic acid metabolic process	P
+UniProtKB	P16152	GO:0019371	cyclooxygenase pathway	P
+UniProtKB	P16219	GO:0046359	butyrate catabolic process	P
+UniProtKB	P16219	GO:0006635	fatty acid beta-oxidation	P
+UniProtKB	P16219	GO:0006635	fatty acid beta-oxidation	P
+UniProtKB	P16219	GO:0006635	fatty acid beta-oxidation	P
+UniProtKB	P16219	GO:0006635	fatty acid beta-oxidation	P
+UniProtKB	P16219	GO:0033539	fatty acid beta-oxidation using acyl-CoA dehydrogenase	P
+UniProtKB	P16233	GO:0001523	retinoid metabolic process	P
+UniProtKB	P16278	GO:0006687	glycosphingolipid metabolic process	P
+UniProtKB	P16442	GO:0030259	lipid glycosylation	P
+UniProtKB	P16671	GO:0006631	fatty acid metabolic process	P
+UniProtKB	P16671	GO:0006631	fatty acid metabolic process	P
+UniProtKB	P16885	GO:0006661	phosphatidylinositol biosynthetic process	P
+UniProtKB	P16885	GO:0006661	phosphatidylinositol biosynthetic process	P
+UniProtKB	P17050	GO:0046477	glycosylceramide catabolic process	P
+UniProtKB	P17050	GO:0019377	glycolipid catabolic process	P
+UniProtKB	P17405	GO:0006685	sphingomyelin catabolic process	P
+UniProtKB	P17405	GO:0046513	ceramide biosynthetic process	P
+UniProtKB	P17405	GO:0006685	sphingomyelin catabolic process	P
+UniProtKB	P17405	GO:0006685	sphingomyelin catabolic process	P
+UniProtKB	P17405	GO:0006685	sphingomyelin catabolic process	P
+UniProtKB	P17405	GO:0046513	ceramide biosynthetic process	P
+UniProtKB	P17405	GO:0046513	ceramide biosynthetic process	P
+UniProtKB	P17405	GO:0046513	ceramide biosynthetic process	P
+UniProtKB	P17405	GO:0046513	ceramide biosynthetic process	P
+UniProtKB	P17405	GO:0006684	sphingomyelin metabolic process	P
+UniProtKB	P17405	GO:0006687	glycosphingolipid metabolic process	P
+UniProtKB	P17405	GO:0046513	ceramide biosynthetic process	P
+UniProtKB	P17516	GO:0006693	prostaglandin metabolic process	P
+UniProtKB	P17516	GO:0001523	retinoid metabolic process	P
+UniProtKB	P17861	GO:0006633	fatty acid biosynthetic process	P
+UniProtKB	P17900	GO:0006689	ganglioside catabolic process	P
+UniProtKB	P17900	GO:0006687	glycosphingolipid metabolic process	P
+UniProtKB	P18054	GO:0043651	linoleic acid metabolic process	P
+UniProtKB	P18054	GO:0051122	hepoxilin biosynthetic process	P
+UniProtKB	P18054	GO:0034440	lipid oxidation	P
+UniProtKB	P18054	GO:0019369	arachidonic acid metabolic process	P
+UniProtKB	P18054	GO:0019372	lipoxygenase pathway	P
+UniProtKB	P18054	GO:0019395	fatty acid oxidation	P
+UniProtKB	P18054	GO:0019395	fatty acid oxidation	P
+UniProtKB	P18054	GO:0019395	fatty acid oxidation	P
+UniProtKB	P18054	GO:0019395	fatty acid oxidation	P
+UniProtKB	P18054	GO:0019395	fatty acid oxidation	P
+UniProtKB	P18054	GO:0019395	fatty acid oxidation	P
+UniProtKB	P18054	GO:0019372	lipoxygenase pathway	P
+UniProtKB	P18054	GO:0019369	arachidonic acid metabolic process	P
+UniProtKB	P18054	GO:0019369	arachidonic acid metabolic process	P
+UniProtKB	P18054	GO:0019369	arachidonic acid metabolic process	P
+UniProtKB	P18054	GO:0033559	unsaturated fatty acid metabolic process	P
+UniProtKB	P18054	GO:0033559	unsaturated fatty acid metabolic process	P
+UniProtKB	P18054	GO:0033559	unsaturated fatty acid metabolic process	P
+UniProtKB	P18054	GO:2001306	lipoxin B4 biosynthetic process	P
+UniProtKB	P18054	GO:2001303	lipoxin A4 biosynthetic process	P
+UniProtKB	P18054	GO:0051122	hepoxilin biosynthetic process	P
+UniProtKB	P18054	GO:0043651	linoleic acid metabolic process	P
+UniProtKB	P18054	GO:0043651	linoleic acid metabolic process	P
+UniProtKB	P18054	GO:0019372	lipoxygenase pathway	P
+UniProtKB	P18054	GO:0019372	lipoxygenase pathway	P
+UniProtKB	P18054	GO:0051121	hepoxilin metabolic process	P
+UniProtKB	P18054	GO:0042759	long-chain fatty acid biosynthetic process	P
+UniProtKB	P18054	GO:0042759	long-chain fatty acid biosynthetic process	P
+UniProtKB	P18054	GO:0019395	fatty acid oxidation	P
+UniProtKB	P18827	GO:0001523	retinoid metabolic process	P
+UniProtKB	P19174	GO:0046488	phosphatidylinositol metabolic process	P
+UniProtKB	P19440	GO:0006631	fatty acid metabolic process	P
+UniProtKB	P19784	GO:0006656	phosphatidylcholine biosynthetic process	P
+UniProtKB	P19835	GO:0009062	fatty acid catabolic process	P
+UniProtKB	P20292	GO:0019372	lipoxygenase pathway	P
+UniProtKB	P20338	GO:0006661	phosphatidylinositol biosynthetic process	P
+UniProtKB	P20339	GO:0006661	phosphatidylinositol biosynthetic process	P
+UniProtKB	P20800	GO:0001516	prostaglandin biosynthetic process	P
+UniProtKB	P20813	GO:0019373	epoxygenase P450 pathway	P
+UniProtKB	P20815	GO:0042573	retinoic acid metabolic process	P
+UniProtKB	P20815	GO:0002933	lipid hydroxylation	P
+UniProtKB	P20853	GO:0019373	epoxygenase P450 pathway	P
+UniProtKB	P21217	GO:0006672	ceramide metabolic process	P
+UniProtKB	P21217	GO:0006672	ceramide metabolic process	P
+UniProtKB	P21695	GO:0006654	phosphatidic acid biosynthetic process	P
+UniProtKB	P22033	GO:0019626	short-chain fatty acid catabolic process	P
+UniProtKB	P22303	GO:0006656	phosphatidylcholine biosynthetic process	P
+UniProtKB	P22307	GO:0006635	fatty acid beta-oxidation	P
+UniProtKB	P22307	GO:0033540	fatty acid beta-oxidation using acyl-CoA oxidase	P
+UniProtKB	P22307	GO:0036109	alpha-linolenic acid metabolic process	P
+UniProtKB	P22309	GO:0042573	retinoic acid metabolic process	P
+UniProtKB	P23141	GO:0051791	medium-chain fatty acid metabolic process	P
+UniProtKB	P23219	GO:0019371	cyclooxygenase pathway	P
+UniProtKB	P23219	GO:0006692	prostanoid metabolic process	P
+UniProtKB	P23219	GO:0019371	cyclooxygenase pathway	P
+UniProtKB	P23219	GO:0001516	prostaglandin biosynthetic process	P
+UniProtKB	P23677	GO:0046854	phosphatidylinositol phosphate biosynthetic process	P
+UniProtKB	P23743	GO:0046339	diacylglycerol metabolic process	P
+UniProtKB	P23743	GO:0046834	lipid phosphorylation	P
+UniProtKB	P23743	GO:0006654	phosphatidic acid biosynthetic process	P
+UniProtKB	P23743	GO:0006654	phosphatidic acid biosynthetic process	P
+UniProtKB	P23743	GO:0046834	lipid phosphorylation	P
+UniProtKB	P23743	GO:0046834	lipid phosphorylation	P
+UniProtKB	P23743	GO:0046339	diacylglycerol metabolic process	P
+UniProtKB	P23743	GO:0046339	diacylglycerol metabolic process	P
+UniProtKB	P23743	GO:0006654	phosphatidic acid biosynthetic process	P
+UniProtKB	P23743	GO:0046834	lipid phosphorylation	P
+UniProtKB	P23743	GO:0046834	lipid phosphorylation	P
+UniProtKB	P23743	GO:0046486	glycerolipid metabolic process	P
+UniProtKB	P23743	GO:0046339	diacylglycerol metabolic process	P
+UniProtKB	P23786	GO:0006635	fatty acid beta-oxidation	P
+UniProtKB	P23786	GO:0001676	long-chain fatty acid metabolic process	P
+UniProtKB	P23786	GO:0006635	fatty acid beta-oxidation	P
+UniProtKB	P24462	GO:0042573	retinoic acid metabolic process	P
+UniProtKB	P24462	GO:0002933	lipid hydroxylation	P
+UniProtKB	P24557	GO:0001516	prostaglandin biosynthetic process	P
+UniProtKB	P24557	GO:0019371	cyclooxygenase pathway	P
+UniProtKB	P24752	GO:0034435	cholesterol esterification	P
+UniProtKB	P24752	GO:0006635	fatty acid beta-oxidation	P
+UniProtKB	P24903	GO:0019373	epoxygenase P450 pathway	P
+UniProtKB	P25713	GO:0044242	cellular lipid catabolic process	P
+UniProtKB	P26440	GO:0033539	fatty acid beta-oxidation using acyl-CoA dehydrogenase	P
+UniProtKB	P27169	GO:0019372	lipoxygenase pathway	P
+UniProtKB	P27169	GO:0046470	phosphatidylcholine metabolic process	P
+UniProtKB	P27544	GO:0046513	ceramide biosynthetic process	P
+UniProtKB	P27544	GO:0046513	ceramide biosynthetic process	P
+UniProtKB	P27544	GO:0046513	ceramide biosynthetic process	P
+UniProtKB	P27544	GO:0030148	sphingolipid biosynthetic process	P
+UniProtKB	P27544	GO:0030148	sphingolipid biosynthetic process	P
+UniProtKB	P27544	GO:0046513	ceramide biosynthetic process	P
+UniProtKB	P27544	GO:0046513	ceramide biosynthetic process	P
+UniProtKB	P27544	GO:0046513	ceramide biosynthetic process	P
+UniProtKB	P27544	GO:0046513	ceramide biosynthetic process	P
+UniProtKB	P27544	GO:0046513	ceramide biosynthetic process	P
+UniProtKB	P27986	GO:0046854	phosphatidylinositol phosphate biosynthetic process	P
+UniProtKB	P27986	GO:0006661	phosphatidylinositol biosynthetic process	P
+UniProtKB	P27986	GO:0046854	phosphatidylinositol phosphate biosynthetic process	P
+UniProtKB	P27986	GO:0046854	phosphatidylinositol phosphate biosynthetic process	P
+UniProtKB	P27987	GO:0046854	phosphatidylinositol phosphate biosynthetic process	P
+UniProtKB	P28039	GO:0009104	lipopolysaccharide catabolic process	P
+UniProtKB	P28039	GO:0009104	lipopolysaccharide catabolic process	P
+UniProtKB	P28039	GO:0009104	lipopolysaccharide catabolic process	P
+UniProtKB	P28039	GO:0006631	fatty acid metabolic process	P
+UniProtKB	P28039	GO:0006631	fatty acid metabolic process	P
+UniProtKB	P28161	GO:0051122	hepoxilin biosynthetic process	P
+UniProtKB	P28161	GO:0043651	linoleic acid metabolic process	P
+UniProtKB	P28288	GO:0042760	very long-chain fatty acid catabolic process	P
+UniProtKB	P28288	GO:0006635	fatty acid beta-oxidation	P
+UniProtKB	P28288	GO:0006635	fatty acid beta-oxidation	P
+UniProtKB	P28288	GO:0006633	fatty acid biosynthetic process	P
+UniProtKB	P28288	GO:0006635	fatty acid beta-oxidation	P
+UniProtKB	P28288	GO:0042760	very long-chain fatty acid catabolic process	P
+UniProtKB	P28328	GO:0000038	very long-chain fatty acid metabolic process	P
+UniProtKB	P28328	GO:0006635	fatty acid beta-oxidation	P
+UniProtKB	P28328	GO:0000038	very long-chain fatty acid metabolic process	P
+UniProtKB	P28328	GO:0006635	fatty acid beta-oxidation	P
+UniProtKB	P28328	GO:0006635	fatty acid beta-oxidation	P
+UniProtKB	P28329	GO:0006656	phosphatidylcholine biosynthetic process	P
+UniProtKB	P28330	GO:0033539	fatty acid beta-oxidation using acyl-CoA dehydrogenase	P
+UniProtKB	P28330	GO:0042758	long-chain fatty acid catabolic process	P
+UniProtKB	P28330	GO:0006635	fatty acid beta-oxidation	P
+UniProtKB	P28330	GO:0006635	fatty acid beta-oxidation	P
+UniProtKB	P28330	GO:0033539	fatty acid beta-oxidation using acyl-CoA dehydrogenase	P
+UniProtKB	P28330	GO:0044242	cellular lipid catabolic process	P
+UniProtKB	P28332	GO:0042573	retinoic acid metabolic process	P
+UniProtKB	P28332	GO:0042572	retinol metabolic process	P
+UniProtKB	P29218	GO:0006661	phosphatidylinositol biosynthetic process	P
+UniProtKB	P30041	GO:0046475	glycerophospholipid catabolic process	P
+UniProtKB	P30084	GO:0006635	fatty acid beta-oxidation	P
+UniProtKB	P30084	GO:0006635	fatty acid beta-oxidation	P
+UniProtKB	P30084	GO:0006635	fatty acid beta-oxidation	P
+UniProtKB	P30084	GO:0006635	fatty acid beta-oxidation	P
+UniProtKB	P30084	GO:0006635	fatty acid beta-oxidation	P
+UniProtKB	P30084	GO:0006635	fatty acid beta-oxidation	P
+UniProtKB	P30084	GO:0006635	fatty acid beta-oxidation	P
+UniProtKB	P30084	GO:0006635	fatty acid beta-oxidation	P
+UniProtKB	P30153	GO:0006672	ceramide metabolic process	P
+UniProtKB	P31327	GO:0019433	triglyceride catabolic process	P
+UniProtKB	P31431	GO:0001523	retinoid metabolic process	P
+UniProtKB	P32019	GO:0046856	phosphatidylinositol dephosphorylation	P
+UniProtKB	P32019	GO:0046856	phosphatidylinositol dephosphorylation	P
+UniProtKB	P32189	GO:0006641	triglyceride metabolic process	P
+UniProtKB	P32189	GO:0019432	triglyceride biosynthetic process	P
+UniProtKB	P32189	GO:0006641	triglyceride metabolic process	P
+UniProtKB	P33121	GO:0000038	very long-chain fatty acid metabolic process	P
+UniProtKB	P33121	GO:0001676	long-chain fatty acid metabolic process	P
+UniProtKB	P33121	GO:0043651	linoleic acid metabolic process	P
+UniProtKB	P33121	GO:0036109	alpha-linolenic acid metabolic process	P
+UniProtKB	P33121	GO:0001676	long-chain fatty acid metabolic process	P
+UniProtKB	P33260	GO:0019373	epoxygenase P450 pathway	P
+UniProtKB	P33260	GO:0042573	retinoic acid metabolic process	P
+UniProtKB	P33261	GO:0019373	epoxygenase P450 pathway	P
+UniProtKB	P33261	GO:0019373	epoxygenase P450 pathway	P
+UniProtKB	P33261	GO:0097267	omega-hydroxylase P450 pathway	P
+UniProtKB	P33261	GO:0016098	monoterpenoid metabolic process	P
+UniProtKB	P33897	GO:0006635	fatty acid beta-oxidation	P
+UniProtKB	P33897	GO:0042760	very long-chain fatty acid catabolic process	P
+UniProtKB	P33897	GO:0030497	fatty acid elongation	P
+UniProtKB	P33897	GO:0006635	fatty acid beta-oxidation	P
+UniProtKB	P33897	GO:0042758	long-chain fatty acid catabolic process	P
+UniProtKB	P33897	GO:0033540	fatty acid beta-oxidation using acyl-CoA oxidase	P
+UniProtKB	P33897	GO:0043651	linoleic acid metabolic process	P
+UniProtKB	P33897	GO:0036109	alpha-linolenic acid metabolic process	P
+UniProtKB	P33897	GO:0006635	fatty acid beta-oxidation	P
+UniProtKB	P33897	GO:0006635	fatty acid beta-oxidation	P
+UniProtKB	P33897	GO:0006635	fatty acid beta-oxidation	P
+UniProtKB	P33897	GO:0006635	fatty acid beta-oxidation	P
+UniProtKB	P33897	GO:0042760	very long-chain fatty acid catabolic process	P
+UniProtKB	P33897	GO:0042760	very long-chain fatty acid catabolic process	P
+UniProtKB	P33897	GO:0042760	very long-chain fatty acid catabolic process	P
+UniProtKB	P33897	GO:0042758	long-chain fatty acid catabolic process	P
+UniProtKB	P34741	GO:0001523	retinoid metabolic process	P
+UniProtKB	P34913	GO:0046839	phospholipid dephosphorylation	P
+UniProtKB	P34913	GO:0046839	phospholipid dephosphorylation	P
+UniProtKB	P34913	GO:0019373	epoxygenase P450 pathway	P
+UniProtKB	P34913	GO:0042759	long-chain fatty acid biosynthetic process	P
+UniProtKB	P35052	GO:0001523	retinoid metabolic process	P
+UniProtKB	P35354	GO:0019371	cyclooxygenase pathway	P
+UniProtKB	P35354	GO:0019371	cyclooxygenase pathway	P
+UniProtKB	P35354	GO:0001516	prostaglandin biosynthetic process	P
+UniProtKB	P35354	GO:0001516	prostaglandin biosynthetic process	P
+UniProtKB	P35354	GO:0019372	lipoxygenase pathway	P
+UniProtKB	P35354	GO:0019372	lipoxygenase pathway	P
+UniProtKB	P35354	GO:0019371	cyclooxygenase pathway	P
+UniProtKB	P35354	GO:0042759	long-chain fatty acid biosynthetic process	P
+UniProtKB	P35354	GO:0042759	long-chain fatty acid biosynthetic process	P
+UniProtKB	P35354	GO:0042759	long-chain fatty acid biosynthetic process	P
+UniProtKB	P35354	GO:0019371	cyclooxygenase pathway	P
+UniProtKB	P35354	GO:0001516	prostaglandin biosynthetic process	P
+UniProtKB	P35503	GO:0042573	retinoic acid metabolic process	P
+UniProtKB	P35558	GO:0046327	glycerol biosynthetic process from pyruvate	P
+UniProtKB	P35558	GO:0019543	propionate catabolic process	P
+UniProtKB	P35558	GO:0046327	glycerol biosynthetic process from pyruvate	P
+UniProtKB	P35610	GO:0034435	cholesterol esterification	P
+UniProtKB	P35610	GO:0034435	cholesterol esterification	P
+UniProtKB	P35610	GO:0034435	cholesterol esterification	P
+UniProtKB	P35610	GO:0034435	cholesterol esterification	P
+UniProtKB	P35610	GO:0034435	cholesterol esterification	P
+UniProtKB	P35790	GO:0006656	phosphatidylcholine biosynthetic process	P
+UniProtKB	P35790	GO:0006646	phosphatidylethanolamine biosynthetic process	P
+UniProtKB	P35790	GO:0006656	phosphatidylcholine biosynthetic process	P
+UniProtKB	P35790	GO:0006646	phosphatidylethanolamine biosynthetic process	P
+UniProtKB	P36269	GO:0006631	fatty acid metabolic process	P
+UniProtKB	P36969	GO:0019372	lipoxygenase pathway	P
+UniProtKB	P36969	GO:0019369	arachidonic acid metabolic process	P
+UniProtKB	P36969	GO:0019372	lipoxygenase pathway	P
+UniProtKB	P36969	GO:0042759	long-chain fatty acid biosynthetic process	P
+UniProtKB	P36969	GO:0042759	long-chain fatty acid biosynthetic process	P
+UniProtKB	P36969	GO:0042759	long-chain fatty acid biosynthetic process	P
+UniProtKB	P36969	GO:0042759	long-chain fatty acid biosynthetic process	P
+UniProtKB	P36969	GO:0006644	phospholipid metabolic process	P
+UniProtKB	P37231	GO:0006631	fatty acid metabolic process	P
+UniProtKB	P37268	GO:0045338	farnesyl diphosphate metabolic process	P
+UniProtKB	P37287	GO:0006506	GPI anchor biosynthetic process	P
+UniProtKB	P37287	GO:0006506	GPI anchor biosynthetic process	P
+UniProtKB	P37287	GO:0016254	preassembly of GPI anchor in ER membrane	P
+UniProtKB	P38117	GO:0033539	fatty acid beta-oxidation using acyl-CoA dehydrogenase	P
+UniProtKB	P39877	GO:0006644	phospholipid metabolic process	P
+UniProtKB	P39877	GO:0034638	phosphatidylcholine catabolic process	P
+UniProtKB	P39877	GO:0035965	cardiolipin acyl-chain remodeling	P
+UniProtKB	P39877	GO:0006644	phospholipid metabolic process	P
+UniProtKB	P39877	GO:0006654	phosphatidic acid biosynthetic process	P
+UniProtKB	P39877	GO:0036152	phosphatidylethanolamine acyl-chain remodeling	P
+UniProtKB	P39877	GO:0036151	phosphatidylcholine acyl-chain remodeling	P
+UniProtKB	P39877	GO:0036150	phosphatidylserine acyl-chain remodeling	P
+UniProtKB	P39877	GO:0036149	phosphatidylinositol acyl-chain remodeling	P
+UniProtKB	P39877	GO:0036148	phosphatidylglycerol acyl-chain remodeling	P
+UniProtKB	P40394	GO:0042572	retinol metabolic process	P
+UniProtKB	P40394	GO:0042573	retinoic acid metabolic process	P
+UniProtKB	P40394	GO:0001523	retinoid metabolic process	P
+UniProtKB	P40394	GO:0001523	retinoid metabolic process	P
+UniProtKB	P40394	GO:0010430	fatty acid omega-oxidation	P
+UniProtKB	P40939	GO:0006635	fatty acid beta-oxidation	P
+UniProtKB	P40939	GO:0035965	cardiolipin acyl-chain remodeling	P
+UniProtKB	P40939	GO:0006635	fatty acid beta-oxidation	P
+UniProtKB	P40939	GO:0006635	fatty acid beta-oxidation	P
+UniProtKB	P40939	GO:0006635	fatty acid beta-oxidation	P
+UniProtKB	P40939	GO:0006635	fatty acid beta-oxidation	P
+UniProtKB	P40939	GO:0006635	fatty acid beta-oxidation	P
+UniProtKB	P40939	GO:0006635	fatty acid beta-oxidation	P
+UniProtKB	P40939	GO:0035965	cardiolipin acyl-chain remodeling	P
+UniProtKB	P41222	GO:0001516	prostaglandin biosynthetic process	P
+UniProtKB	P41222	GO:0001516	prostaglandin biosynthetic process	P
+UniProtKB	P41222	GO:0019371	cyclooxygenase pathway	P
+UniProtKB	P41222	GO:0001516	prostaglandin biosynthetic process	P
+UniProtKB	P41247	GO:0019433	triglyceride catabolic process	P
+UniProtKB	P41247	GO:0019433	triglyceride catabolic process	P
+UniProtKB	P42126	GO:0006635	fatty acid beta-oxidation	P
+UniProtKB	P42126	GO:0006635	fatty acid beta-oxidation	P
+UniProtKB	P42126	GO:0006635	fatty acid beta-oxidation	P
+UniProtKB	P42126	GO:0006635	fatty acid beta-oxidation	P
+UniProtKB	P42126	GO:0006635	fatty acid beta-oxidation	P
+UniProtKB	P42330	GO:0006693	prostaglandin metabolic process	P
+UniProtKB	P42330	GO:0001523	retinoid metabolic process	P
+UniProtKB	P42330	GO:0019371	cyclooxygenase pathway	P
+UniProtKB	P42330	GO:0016488	farnesol catabolic process	P
+UniProtKB	P42330	GO:0006693	prostaglandin metabolic process	P
+UniProtKB	P42330	GO:0006693	prostaglandin metabolic process	P
+UniProtKB	P42330	GO:0042574	retinal metabolic process	P
+UniProtKB	P42336	GO:0036092	phosphatidylinositol-3-phosphate biosynthetic process	P
+UniProtKB	P42336	GO:0046854	phosphatidylinositol phosphate biosynthetic process	P
+UniProtKB	P42336	GO:0006661	phosphatidylinositol biosynthetic process	P
+UniProtKB	P42336	GO:0046854	phosphatidylinositol phosphate biosynthetic process	P
+UniProtKB	P42338	GO:0046854	phosphatidylinositol phosphate biosynthetic process	P
+UniProtKB	P42338	GO:0036092	phosphatidylinositol-3-phosphate biosynthetic process	P
+UniProtKB	P42338	GO:0006661	phosphatidylinositol biosynthetic process	P
+UniProtKB	P42356	GO:0046854	phosphatidylinositol phosphate biosynthetic process	P
+UniProtKB	P42356	GO:0046854	phosphatidylinositol phosphate biosynthetic process	P
+UniProtKB	P42356	GO:0006661	phosphatidylinositol biosynthetic process	P
+UniProtKB	P42356	GO:0006661	phosphatidylinositol biosynthetic process	P
+UniProtKB	P42356	GO:0006661	phosphatidylinositol biosynthetic process	P
+UniProtKB	P42765	GO:0006635	fatty acid beta-oxidation	P
+UniProtKB	P42765	GO:0006635	fatty acid beta-oxidation	P
+UniProtKB	P43034	GO:0046469	platelet activating factor metabolic process	P
+UniProtKB	P43155	GO:0033540	fatty acid beta-oxidation using acyl-CoA oxidase	P
+UniProtKB	P43155	GO:0051791	medium-chain fatty acid metabolic process	P
+UniProtKB	P43155	GO:0046459	short-chain fatty acid metabolic process	P
+UniProtKB	P43155	GO:0033540	fatty acid beta-oxidation using acyl-CoA oxidase	P
+UniProtKB	P43353	GO:0030148	sphingolipid biosynthetic process	P
+UniProtKB	P45954	GO:0006631	fatty acid metabolic process	P
+UniProtKB	P47712	GO:0046475	glycerophospholipid catabolic process	P
+UniProtKB	P47712	GO:0019369	arachidonic acid metabolic process	P
+UniProtKB	P47712	GO:0001516	prostaglandin biosynthetic process	P
+UniProtKB	P47712	GO:0001516	prostaglandin biosynthetic process	P
+UniProtKB	P47712	GO:0034638	phosphatidylcholine catabolic process	P
+UniProtKB	P47712	GO:0034638	phosphatidylcholine catabolic process	P
+UniProtKB	P47712	GO:0034638	phosphatidylcholine catabolic process	P
+UniProtKB	P47712	GO:0034638	phosphatidylcholine catabolic process	P
+UniProtKB	P47712	GO:0034638	phosphatidylcholine catabolic process	P
+UniProtKB	P47712	GO:0034478	phosphatidylglycerol catabolic process	P
+UniProtKB	P47712	GO:0006640	monoacylglycerol biosynthetic process	P
+UniProtKB	P47712	GO:0036151	phosphatidylcholine acyl-chain remodeling	P
+UniProtKB	P47712	GO:0019369	arachidonic acid metabolic process	P
+UniProtKB	P47712	GO:0006654	phosphatidic acid biosynthetic process	P

@@ -1,0 +1,213 @@
+﻿GENE PRODUCT DB	GENE PRODUCT ID	GO TERM	GO NAME	GO ASPECT
+UniProtKB	A0MFS5	GO:0015979	photosynthesis	P
+UniProtKB	B3H5S2	GO:0015979	photosynthesis	P
+UniProtKB	B9DHG0	GO:0048564	photosystem I assembly	P
+UniProtKB	B9DHG0	GO:0048564	photosystem I assembly	P
+UniProtKB	F4I890	GO:0009773	photosynthetic electron transport in photosystem I	P
+UniProtKB	F4I896	GO:0015979	photosynthesis	P
+UniProtKB	F4IAG5	GO:0015979	photosynthesis	P
+UniProtKB	F4J1L5	GO:0010207	photosystem II assembly	P
+UniProtKB	F4J1L5	GO:0048564	photosystem I assembly	P
+UniProtKB	F4JGR5	GO:0015979	photosynthesis	P
+UniProtKB	F4JGR5	GO:0015979	photosynthesis	P
+UniProtKB	F4JHA2	GO:0015979	photosynthesis	P
+UniProtKB	F4JQE2	GO:0015979	photosynthesis	P
+UniProtKB	F4K8I1	GO:0009768	photosynthesis, light harvesting in photosystem I	P
+UniProtKB	O22609	GO:0010206	photosystem II repair	P
+UniProtKB	O22682	GO:0015979	photosynthesis	P
+UniProtKB	O22773	GO:0010206	photosystem II repair	P
+UniProtKB	O23403	GO:0048564	photosystem I assembly	P
+UniProtKB	O49668	GO:0010207	photosystem II assembly	P
+UniProtKB	O64750	GO:0048564	photosystem I assembly	P
+UniProtKB	O65502	GO:0010207	photosystem II assembly	P
+UniProtKB	O80860	GO:0010206	photosystem II repair	P
+UniProtKB	O80860	GO:0048564	photosystem I assembly	P
+UniProtKB	O81208	GO:0010207	photosystem II assembly	P
+UniProtKB	O81208	GO:0010207	photosystem II assembly	P
+UniProtKB	O82261	GO:0010206	photosystem II repair	P
+UniProtKB	P04778	GO:0009768	photosynthesis, light harvesting in photosystem I	P
+UniProtKB	P0CJ48	GO:0009768	photosynthesis, light harvesting in photosystem I	P
+UniProtKB	P10795	GO:0015979	photosynthesis	P
+UniProtKB	P14713	GO:0015979	photosynthesis	P
+UniProtKB	P16972	GO:0009767	photosynthetic electron transport chain	P
+UniProtKB	P23321	GO:0019684	photosynthesis, light reaction	P
+UniProtKB	P23321	GO:0010207	photosystem II assembly	P
+UniProtKB	P25851	GO:0015979	photosynthesis	P
+UniProtKB	P25851	GO:0009773	photosynthetic electron transport in photosystem I	P
+UniProtKB	P25856	GO:0019253	reductive pentose-phosphate cycle	P
+UniProtKB	P25857	GO:0019253	reductive pentose-phosphate cycle	P
+UniProtKB	P27140	GO:0015979	photosynthesis	P
+UniProtKB	P27202	GO:0010270	photosystem II oxygen evolving complex assembly	P
+UniProtKB	P27521	GO:0009768	photosynthesis, light harvesting in photosystem I	P
+UniProtKB	P27521	GO:0009768	photosynthesis, light harvesting in photosystem I	P
+UniProtKB	P46283	GO:0019253	reductive pentose-phosphate cycle	P
+UniProtKB	P49599	GO:0009767	photosynthetic electron transport chain	P
+UniProtKB	P56751	GO:0015979	photosynthesis	P
+UniProtKB	P56755	GO:0015979	photosynthesis	P
+UniProtKB	P56766	GO:0015979	photosynthesis	P
+UniProtKB	P56771	GO:0009767	photosynthetic electron transport chain	P
+UniProtKB	P56777	GO:0010207	photosystem II assembly	P
+UniProtKB	P56788	GO:0048564	photosystem I assembly	P
+UniProtKB	P61843	GO:0048564	photosystem I assembly	P
+UniProtKB	P62090	GO:0015979	photosynthesis	P
+UniProtKB	P62090	GO:0015979	photosynthesis	P
+UniProtKB	Q01667	GO:0009768	photosynthesis, light harvesting in photosystem I	P
+UniProtKB	Q01667	GO:0009768	photosynthesis, light harvesting in photosystem I	P
+UniProtKB	Q01667	GO:0009768	photosynthesis, light harvesting in photosystem I	P
+UniProtKB	Q01908	GO:0009772	photosynthetic electron transport in photosystem II	P
+UniProtKB	Q07473	GO:0009768	photosynthesis, light harvesting in photosystem I	P
+UniProtKB	Q0WRJ7	GO:0010207	photosystem II assembly	P
+UniProtKB	Q0WUA3	GO:0009772	photosynthetic electron transport in photosystem II	P
+UniProtKB	Q2V4B2	GO:0009767	photosynthetic electron transport chain	P
+UniProtKB	Q2V4B2	GO:0009767	photosynthetic electron transport chain	P
+UniProtKB	Q37165	GO:0015979	photosynthesis	P
+UniProtKB	Q39101	GO:0015979	photosynthesis	P
+UniProtKB	Q39102	GO:0010206	photosystem II repair	P
+UniProtKB	Q39141	GO:0009768	photosynthesis, light harvesting in photosystem I	P
+UniProtKB	Q39142	GO:0009768	photosynthesis, light harvesting in photosystem I	P
+UniProtKB	Q3KTM0	GO:0009767	photosynthetic electron transport chain	P
+UniProtKB	Q41932	GO:0009767	photosynthetic electron transport chain	P
+UniProtKB	Q42029	GO:0019684	photosynthesis, light reaction	P
+UniProtKB	Q84RQ7	GO:0048564	photosystem I assembly	P
+UniProtKB	Q8GSJ6	GO:0010206	photosystem II repair	P
+UniProtKB	Q8GYC7	GO:0009773	photosynthetic electron transport in photosystem I	P
+UniProtKB	Q8GYN2	GO:0015979	photosynthesis	P
+UniProtKB	Q8H112	GO:0009773	photosynthetic electron transport in photosystem I	P
+UniProtKB	Q8H112	GO:0009773	photosynthetic electron transport in photosystem I	P
+UniProtKB	Q8L540	GO:0010207	photosystem II assembly	P
+UniProtKB	Q8L923	GO:0015979	photosynthesis	P
+UniProtKB	Q8LCA1	GO:0009773	photosynthetic electron transport in photosystem I	P
+UniProtKB	Q8LCQ4	GO:0009768	photosynthesis, light harvesting in photosystem I	P
+UniProtKB	Q8LCQ4	GO:0009768	photosynthesis, light harvesting in photosystem I	P
+UniProtKB	Q8RWG1	GO:0009767	photosynthetic electron transport chain	P
+UniProtKB	Q8RXS1	GO:0009773	photosynthetic electron transport in photosystem I	P
+UniProtKB	Q8VZ87	GO:0009768	photosynthesis, light harvesting in photosystem I	P
+UniProtKB	Q8W481	GO:0009773	photosynthetic electron transport in photosystem I	P
+UniProtKB	Q8W481	GO:0009772	photosynthetic electron transport in photosystem II	P
+UniProtKB	Q8W4D6	GO:0010207	photosystem II assembly	P
+UniProtKB	Q8W4D6	GO:0010207	photosystem II assembly	P
+UniProtKB	Q8W4M5	GO:0015979	photosynthesis	P
+UniProtKB	Q8W4M5	GO:0015979	photosynthesis	P
+UniProtKB	Q940Y6	GO:0015979	photosynthesis	P
+UniProtKB	Q949Q5	GO:0009767	photosynthetic electron transport chain	P
+UniProtKB	Q949Q5	GO:0009768	photosynthesis, light harvesting in photosystem I	P
+UniProtKB	Q949Y5	GO:0010207	photosystem II assembly	P
+UniProtKB	Q949Y5	GO:0048564	photosystem I assembly	P
+UniProtKB	Q94AQ8	GO:0009773	photosynthetic electron transport in photosystem I	P
+UniProtKB	Q94AX5	GO:0010270	photosystem II oxygen evolving complex assembly	P
+UniProtKB	Q94B38	GO:0015979	photosynthesis	P
+UniProtKB	Q94BS2	GO:0010207	photosystem II assembly	P
+UniProtKB	Q94BS2	GO:0010206	photosystem II repair	P
+UniProtKB	Q94BS2	GO:0015979	photosynthesis	P
+UniProtKB	Q95695	GO:0015979	photosynthesis	P
+UniProtKB	Q96289	GO:0015979	photosynthesis	P
+UniProtKB	Q9C503	GO:0009773	photosynthetic electron transport in photosystem I	P
+UniProtKB	Q9C639	GO:0009768	photosynthesis, light harvesting in photosystem I	P
+UniProtKB	Q9C639	GO:0009768	photosynthesis, light harvesting in photosystem I	P
+UniProtKB	Q9C639	GO:0009768	photosynthesis, light harvesting in photosystem I	P
+UniProtKB	Q9C639	GO:0009768	photosynthesis, light harvesting in photosystem I	P
+UniProtKB	Q9C9I7	GO:0010207	photosystem II assembly	P
+UniProtKB	Q9C9K1	GO:0009768	photosynthesis, light harvesting in photosystem I	P
+UniProtKB	Q9C9K3	GO:0015979	photosynthesis	P
+UniProtKB	Q9C9K3	GO:0015979	photosynthesis	P
+UniProtKB	Q9CAC5	GO:0009773	photosynthetic electron transport in photosystem I	P
+UniProtKB	Q9FEC1	GO:0010207	photosystem II assembly	P
+UniProtKB	Q9FH02	GO:0048564	photosystem I assembly	P
+UniProtKB	Q9FJ82	GO:0019684	photosynthesis, light reaction	P
+UniProtKB	Q9FK23	GO:0015979	photosynthesis	P
+UniProtKB	Q9FKW6	GO:0009767	photosynthetic electron transport chain	P
+UniProtKB	Q9LD57	GO:0019253	reductive pentose-phosphate cycle	P
+UniProtKB	Q9LIM5	GO:0010207	photosystem II assembly	P
+UniProtKB	Q9LMQ2	GO:0009768	photosynthesis, light harvesting in photosystem I	P
+UniProtKB	Q9LMQ2	GO:0015979	photosynthesis	P
+UniProtKB	Q9LMQ2	GO:0015979	photosynthesis	P
+UniProtKB	Q9LR64	GO:0010207	photosystem II assembly	P
+UniProtKB	Q9LR64	GO:0010206	photosystem II repair	P
+UniProtKB	Q9LU01	GO:0048564	photosystem I assembly	P
+UniProtKB	Q9LU10	GO:0010206	photosystem II repair	P
+UniProtKB	Q9LU21	GO:0009773	photosynthetic electron transport in photosystem I	P
+UniProtKB	Q9LU39	GO:0009767	photosynthetic electron transport chain	P
+UniProtKB	Q9LXR9	GO:0015979	photosynthesis	P
+UniProtKB	Q9LYN2	GO:0015979	photosynthesis	P
+UniProtKB	Q9LZP9	GO:0019253	reductive pentose-phosphate cycle	P
+UniProtKB	Q9M024	GO:0010206	photosystem II repair	P
+UniProtKB	Q9M158	GO:0009772	photosynthetic electron transport in photosystem II	P
+UniProtKB	Q9M2D2	GO:0019684	photosynthesis, light reaction	P
+UniProtKB	Q9M3C6	GO:0048564	photosystem I assembly	P
+UniProtKB	Q9M3C6	GO:0048564	photosystem I assembly	P
+UniProtKB	Q9MA79	GO:0015979	photosynthesis	P
+UniProtKB	Q9S726	GO:0019253	reductive pentose-phosphate cycle	P
+UniProtKB	Q9S756	GO:0015979	photosynthesis	P
+UniProtKB	Q9S7J7	GO:0009768	photosynthesis, light harvesting in photosystem I	P
+UniProtKB	Q9S7J7	GO:0009769	photosynthesis, light harvesting in photosystem II	P
+UniProtKB	Q9S7J7	GO:0009768	photosynthesis, light harvesting in photosystem I	P
+UniProtKB	Q9S7J7	GO:0009768	photosynthesis, light harvesting in photosystem I	P
+UniProtKB	Q9S7M0	GO:0009768	photosynthesis, light harvesting in photosystem I	P
+UniProtKB	Q9S7M0	GO:0009769	photosynthesis, light harvesting in photosystem II	P
+UniProtKB	Q9S7M0	GO:0015979	photosynthesis	P
+UniProtKB	Q9S7N7	GO:0015979	photosynthesis	P
+UniProtKB	Q9S7N7	GO:0009780	photosynthetic NADP+ reduction	P
+UniProtKB	Q9S7N7	GO:0009773	photosynthetic electron transport in photosystem I	P
+UniProtKB	Q9S7N7	GO:0009773	photosynthetic electron transport in photosystem I	P
+UniProtKB	Q9S7W1	GO:0009768	photosynthesis, light harvesting in photosystem I	P
+UniProtKB	Q9S841	GO:0019684	photosynthesis, light reaction	P
+UniProtKB	Q9S841	GO:0010207	photosystem II assembly	P
+UniProtKB	Q9S9N6	GO:0009773	photosynthetic electron transport in photosystem I	P
+UniProtKB	Q9SEL7	GO:0010206	photosystem II repair	P
+UniProtKB	Q9SF54	GO:0019684	photosynthesis, light reaction	P
+UniProtKB	Q9SFB3	GO:0048564	photosystem I assembly	P
+UniProtKB	Q9SGH4	GO:0009767	photosynthetic electron transport chain	P
+UniProtKB	Q9SGH4	GO:0019684	photosynthesis, light reaction	P
+UniProtKB	Q9SGH4	GO:0009767	photosynthetic electron transport chain	P
+UniProtKB	Q9SHR7	GO:0009768	photosynthesis, light harvesting in photosystem I	P
+UniProtKB	Q9SHR7	GO:0009769	photosynthesis, light harvesting in photosystem II	P
+UniProtKB	Q9SHR7	GO:0009769	photosynthesis, light harvesting in photosystem II	P
+UniProtKB	Q9SHR7	GO:0009769	photosynthesis, light harvesting in photosystem II	P
+UniProtKB	Q9SHR7	GO:0009768	photosynthesis, light harvesting in photosystem I	P
+UniProtKB	Q9SHR7	GO:0009768	photosynthesis, light harvesting in photosystem I	P
+UniProtKB	Q9SHR7	GO:0009768	photosynthesis, light harvesting in photosystem I	P
+UniProtKB	Q9SJ02	GO:0009765	photosynthesis, light harvesting	P
+UniProtKB	Q9SKT0	GO:0010207	photosystem II assembly	P
+UniProtKB	Q9SL05	GO:0009773	photosynthetic electron transport in photosystem I	P
+UniProtKB	Q9SL05	GO:0009773	photosynthetic electron transport in photosystem I	P
+UniProtKB	Q9SL05	GO:0009773	photosynthetic electron transport in photosystem I	P
+UniProtKB	Q9SLI4	GO:0010207	photosystem II assembly	P
+UniProtKB	Q9SLI4	GO:0010207	photosystem II assembly	P
+UniProtKB	Q9SNB7	GO:0010207	photosystem II assembly	P
+UniProtKB	Q9SNB7	GO:0010207	photosystem II assembly	P
+UniProtKB	Q9SRY4	GO:0010270	photosystem II oxygen evolving complex assembly	P
+UniProtKB	Q9SRY4	GO:0010270	photosystem II oxygen evolving complex assembly	P
+UniProtKB	Q9SSS9	GO:0009773	photosynthetic electron transport in photosystem I	P
+UniProtKB	Q9SSS9	GO:0009772	photosynthetic electron transport in photosystem II	P
+UniProtKB	Q9SSS9	GO:0015979	photosynthesis	P
+UniProtKB	Q9SSS9	GO:0009773	photosynthetic electron transport in photosystem I	P
+UniProtKB	Q9SSS9	GO:0009772	photosynthetic electron transport in photosystem II	P
+UniProtKB	Q9SY97	GO:0009768	photosynthesis, light harvesting in photosystem I	P
+UniProtKB	Q9SY97	GO:0009768	photosynthesis, light harvesting in photosystem I	P
+UniProtKB	Q9SYH1	GO:0015979	photosynthesis	P
+UniProtKB	Q9SYP2	GO:0015979	photosynthesis	P
+UniProtKB	Q9SYP2	GO:0015979	photosynthesis	P
+UniProtKB	Q9SYW8	GO:0009768	photosynthesis, light harvesting in photosystem I	P
+UniProtKB	Q9SYW8	GO:0009768	photosynthesis, light harvesting in photosystem I	P
+UniProtKB	Q9SZC9	GO:0009767	photosynthetic electron transport chain	P
+UniProtKB	Q9SZC9	GO:0009767	photosynthetic electron transport chain	P
+UniProtKB	Q9T0A4	GO:0009767	photosynthetic electron transport chain	P
+UniProtKB	Q9XF87	GO:0009768	photosynthesis, light harvesting in photosystem I	P
+UniProtKB	Q9XF87	GO:0009769	photosynthesis, light harvesting in photosystem II	P
+UniProtKB	Q9XF87	GO:0009768	photosynthesis, light harvesting in photosystem I	P
+UniProtKB	Q9XF87	GO:0009768	photosynthesis, light harvesting in photosystem I	P
+UniProtKB	Q9XF88	GO:0009768	photosynthesis, light harvesting in photosystem I	P
+UniProtKB	Q9XF89	GO:0009768	photosynthesis, light harvesting in photosystem I	P
+UniProtKB	Q9XF89	GO:0015979	photosynthesis	P
+UniProtKB	Q9XF89	GO:0010207	photosystem II assembly	P
+UniProtKB	Q9XFT3	GO:0009767	photosynthetic electron transport chain	P
+UniProtKB	Q9XI73	GO:0009767	photosynthetic electron transport chain	P
+UniProtKB	Q9XI73	GO:0009767	photosynthetic electron transport chain	P
+UniProtKB	Q9XIL5	GO:0048564	photosystem I assembly	P
+UniProtKB	Q9XIL5	GO:0048564	photosystem I assembly	P
+UniProtKB	Q9ZNX9	GO:0010207	photosystem II assembly	P
+UniProtKB	Q9ZR03	GO:0009767	photosynthetic electron transport chain	P
+UniProtKB	Q9ZVE7	GO:0009773	photosynthetic electron transport in photosystem I	P
+UniProtKB	Q9ZVL6	GO:0010206	photosystem II repair	P
+UniProtKB	Q9ZVZ9	GO:0010207	photosystem II assembly	P
+UniProtKB	Q9ZVZ9	GO:0010207	photosystem II assembly	P

@@ -1,0 +1,638 @@
+﻿GENE PRODUCT DB	GENE PRODUCT ID	GO TERM	GO NAME	GO ASPECT
+UniProtKB	A0A1I9LME3	GO:0006515	protein quality control for misfolded or incompletely synthesized proteins	P
+UniProtKB	A0A1I9LN13	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	A0A1I9LPW5	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	A0A1P8AZS5	GO:0007039	protein catabolic process in the vacuole	P
+UniProtKB	A0A1P8AZS5	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	A0A1P8B460	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	A0A1P8B5A1	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	A0A1P8B5P2	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	A0A1P8B7F5	GO:0030433	ubiquitin-dependent ERAD pathway	P
+UniProtKB	A0A1P8B7F5	GO:0071712	ER-associated misfolded protein catabolic process	P
+UniProtKB	A0A1P8BGX5	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	A8MQG7	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	A8MQW3	GO:0030433	ubiquitin-dependent ERAD pathway	P
+UniProtKB	A8MQW3	GO:0071712	ER-associated misfolded protein catabolic process	P
+UniProtKB	A8MR93	GO:0030433	ubiquitin-dependent ERAD pathway	P
+UniProtKB	B3DNN5	GO:0031145	anaphase-promoting complex-dependent catabolic process	P
+UniProtKB	B9DHA6	GO:0019941	modification-dependent protein catabolic process	P
+UniProtKB	F4HQX6	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	F4HRV8	GO:0051603	proteolysis involved in cellular protein catabolic process	P
+UniProtKB	F4HVM4	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	F4HVS0	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	F4HVS0	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	F4HVS0	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	F4HVZ1	GO:0051603	proteolysis involved in cellular protein catabolic process	P
+UniProtKB	F4HXZ1	GO:0043328	protein transport to vacuole involved in ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway	P
+UniProtKB	F4HZW2	GO:0051603	proteolysis involved in cellular protein catabolic process	P
+UniProtKB	F4HZZ4	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	F4HZZ5	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	F4I2Y3	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	F4I5B8	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	F4I615	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	F4I7D4	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	F4I9X6	GO:0019941	modification-dependent protein catabolic process	P
+UniProtKB	F4I9X6	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	F4IDY5	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	F4IDY5	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	F4IIC2	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	F4IIK4	GO:0051603	proteolysis involved in cellular protein catabolic process	P
+UniProtKB	F4IRP0	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	F4ITM1	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	F4ITM2	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	F4ITP6	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	F4IWU7	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	F4IXN6	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	F4IZ09	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	F4IZL5	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	F4J048	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	F4J3D6	GO:0051603	proteolysis involved in cellular protein catabolic process	P
+UniProtKB	F4J3D9	GO:0051603	proteolysis involved in cellular protein catabolic process	P
+UniProtKB	F4J5L3	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	F4JC97	GO:0010499	proteasomal ubiquitin-independent protein catabolic process	P
+UniProtKB	F4JG03	GO:0030433	ubiquitin-dependent ERAD pathway	P
+UniProtKB	F4JGS0	GO:0030433	ubiquitin-dependent ERAD pathway	P
+UniProtKB	F4JI85	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	F4JJE5	GO:0010499	proteasomal ubiquitin-independent protein catabolic process	P
+UniProtKB	F4JJE5	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	F4JKF3	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	F4JKK0	GO:0030433	ubiquitin-dependent ERAD pathway	P
+UniProtKB	F4JNL3	GO:0051603	proteolysis involved in cellular protein catabolic process	P
+UniProtKB	F4JV39	GO:0030433	ubiquitin-dependent ERAD pathway	P
+UniProtKB	F4JWE4	GO:0030433	ubiquitin-dependent ERAD pathway	P
+UniProtKB	F4JWQ4	GO:0030433	ubiquitin-dependent ERAD pathway	P
+UniProtKB	F4JY59	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	F4K250	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	F4K5R6	GO:0031145	anaphase-promoting complex-dependent catabolic process	P
+UniProtKB	F4K784	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	F4K9Q6	GO:0010304	PSII associated light-harvesting complex II catabolic process	P
+UniProtKB	F4KAG5	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	F4KAN2	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	F4KAN2	GO:0010498	proteasomal protein catabolic process	P
+UniProtKB	F4KCC2	GO:0071596	ubiquitin-dependent protein catabolic process via the N-end rule pathway	P
+UniProtKB	F4KCC2	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	F4KCN6	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	F4KI28	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	F4KI29	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	O04019	GO:0010498	proteasomal protein catabolic process	P
+UniProtKB	O04197	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	O04197	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	O22197	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	O22207	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	O22925	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	O22941	GO:0051603	proteolysis involved in cellular protein catabolic process	P
+UniProtKB	O22961	GO:0051603	proteolysis involved in cellular protein catabolic process	P
+UniProtKB	O23239	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	O23708	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	O23708	GO:0010499	proteasomal ubiquitin-independent protein catabolic process	P
+UniProtKB	O23710	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	O23710	GO:0010499	proteasomal ubiquitin-independent protein catabolic process	P
+UniProtKB	O23712	GO:0010499	proteasomal ubiquitin-independent protein catabolic process	P
+UniProtKB	O23712	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	O23714	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	O23714	GO:0010499	proteasomal ubiquitin-independent protein catabolic process	P
+UniProtKB	O23715	GO:0010499	proteasomal ubiquitin-independent protein catabolic process	P
+UniProtKB	O23715	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	O23717	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	O23717	GO:0010499	proteasomal ubiquitin-independent protein catabolic process	P
+UniProtKB	O24412	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	O24616	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	O24616	GO:0010499	proteasomal ubiquitin-independent protein catabolic process	P
+UniProtKB	O24616	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	O24633	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	O24633	GO:0010499	proteasomal ubiquitin-independent protein catabolic process	P
+UniProtKB	O48726	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	O48838	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	O48844	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	O49286	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	O49286	GO:0051603	proteolysis involved in cellular protein catabolic process	P
+UniProtKB	O49484	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	O49500	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	O49663	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	O49663	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	O64425	GO:0071712	ER-associated misfolded protein catabolic process	P
+UniProtKB	O64425	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	O64425	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	O64758	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	O64824	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	O64824	GO:0071712	ER-associated misfolded protein catabolic process	P
+UniProtKB	O64867	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	O64876	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	O65381	GO:0019941	modification-dependent protein catabolic process	P
+UniProtKB	O65418	GO:0031145	anaphase-promoting complex-dependent catabolic process	P
+UniProtKB	O65421	GO:0043328	protein transport to vacuole involved in ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway	P
+UniProtKB	O65493	GO:0051603	proteolysis involved in cellular protein catabolic process	P
+UniProtKB	O65674	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	O65674	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	O80860	GO:0010304	PSII associated light-harvesting complex II catabolic process	P
+UniProtKB	O80910	GO:0043328	protein transport to vacuole involved in ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway	P
+UniProtKB	O80977	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	O81055	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	O81055	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	O81057	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	O81057	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	O81058	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	O81146	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	O81146	GO:0010499	proteasomal ubiquitin-independent protein catabolic process	P
+UniProtKB	O81147	GO:0010499	proteasomal ubiquitin-independent protein catabolic process	P
+UniProtKB	O81147	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	O81148	GO:0010499	proteasomal ubiquitin-independent protein catabolic process	P
+UniProtKB	O81148	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	O81149	GO:0010499	proteasomal ubiquitin-independent protein catabolic process	P
+UniProtKB	O81149	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	O81153	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	O81153	GO:0010499	proteasomal ubiquitin-independent protein catabolic process	P
+UniProtKB	O81849	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	O82264	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	P0C8K8	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	P0CH32	GO:0019941	modification-dependent protein catabolic process	P
+UniProtKB	P0CH32	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	P0CH33	GO:0019941	modification-dependent protein catabolic process	P
+UniProtKB	P0CH33	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	P25865	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	P25865	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	P30186	GO:0010499	proteasomal ubiquitin-independent protein catabolic process	P
+UniProtKB	P30186	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	P34066	GO:0010499	proteasomal ubiquitin-independent protein catabolic process	P
+UniProtKB	P34066	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	P35131	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	P35131	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	P35131	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	P35132	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	P35133	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	P35133	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	P35134	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	P35134	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	P42742	GO:0010499	proteasomal ubiquitin-independent protein catabolic process	P
+UniProtKB	P42742	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	P42743	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	P42743	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	P42745	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	P42745	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	P42746	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	P42746	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	P42747	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	P42748	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	P42748	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	P42749	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	P42749	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	P42750	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	P42750	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	P42750	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	P43295	GO:0051603	proteolysis involved in cellular protein catabolic process	P
+UniProtKB	P43296	GO:0051603	proteolysis involved in cellular protein catabolic process	P
+UniProtKB	P43297	GO:0051603	proteolysis involved in cellular protein catabolic process	P
+UniProtKB	P49047	GO:0051603	proteolysis involved in cellular protein catabolic process	P
+UniProtKB	P54609	GO:0030433	ubiquitin-dependent ERAD pathway	P
+UniProtKB	P54609	GO:0030970	retrograde protein transport, ER to cytosol	P
+UniProtKB	P54609	GO:0071712	ER-associated misfolded protein catabolic process	P
+UniProtKB	P55034	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	P55034	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	P56772	GO:0006515	protein quality control for misfolded or incompletely synthesized proteins	P
+UniProtKB	P57681	GO:0030327	prenylated protein catabolic process	P
+UniProtKB	P57681	GO:0030327	prenylated protein catabolic process	P
+UniProtKB	P59232	GO:0019941	modification-dependent protein catabolic process	P
+UniProtKB	P59232	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	P59233	GO:0019941	modification-dependent protein catabolic process	P
+UniProtKB	P59271	GO:0019941	modification-dependent protein catabolic process	P
+UniProtKB	P92974	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	P93026	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	P93028	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	P93030	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	P93030	GO:0071712	ER-associated misfolded protein catabolic process	P
+UniProtKB	P93655	GO:0006515	protein quality control for misfolded or incompletely synthesized proteins	P
+UniProtKB	P93744	GO:0071712	ER-associated misfolded protein catabolic process	P
+UniProtKB	P93744	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	P93744	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q06AN9	GO:0031145	anaphase-promoting complex-dependent catabolic process	P
+UniProtKB	Q0WL80	GO:0071712	ER-associated misfolded protein catabolic process	P
+UniProtKB	Q0WPW5	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q0WRC9	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q0WUQ1	GO:0071629	cytoplasm protein quality control by the ubiquitin-proteasome system	P
+UniProtKB	Q0WVJ5	GO:0051603	proteolysis involved in cellular protein catabolic process	P
+UniProtKB	Q1EC66	GO:0019941	modification-dependent protein catabolic process	P
+UniProtKB	Q1EC66	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q1PEF6	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q1PEI1	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q1PEL7	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q1PEQ5	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q2V3L6	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q39043	GO:0030433	ubiquitin-dependent ERAD pathway	P
+UniProtKB	Q39044	GO:0051603	proteolysis involved in cellular protein catabolic process	P
+UniProtKB	Q39090	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q39090	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q39102	GO:0010304	PSII associated light-harvesting complex II catabolic process	P
+UniProtKB	Q39119	GO:0051603	proteolysis involved in cellular protein catabolic process	P
+UniProtKB	Q39255	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q39256	GO:0019941	modification-dependent protein catabolic process	P
+UniProtKB	Q39256	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q3E7K8	GO:0019941	modification-dependent protein catabolic process	P
+UniProtKB	Q3E7K8	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q3E7T8	GO:0019941	modification-dependent protein catabolic process	P
+UniProtKB	Q3E7T8	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q3E906	GO:0031145	anaphase-promoting complex-dependent catabolic process	P
+UniProtKB	Q3E931	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q3E9A9	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q3EB08	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q3EBL9	GO:0043162	ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway	P
+UniProtKB	Q3EC97	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q42134	GO:0010499	proteasomal ubiquitin-independent protein catabolic process	P
+UniProtKB	Q42134	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q42202	GO:0019941	modification-dependent protein catabolic process	P
+UniProtKB	Q42540	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q42541	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q42541	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q4PS42	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q4PSE4	GO:0031145	anaphase-promoting complex-dependent catabolic process	P
+UniProtKB	Q4TU14	GO:0010498	proteasomal protein catabolic process	P
+UniProtKB	Q501F5	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q56ZQ3	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q570C0	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q570X5	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q5EAF6	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q5M759	GO:0043328	protein transport to vacuole involved in ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway	P
+UniProtKB	Q5PNU3	GO:0019941	modification-dependent protein catabolic process	P
+UniProtKB	Q5XVJ3	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q6DBN1	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q6E260	GO:0030433	ubiquitin-dependent ERAD pathway	P
+UniProtKB	Q6NL06	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q6NLQ8	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q6NLR3	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q6NLR3	GO:0071712	ER-associated misfolded protein catabolic process	P
+UniProtKB	Q6NLS0	GO:0071712	ER-associated misfolded protein catabolic process	P
+UniProtKB	Q6NLS0	GO:0030433	ubiquitin-dependent ERAD pathway	P
+UniProtKB	Q6NNI8	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q6NPT7	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q6NPT7	GO:0030433	ubiquitin-dependent ERAD pathway	P
+UniProtKB	Q6XJG8	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q708Y0	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q708Y0	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q7DLR9	GO:0010499	proteasomal ubiquitin-independent protein catabolic process	P
+UniProtKB	Q7DLR9	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q7DLS1	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q7DLS1	GO:0010499	proteasomal ubiquitin-independent protein catabolic process	P
+UniProtKB	Q7Y175	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q84L30	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q84L31	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q84L32	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q84L33	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q84RJ8	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q84RQ8	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q84RQ9	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q84RR0	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q84RR2	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q84TF5	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q84W75	GO:0051603	proteolysis involved in cellular protein catabolic process	P
+UniProtKB	Q84WK5	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q8GUK7	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q8GUK7	GO:0071712	ER-associated misfolded protein catabolic process	P
+UniProtKB	Q8GWH3	GO:0030970	retrograde protein transport, ER to cytosol	P
+UniProtKB	Q8GWH3	GO:0030433	ubiquitin-dependent ERAD pathway	P
+UniProtKB	Q8GWH3	GO:0030433	ubiquitin-dependent ERAD pathway	P
+UniProtKB	Q8GWH3	GO:0030433	ubiquitin-dependent ERAD pathway	P
+UniProtKB	Q8GWH3	GO:0036503	ERAD pathway	P
+UniProtKB	Q8GY23	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q8GYA6	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q8GYG0	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q8GYW0	GO:0030433	ubiquitin-dependent ERAD pathway	P
+UniProtKB	Q8GZ31	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q8H0T4	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q8H159	GO:0019941	modification-dependent protein catabolic process	P
+UniProtKB	Q8H166	GO:0051603	proteolysis involved in cellular protein catabolic process	P
+UniProtKB	Q8H1B3	GO:0030433	ubiquitin-dependent ERAD pathway	P
+UniProtKB	Q8H1Q4	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q8H1U4	GO:0031145	anaphase-promoting complex-dependent catabolic process	P
+UniProtKB	Q8L3Z8	GO:0031145	anaphase-promoting complex-dependent catabolic process	P
+UniProtKB	Q8L4A7	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q8L4A7	GO:0010499	proteasomal ubiquitin-independent protein catabolic process	P
+UniProtKB	Q8L745	GO:0030433	ubiquitin-dependent ERAD pathway	P
+UniProtKB	Q8L770	GO:0006515	protein quality control for misfolded or incompletely synthesized proteins	P
+UniProtKB	Q8L7E3	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q8L7T3	GO:0031145	anaphase-promoting complex-dependent catabolic process	P
+UniProtKB	Q8L829	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q8LB10	GO:0006515	protein quality control for misfolded or incompletely synthesized proteins	P
+UniProtKB	Q8LB17	GO:0030433	ubiquitin-dependent ERAD pathway	P
+UniProtKB	Q8LB33	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q8LBL5	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q8LBL5	GO:0071596	ubiquitin-dependent protein catabolic process via the N-end rule pathway	P
+UniProtKB	Q8LD27	GO:0010499	proteasomal ubiquitin-independent protein catabolic process	P
+UniProtKB	Q8LD27	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q8LEU3	GO:0010304	PSII associated light-harvesting complex II catabolic process	P
+UniProtKB	Q8LF97	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q8LG11	GO:0043162	ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway	P
+UniProtKB	Q8LGU6	GO:0031145	anaphase-promoting complex-dependent catabolic process	P
+UniProtKB	Q8LPI5	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q8LPL5	GO:0031145	anaphase-promoting complex-dependent catabolic process	P
+UniProtKB	Q8LPQ5	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q8RUC6	GO:0019941	modification-dependent protein catabolic process	P
+UniProtKB	Q8RUC6	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q8RWB8	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q8RWE7	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q8RWF0	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q8RWQ8	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q8RWQ9	GO:0051603	proteolysis involved in cellular protein catabolic process	P
+UniProtKB	Q8RWU5	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q8RWU5	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q8RWU7	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q8RXD3	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q8RXF2	GO:0071712	ER-associated misfolded protein catabolic process	P
+UniProtKB	Q8RXF2	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q8RXF2	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q8S8F2	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q8VWK0	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q8VY10	GO:0044257	cellular protein catabolic process	P
+UniProtKB	Q8VY89	GO:0031145	anaphase-promoting complex-dependent catabolic process	P
+UniProtKB	Q8VYC8	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q8VYS0	GO:0051603	proteolysis involved in cellular protein catabolic process	P
+UniProtKB	Q8VYT5	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q8VZ14	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q8VZ96	GO:0030433	ubiquitin-dependent ERAD pathway	P
+UniProtKB	Q8VZC9	GO:0043328	protein transport to vacuole involved in ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway	P
+UniProtKB	Q8VZK0	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q8VZS9	GO:0031145	anaphase-promoting complex-dependent catabolic process	P
+UniProtKB	Q8VZU9	GO:0030433	ubiquitin-dependent ERAD pathway	P
+UniProtKB	Q8W104	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q8W104	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q8W206	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q8W468	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q8W4N3	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q8W4Q5	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q8W575	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q8W585	GO:0010304	PSII associated light-harvesting complex II catabolic process	P
+UniProtKB	Q93VC9	GO:0051603	proteolysis involved in cellular protein catabolic process	P
+UniProtKB	Q93XZ6	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q93Y35	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q93Y37	GO:0030433	ubiquitin-dependent ERAD pathway	P
+UniProtKB	Q93ZA0	GO:0010304	PSII associated light-harvesting complex II catabolic process	P
+UniProtKB	Q93ZA0	GO:0010304	PSII associated light-harvesting complex II catabolic process	P
+UniProtKB	Q93ZG3	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q940X7	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q949V6	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q94A97	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q94B08	GO:0051603	proteolysis involved in cellular protein catabolic process	P
+UniProtKB	Q94B60	GO:0006515	protein quality control for misfolded or incompletely synthesized proteins	P
+UniProtKB	Q94F47	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q94K85	GO:0051603	proteolysis involved in cellular protein catabolic process	P
+UniProtKB	Q9C5A4	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9C5D2	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9C626	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9C774	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9C776	GO:0016598	protein arginylation	P
+UniProtKB	Q9C8X7	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9C9Y7	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9CA55	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9FDX1	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9FE83	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9FF66	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9FF66	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9FF81	GO:0043328	protein transport to vacuole involved in ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway	P
+UniProtKB	Q9FFB6	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9FFF9	GO:0031145	anaphase-promoting complex-dependent catabolic process	P
+UniProtKB	Q9FFG2	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9FFK2	GO:0030433	ubiquitin-dependent ERAD pathway	P
+UniProtKB	Q9FFN9	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9FFP1	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9FFT1	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9FG51	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9FG93	GO:0030433	ubiquitin-dependent ERAD pathway	P
+UniProtKB	Q9FGI1	GO:1990116	ribosome-associated ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9FGM0	GO:0010304	PSII associated light-harvesting complex II catabolic process	P
+UniProtKB	Q9FGN3	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9FGN4	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9FGR9	GO:0051603	proteolysis involved in cellular protein catabolic process	P
+UniProtKB	Q9FGY9	GO:0006515	protein quality control for misfolded or incompletely synthesized proteins	P
+UniProtKB	Q9FH02	GO:0010304	PSII associated light-harvesting complex II catabolic process	P
+UniProtKB	Q9FH28	GO:0030433	ubiquitin-dependent ERAD pathway	P
+UniProtKB	Q9FH99	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9FHB4	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9FHK0	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9FHK0	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9FHQ6	GO:0019941	modification-dependent protein catabolic process	P
+UniProtKB	Q9FHQ6	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9FHS5	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9FHT7	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9FHU1	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9FHW7	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9FHW7	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9FHY0	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9FI61	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9FI63	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9FI71	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9FI95	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9FIB6	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9FIG0	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9FJ47	GO:0051603	proteolysis involved in cellular protein catabolic process	P
+UniProtKB	Q9FJH4	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9FK29	GO:0030433	ubiquitin-dependent ERAD pathway	P
+UniProtKB	Q9FKT3	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9FKT3	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9FLR7	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9FMH8	GO:0051603	proteolysis involved in cellular protein catabolic process	P
+UniProtKB	Q9FMM0	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9FN42	GO:0006515	protein quality control for misfolded or incompletely synthesized proteins	P
+UniProtKB	Q9FN58	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9FVT1	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9FWA5	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9FWT2	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9FYH7	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9FZ49	GO:0030433	ubiquitin-dependent ERAD pathway	P
+UniProtKB	Q9FZK1	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9LDE3	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9LDE3	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9LF41	GO:0030433	ubiquitin-dependent ERAD pathway	P
+UniProtKB	Q9LF41	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9LFF2	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9LFV5	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9LHD3	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9LHD8	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9LHN3	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9LIJ4	GO:0043328	protein transport to vacuole involved in ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway	P
+UniProtKB	Q9LIP2	GO:0010499	proteasomal ubiquitin-independent protein catabolic process	P
+UniProtKB	Q9LIP2	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9LIR3	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9LJJ3	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9LJX8	GO:0051603	proteolysis involved in cellular protein catabolic process	P
+UniProtKB	Q9LJZ5	GO:0031145	anaphase-promoting complex-dependent catabolic process	P
+UniProtKB	Q9LJZ5	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9LKR3	GO:0030433	ubiquitin-dependent ERAD pathway	P
+UniProtKB	Q9LKR3	GO:0030433	ubiquitin-dependent ERAD pathway	P
+UniProtKB	Q9LM25	GO:0030433	ubiquitin-dependent ERAD pathway	P
+UniProtKB	Q9LM25	GO:0030433	ubiquitin-dependent ERAD pathway	P
+UniProtKB	Q9LM66	GO:0051603	proteolysis involved in cellular protein catabolic process	P
+UniProtKB	Q9LN67	GO:0071712	ER-associated misfolded protein catabolic process	P
+UniProtKB	Q9LN67	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9LNC1	GO:0051603	proteolysis involved in cellular protein catabolic process	P
+UniProtKB	Q9LNT9	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9LNT9	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9LNU4	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9LP39	GO:0051603	proteolysis involved in cellular protein catabolic process	P
+UniProtKB	Q9LP45	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9LPC8	GO:0030433	ubiquitin-dependent ERAD pathway	P
+UniProtKB	Q9LPL4	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9LPL4	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9LPL4	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9LPM2	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9LPT6	GO:0030433	ubiquitin-dependent ERAD pathway	P
+UniProtKB	Q9LPW7	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9LQM5	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9LQR8	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9LQX2	GO:0071629	cytoplasm protein quality control by the ubiquitin-proteasome system	P
+UniProtKB	Q9LSP7	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9LSP7	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9LSS2	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9LSX8	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9LSX8	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9LSX9	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9LSY0	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9LSY0	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9LSY1	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9LSY1	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9LT08	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9LT77	GO:0051603	proteolysis involved in cellular protein catabolic process	P
+UniProtKB	Q9LT78	GO:0051603	proteolysis involved in cellular protein catabolic process	P
+UniProtKB	Q9LTX2	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9LTX7	GO:1990116	ribosome-associated ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9LVW9	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9LVX0	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9LW29	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9LW36	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9LW77	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9LW77	GO:0030433	ubiquitin-dependent ERAD pathway	P
+UniProtKB	Q9LXC7	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9LXL6	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9LXW3	GO:0051603	proteolysis involved in cellular protein catabolic process	P
+UniProtKB	Q9LYC2	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9LZF6	GO:0071712	ER-associated misfolded protein catabolic process	P
+UniProtKB	Q9LZF6	GO:0030970	retrograde protein transport, ER to cytosol	P
+UniProtKB	Q9LZF6	GO:0030433	ubiquitin-dependent ERAD pathway	P
+UniProtKB	Q9LZH2	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9LZN3	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9M022	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9M096	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9M0W4	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9M0W8	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9M0W9	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9M0X0	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9M0X1	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9M0X2	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9M1D5	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9M1E9	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9M1F0	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9M1F1	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9M1F3	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9M1F6	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9M1G0	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9M1X4	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9M1X5	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9M2B0	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9M2L3	GO:0030433	ubiquitin-dependent ERAD pathway	P
+UniProtKB	Q9M2S6	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9M2V9	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9M330	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9M622	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9M8N0	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9M9L0	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9M9L7	GO:0006515	protein quality control for misfolded or incompletely synthesized proteins	P
+UniProtKB	Q9M9L8	GO:0006515	protein quality control for misfolded or incompletely synthesized proteins	P
+UniProtKB	Q9MAK9	GO:0030433	ubiquitin-dependent ERAD pathway	P
+UniProtKB	Q9MAT0	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9S7D6	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9S7D6	GO:0071712	ER-associated misfolded protein catabolic process	P
+UniProtKB	Q9S7H3	GO:0031145	anaphase-promoting complex-dependent catabolic process	P
+UniProtKB	Q9S7I8	GO:0031145	anaphase-promoting complex-dependent catabolic process	P
+UniProtKB	Q9S834	GO:0006515	protein quality control for misfolded or incompletely synthesized proteins	P
+UniProtKB	Q9S9T7	GO:0043328	protein transport to vacuole involved in ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway	P
+UniProtKB	Q9S9X4	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9SAA2	GO:0006515	protein quality control for misfolded or incompletely synthesized proteins	P
+UniProtKB	Q9SCN8	GO:0071712	ER-associated misfolded protein catabolic process	P
+UniProtKB	Q9SCN8	GO:0030970	retrograde protein transport, ER to cytosol	P
+UniProtKB	Q9SCN8	GO:0030433	ubiquitin-dependent ERAD pathway	P
+UniProtKB	Q9SCP9	GO:0043162	ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway	P
+UniProtKB	Q9SCQ2	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9SDA8	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9SEI2	GO:0010498	proteasomal protein catabolic process	P
+UniProtKB	Q9SEI3	GO:0030433	ubiquitin-dependent ERAD pathway	P
+UniProtKB	Q9SG15	GO:0051603	proteolysis involved in cellular protein catabolic process	P
+UniProtKB	Q9SGW3	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9SGW3	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9SHE7	GO:0019941	modification-dependent protein catabolic process	P
+UniProtKB	Q9SHI7	GO:0030433	ubiquitin-dependent ERAD pathway	P
+UniProtKB	Q9SHI7	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9SII8	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9SII9	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9SIM9	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9SIV2	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9SIZ8	GO:0051603	proteolysis involved in cellular protein catabolic process	P
+UniProtKB	Q9SJT6	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9SKC2	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9SKC3	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9SKC4	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9SKK0	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9SKK0	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9SKL2	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9SL65	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9SL93	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9SLE4	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9SLE4	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9SMY8	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9SN10	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9SN27	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9SN28	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9SPL2	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9SRR1	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9SRS9	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9SRS9	GO:0006515	protein quality control for misfolded or incompletely synthesized proteins	P
+UniProtKB	Q9SRV0	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9SRV0	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9STL4	GO:0051603	proteolysis involved in cellular protein catabolic process	P
+UniProtKB	Q9STL5	GO:0051603	proteolysis involved in cellular protein catabolic process	P
+UniProtKB	Q9STR6	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9STS3	GO:0031145	anaphase-promoting complex-dependent catabolic process	P
+UniProtKB	Q9STX3	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9SU04	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9SU04	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9SU05	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9SU29	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9SUG6	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9SUL1	GO:0051603	proteolysis involved in cellular protein catabolic process	P
+UniProtKB	Q9SUR9	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9SUS9	GO:0051603	proteolysis involved in cellular protein catabolic process	P
+UniProtKB	Q9SUT0	GO:0051603	proteolysis involved in cellular protein catabolic process	P
+UniProtKB	Q9SUT5	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9SVK0	GO:0030433	ubiquitin-dependent ERAD pathway	P
+UniProtKB	Q9SVK0	GO:0071712	ER-associated misfolded protein catabolic process	P
+UniProtKB	Q9SVW0	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9SXC9	GO:0030433	ubiquitin-dependent ERAD pathway	P
+UniProtKB	Q9SXJ6	GO:0006515	protein quality control for misfolded or incompletely synthesized proteins	P
+UniProtKB	Q9SY03	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9SY65	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9SYE4	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9SYE9	GO:0019941	modification-dependent protein catabolic process	P
+UniProtKB	Q9SYF1	GO:0019941	modification-dependent protein catabolic process	P
+UniProtKB	Q9SYF2	GO:0019941	modification-dependent protein catabolic process	P
+UniProtKB	Q9SYF4	GO:0019941	modification-dependent protein catabolic process	P
+UniProtKB	Q9SZ69	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9SZA4	GO:0031145	anaphase-promoting complex-dependent catabolic process	P
+UniProtKB	Q9SZD4	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9SZR6	GO:0036503	ERAD pathway	P
+UniProtKB	Q9T075	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9XI05	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9XI05	GO:0010499	proteasomal ubiquitin-independent protein catabolic process	P
+UniProtKB	Q9XJ35	GO:0006515	protein quality control for misfolded or incompletely synthesized proteins	P
+UniProtKB	Q9XJ36	GO:0006515	protein quality control for misfolded or incompletely synthesized proteins	P
+UniProtKB	Q9ZPE4	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9ZPE4	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9ZQ45	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9ZQF5	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9ZQF9	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9ZQH7	GO:0051603	proteolysis involved in cellular protein catabolic process	P
+UniProtKB	Q9ZQZ4	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9ZQZ6	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9ZR12	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9ZS88	GO:0030433	ubiquitin-dependent ERAD pathway	P
+UniProtKB	Q9ZT42	GO:0051603	proteolysis involved in cellular protein catabolic process	P
+UniProtKB	Q9ZT48	GO:0016598	protein arginylation	P
+UniProtKB	Q9ZT95	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9ZW91	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9ZW91	GO:0006511	ubiquitin-dependent protein catabolic process	P
+UniProtKB	Q9ZWC6	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	P

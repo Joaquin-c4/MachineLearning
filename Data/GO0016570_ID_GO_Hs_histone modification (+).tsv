@@ -1,0 +1,725 @@
+﻿GENE PRODUCT DB	GENE PRODUCT ID	GO TERM	GO NAME	GO ASPECT
+UniProtKB	A6NHQ2	GO:1990258	histone glutamine methylation	P
+UniProtKB	A6NHQ4	GO:0035616	histone H2B conserved C-terminal lysine deubiquitination	P
+UniProtKB	A8MW92	GO:0016573	histone acetylation	P
+UniProtKB	B2RXH2	GO:0033169	histone H3-K9 demethylation	P
+UniProtKB	H3BTX0	GO:0051568	histone H3-K4 methylation	P
+UniProtKB	O00167	GO:0016576	histone dephosphorylation	P
+UniProtKB	O00167	GO:0016576	histone dephosphorylation	P
+UniProtKB	O00213	GO:0043967	histone H4 acetylation	P
+UniProtKB	O14607	GO:0071557	histone H3-K27 demethylation	P
+UniProtKB	O14686	GO:0044648	histone H3-K4 dimethylation	P
+UniProtKB	O14686	GO:0097692	histone H3-K4 monomethylation	P
+UniProtKB	O14686	GO:0080182	histone H3-K4 trimethylation	P
+UniProtKB	O14686	GO:0051568	histone H3-K4 methylation	P
+UniProtKB	O14686	GO:0051568	histone H3-K4 methylation	P
+UniProtKB	O14744	GO:0034969	histone arginine methylation	P
+UniProtKB	O14744	GO:0043985	histone H4-R3 methylation	P
+UniProtKB	O14744	GO:0043985	histone H4-R3 methylation	P
+UniProtKB	O14929	GO:0043967	histone H4 acetylation	P
+UniProtKB	O14929	GO:0043967	histone H4 acetylation	P
+UniProtKB	O15047	GO:0044648	histone H3-K4 dimethylation	P
+UniProtKB	O15047	GO:0097692	histone H3-K4 monomethylation	P
+UniProtKB	O15047	GO:0080182	histone H3-K4 trimethylation	P
+UniProtKB	O15054	GO:0071557	histone H3-K27 demethylation	P
+UniProtKB	O15054	GO:0071557	histone H3-K27 demethylation	P
+UniProtKB	O15055	GO:0070932	histone H3 deacetylation	P
+UniProtKB	O15265	GO:0016578	histone deubiquitination	P
+UniProtKB	O15294	GO:0043984	histone H4-K16 acetylation	P
+UniProtKB	O15294	GO:0043982	histone H4-K8 acetylation	P
+UniProtKB	O15294	GO:0043981	histone H4-K5 acetylation	P
+UniProtKB	O15294	GO:0080182	histone H3-K4 trimethylation	P
+UniProtKB	O15379	GO:0070932	histone H3 deacetylation	P
+UniProtKB	O15379	GO:0070933	histone H4 deacetylation	P
+UniProtKB	O15534	GO:0043967	histone H4 acetylation	P
+UniProtKB	O15534	GO:0043966	histone H3 acetylation	P
+UniProtKB	O15534	GO:0070932	histone H3 deacetylation	P
+UniProtKB	O15550	GO:0071557	histone H3-K27 demethylation	P
+UniProtKB	O15550	GO:0051568	histone H3-K4 methylation	P
+UniProtKB	O43151	GO:0080182	histone H3-K4 trimethylation	P
+UniProtKB	O43318	GO:0043966	histone H3 acetylation	P
+UniProtKB	O43463	GO:0034968	histone lysine methylation	P
+UniProtKB	O43463	GO:0036124	histone H3-K9 trimethylation	P
+UniProtKB	O43463	GO:0036123	histone H3-K9 dimethylation	P
+UniProtKB	O43593	GO:0033169	histone H3-K9 demethylation	P
+UniProtKB	O60341	GO:0034720	histone H3-K4 demethylation	P
+UniProtKB	O60341	GO:0034720	histone H3-K4 demethylation	P
+UniProtKB	O60341	GO:0033169	histone H3-K9 demethylation	P
+UniProtKB	O60341	GO:0033169	histone H3-K9 demethylation	P
+UniProtKB	O60674	GO:0035409	histone H3-Y41 phosphorylation	P
+UniProtKB	O60674	GO:0035409	histone H3-Y41 phosphorylation	P
+UniProtKB	O60907	GO:0016575	histone deacetylation	P
+UniProtKB	O75150	GO:0033523	histone H2B ubiquitination	P
+UniProtKB	O75150	GO:0010390	histone monoubiquitination	P
+UniProtKB	O75164	GO:0016577	histone demethylation	P
+UniProtKB	O75164	GO:0033169	histone H3-K9 demethylation	P
+UniProtKB	O75164	GO:0070544	histone H3-K36 demethylation	P
+UniProtKB	O75182	GO:0016575	histone deacetylation	P
+UniProtKB	O75478	GO:0043966	histone H3 acetylation	P
+UniProtKB	O75486	GO:0043966	histone H3 acetylation	P
+UniProtKB	O75486	GO:0016578	histone deubiquitination	P
+UniProtKB	O75486	GO:0043966	histone H3 acetylation	P
+UniProtKB	O75528	GO:0043966	histone H3 acetylation	P
+UniProtKB	O75528	GO:0043967	histone H4 acetylation	P
+UniProtKB	O75528	GO:0043966	histone H3 acetylation	P
+UniProtKB	O75528	GO:0043966	histone H3 acetylation	P
+UniProtKB	O75529	GO:0043966	histone H3 acetylation	P
+UniProtKB	O75529	GO:0043966	histone H3 acetylation	P
+UniProtKB	O75582	GO:0016572	histone phosphorylation	P
+UniProtKB	O75582	GO:0043990	histone H2A-S1 phosphorylation	P
+UniProtKB	O75582	GO:0043988	histone H3-S28 phosphorylation	P
+UniProtKB	O75582	GO:0043987	histone H3-S10 phosphorylation	P
+UniProtKB	O75582	GO:0016572	histone phosphorylation	P
+UniProtKB	O75582	GO:0016572	histone phosphorylation	P
+UniProtKB	O75676	GO:0016572	histone phosphorylation	P
+UniProtKB	O75676	GO:0043988	histone H3-S28 phosphorylation	P
+UniProtKB	O75676	GO:0043987	histone H3-S10 phosphorylation	P
+UniProtKB	O75676	GO:0016572	histone phosphorylation	P
+UniProtKB	O76064	GO:0070535	histone H2A K63-linked ubiquitination	P
+UniProtKB	O76064	GO:0033523	histone H2B ubiquitination	P
+UniProtKB	O76064	GO:0070535	histone H2A K63-linked ubiquitination	P
+UniProtKB	O76064	GO:0070535	histone H2A K63-linked ubiquitination	P
+UniProtKB	O76064	GO:0033522	histone H2A ubiquitination	P
+UniProtKB	O76064	GO:0033522	histone H2A ubiquitination	P
+UniProtKB	O94776	GO:0016575	histone deacetylation	P
+UniProtKB	O94805	GO:0043967	histone H4 acetylation	P
+UniProtKB	O94864	GO:0043966	histone H3 acetylation	P
+UniProtKB	O94864	GO:0043966	histone H3 acetylation	P
+UniProtKB	O94874	GO:0016570	histone modification	P
+UniProtKB	O94880	GO:0044154	histone H3-K14 acetylation	P
+UniProtKB	O94953	GO:0033169	histone H3-K9 demethylation	P
+UniProtKB	O94953	GO:0033169	histone H3-K9 demethylation	P
+UniProtKB	O94953	GO:0070544	histone H3-K36 demethylation	P
+UniProtKB	O94972	GO:0036353	histone H2A-K119 monoubiquitination	P
+UniProtKB	O94972	GO:0036353	histone H2A-K119 monoubiquitination	P
+UniProtKB	O94972	GO:0035518	histone H2A monoubiquitination	P
+UniProtKB	O95251	GO:0044154	histone H3-K14 acetylation	P
+UniProtKB	O95251	GO:0044154	histone H3-K14 acetylation	P
+UniProtKB	O95251	GO:0044154	histone H3-K14 acetylation	P
+UniProtKB	O95251	GO:0043967	histone H4 acetylation	P
+UniProtKB	O95251	GO:0043967	histone H4 acetylation	P
+UniProtKB	O95251	GO:0043984	histone H4-K16 acetylation	P
+UniProtKB	O95251	GO:0043983	histone H4-K12 acetylation	P
+UniProtKB	O95251	GO:0043982	histone H4-K8 acetylation	P
+UniProtKB	O95251	GO:0043981	histone H4-K5 acetylation	P
+UniProtKB	O95251	GO:0043966	histone H3 acetylation	P
+UniProtKB	O95361	GO:0043967	histone H4 acetylation	P
+UniProtKB	O95361	GO:0043966	histone H3 acetylation	P
+UniProtKB	O95619	GO:0043968	histone H2A acetylation	P
+UniProtKB	O95619	GO:0043967	histone H4 acetylation	P
+UniProtKB	O95677	GO:0016576	histone dephosphorylation	P
+UniProtKB	O95696	GO:0044154	histone H3-K14 acetylation	P
+UniProtKB	O95696	GO:0044154	histone H3-K14 acetylation	P
+UniProtKB	O95696	GO:0043966	histone H3 acetylation	P
+UniProtKB	O96019	GO:0043967	histone H4 acetylation	P
+UniProtKB	O96019	GO:0043968	histone H2A acetylation	P
+UniProtKB	O96019	GO:0043967	histone H4 acetylation	P
+UniProtKB	P05771	GO:0035408	histone H3-T6 phosphorylation	P
+UniProtKB	P05771-2	GO:0035408	histone H3-T6 phosphorylation	P
+UniProtKB	P0C860	GO:0016575	histone deacetylation	P
+UniProtKB	P0C860	GO:0016573	histone acetylation	P
+UniProtKB	P0C860	GO:0043984	histone H4-K16 acetylation	P
+UniProtKB	P0C860	GO:0043968	histone H2A acetylation	P
+UniProtKB	P0C860	GO:0043967	histone H4 acetylation	P
+UniProtKB	P15172	GO:0043967	histone H4 acetylation	P
+UniProtKB	P15172	GO:0043966	histone H3 acetylation	P
+UniProtKB	P15336	GO:0043969	histone H2B acetylation	P
+UniProtKB	P15336	GO:0043967	histone H4 acetylation	P
+UniProtKB	P15918	GO:0010390	histone monoubiquitination	P
+UniProtKB	P15918	GO:0010390	histone monoubiquitination	P
+UniProtKB	P17252	GO:0035408	histone H3-T6 phosphorylation	P
+UniProtKB	P17947	GO:0043966	histone H3 acetylation	P
+UniProtKB	P20248	GO:0016572	histone phosphorylation	P
+UniProtKB	P22087	GO:1990258	histone glutamine methylation	P
+UniProtKB	P22087	GO:1990258	histone glutamine methylation	P
+UniProtKB	P22087	GO:1990258	histone glutamine methylation	P
+UniProtKB	P23246	GO:0070932	histone H3 deacetylation	P
+UniProtKB	P24941	GO:0016572	histone phosphorylation	P
+UniProtKB	P25713	GO:0016570	histone modification	P
+UniProtKB	P26927	GO:0035978	histone H2A-S139 phosphorylation	P
+UniProtKB	P28324	GO:0070932	histone H3 deacetylation	P
+UniProtKB	P29375	GO:0034720	histone H3-K4 demethylation	P
+UniProtKB	P35226	GO:0036353	histone H2A-K119 monoubiquitination	P
+UniProtKB	P35226	GO:0036353	histone H2A-K119 monoubiquitination	P
+UniProtKB	P35227	GO:0036353	histone H2A-K119 monoubiquitination	P
+UniProtKB	P35227	GO:0036353	histone H2A-K119 monoubiquitination	P
+UniProtKB	P35232	GO:0016575	histone deacetylation	P
+UniProtKB	P41229	GO:0034720	histone H3-K4 demethylation	P
+UniProtKB	P46736	GO:0070537	histone H2A K63-linked deubiquitination	P
+UniProtKB	P46736	GO:0070537	histone H2A K63-linked deubiquitination	P
+UniProtKB	P46736	GO:0070537	histone H2A K63-linked deubiquitination	P
+UniProtKB	P49459	GO:0016574	histone ubiquitination	P
+UniProtKB	P49459	GO:0033522	histone H2A ubiquitination	P
+UniProtKB	P49848	GO:0016573	histone acetylation	P
+UniProtKB	P50747	GO:0071110	histone biotinylation	P
+UniProtKB	P50747	GO:0016570	histone modification	P
+UniProtKB	P50747	GO:0071110	histone biotinylation	P
+UniProtKB	P51587	GO:0043967	histone H4 acetylation	P
+UniProtKB	P51587	GO:0043966	histone H3 acetylation	P
+UniProtKB	P51610	GO:0043984	histone H4-K16 acetylation	P
+UniProtKB	P51610	GO:0043982	histone H4-K8 acetylation	P
+UniProtKB	P51610	GO:0043981	histone H4-K5 acetylation	P
+UniProtKB	P51965	GO:0033523	histone H2B ubiquitination	P
+UniProtKB	P51965	GO:0033523	histone H2B ubiquitination	P
+UniProtKB	P51965	GO:0010390	histone monoubiquitination	P
+UniProtKB	P52926	GO:0035978	histone H2A-S139 phosphorylation	P
+UniProtKB	P55201	GO:0044154	histone H3-K14 acetylation	P
+UniProtKB	P55201	GO:0044154	histone H3-K14 acetylation	P
+UniProtKB	P55201	GO:0043972	histone H3-K23 acetylation	P
+UniProtKB	P55201	GO:0043966	histone H3 acetylation	P
+UniProtKB	P55345	GO:0016571	histone methylation	P
+UniProtKB	P55345	GO:0016571	histone methylation	P
+UniProtKB	P56524	GO:0016575	histone deacetylation	P
+UniProtKB	P56524	GO:0016575	histone deacetylation	P
+UniProtKB	P56524	GO:0070933	histone H4 deacetylation	P
+UniProtKB	P56524	GO:0070932	histone H3 deacetylation	P
+UniProtKB	P61088	GO:0016574	histone ubiquitination	P
+UniProtKB	P61964	GO:0051568	histone H3-K4 methylation	P
+UniProtKB	P61964	GO:0051568	histone H3-K4 methylation	P
+UniProtKB	P61964	GO:0043984	histone H4-K16 acetylation	P
+UniProtKB	P61964	GO:0043982	histone H4-K8 acetylation	P
+UniProtKB	P61964	GO:0043981	histone H4-K5 acetylation	P
+UniProtKB	P61964	GO:0043966	histone H3 acetylation	P
+UniProtKB	P61964	GO:0051568	histone H3-K4 methylation	P
+UniProtKB	P63146	GO:0016574	histone ubiquitination	P
+UniProtKB	P63146	GO:0033522	histone H2A ubiquitination	P
+UniProtKB	P63208	GO:0035518	histone H2A monoubiquitination	P
+UniProtKB	P78364	GO:0016574	histone ubiquitination	P
+UniProtKB	Q01658	GO:0043966	histone H3 acetylation	P
+UniProtKB	Q03164	GO:0044648	histone H3-K4 dimethylation	P
+UniProtKB	Q03164	GO:0097692	histone H3-K4 monomethylation	P
+UniProtKB	Q03164	GO:0097692	histone H3-K4 monomethylation	P
+UniProtKB	Q03164	GO:0051568	histone H3-K4 methylation	P
+UniProtKB	Q03164	GO:0051568	histone H3-K4 methylation	P
+UniProtKB	Q03164	GO:0051568	histone H3-K4 methylation	P
+UniProtKB	Q03164	GO:0043984	histone H4-K16 acetylation	P
+UniProtKB	Q03164	GO:0080182	histone H3-K4 trimethylation	P
+UniProtKB	Q05655	GO:0016572	histone phosphorylation	P
+UniProtKB	Q06587	GO:0035518	histone H2A monoubiquitination	P
+UniProtKB	Q06587	GO:0035518	histone H2A monoubiquitination	P
+UniProtKB	Q09472	GO:0016573	histone acetylation	P
+UniProtKB	Q09472	GO:0016573	histone acetylation	P
+UniProtKB	Q09472	GO:0016573	histone acetylation	P
+UniProtKB	Q09472	GO:0043969	histone H2B acetylation	P
+UniProtKB	Q09472	GO:0043967	histone H4 acetylation	P
+UniProtKB	Q12852	GO:0016572	histone phosphorylation	P
+UniProtKB	Q12962	GO:0016578	histone deubiquitination	P
+UniProtKB	Q12962	GO:0043966	histone H3 acetylation	P
+UniProtKB	Q12962	GO:0043966	histone H3 acetylation	P
+UniProtKB	Q13127	GO:0070933	histone H4 deacetylation	P
+UniProtKB	Q13330	GO:0016575	histone deacetylation	P
+UniProtKB	Q13547	GO:0070933	histone H4 deacetylation	P
+UniProtKB	Q13547	GO:0070932	histone H3 deacetylation	P
+UniProtKB	Q13547	GO:0016575	histone deacetylation	P
+UniProtKB	Q13547	GO:0070933	histone H4 deacetylation	P
+UniProtKB	Q13547	GO:0070932	histone H3 deacetylation	P
+UniProtKB	Q13620	GO:0035518	histone H2A monoubiquitination	P
+UniProtKB	Q14CW9	GO:0016578	histone deubiquitination	P
+UniProtKB	Q14CW9	GO:0016578	histone deubiquitination	P
+UniProtKB	Q14CW9	GO:0010390	histone monoubiquitination	P
+UniProtKB	Q15014	GO:0016575	histone deacetylation	P
+UniProtKB	Q15014	GO:0016573	histone acetylation	P
+UniProtKB	Q15014	GO:0043968	histone H2A acetylation	P
+UniProtKB	Q15014	GO:0043967	histone H4 acetylation	P
+UniProtKB	Q15047	GO:0051567	histone H3-K9 methylation	P
+UniProtKB	Q15291	GO:0051568	histone H3-K4 methylation	P
+UniProtKB	Q15291	GO:0051568	histone H3-K4 methylation	P
+UniProtKB	Q15542	GO:0043966	histone H3 acetylation	P
+UniProtKB	Q15652	GO:0033169	histone H3-K9 demethylation	P
+UniProtKB	Q15910	GO:0016571	histone methylation	P
+UniProtKB	Q15910	GO:0070734	histone H3-K27 methylation	P
+UniProtKB	Q16512	GO:0035407	histone H3-T11 phosphorylation	P
+UniProtKB	Q16514	GO:0043966	histone H3 acetylation	P
+UniProtKB	Q16531	GO:0035518	histone H2A monoubiquitination	P
+UniProtKB	Q16594	GO:0043966	histone H3 acetylation	P
+UniProtKB	Q16594	GO:0043966	histone H3 acetylation	P
+UniProtKB	Q16594	GO:0043966	histone H3 acetylation	P
+UniProtKB	Q3KNV8	GO:0036353	histone H2A-K119 monoubiquitination	P
+UniProtKB	Q3KNV8	GO:0036353	histone H2A-K119 monoubiquitination	P
+UniProtKB	Q4FZB7	GO:0034773	histone H4-K20 trimethylation	P
+UniProtKB	Q53H47	GO:0010452	histone H3-K36 methylation	P
+UniProtKB	Q53H47	GO:0010452	histone H3-K36 methylation	P
+UniProtKB	Q53H47	GO:0051568	histone H3-K4 methylation	P
+UniProtKB	Q53H47	GO:0097676	histone H3-K36 dimethylation	P
+UniProtKB	Q5PSV4	GO:0016575	histone deacetylation	P
+UniProtKB	Q5T5X7	GO:0043967	histone H4 acetylation	P
+UniProtKB	Q5T5X7	GO:0098532	histone H3-K27 trimethylation	P
+UniProtKB	Q5T5X7	GO:0080182	histone H3-K4 trimethylation	P
+UniProtKB	Q5T5X7	GO:0036124	histone H3-K9 trimethylation	P
+UniProtKB	Q5T5X7	GO:0034773	histone H4-K20 trimethylation	P
+UniProtKB	Q5VTR2	GO:0033523	histone H2B ubiquitination	P
+UniProtKB	Q5VTR2	GO:0033523	histone H2B ubiquitination	P
+UniProtKB	Q5VTR2	GO:0010390	histone monoubiquitination	P
+UniProtKB	Q5VTR2	GO:0010390	histone monoubiquitination	P
+UniProtKB	Q5VVJ2	GO:0035522	monoubiquitinated histone H2A deubiquitination	P
+UniProtKB	Q5VVX9	GO:0016574	histone ubiquitination	P
+UniProtKB	Q68DK7	GO:0043984	histone H4-K16 acetylation	P
+UniProtKB	Q68DK7	GO:0043984	histone H4-K16 acetylation	P
+UniProtKB	Q6B0I6	GO:0033169	histone H3-K9 demethylation	P
+UniProtKB	Q6B0I6	GO:0033169	histone H3-K9 demethylation	P
+UniProtKB	Q6IE81	GO:0043982	histone H4-K8 acetylation	P
+UniProtKB	Q6IE81	GO:0043981	histone H4-K5 acetylation	P
+UniProtKB	Q6IE81	GO:0043966	histone H3 acetylation	P
+UniProtKB	Q6IE81	GO:0043984	histone H4-K16 acetylation	P
+UniProtKB	Q6IE81	GO:0043983	histone H4-K12 acetylation	P
+UniProtKB	Q6IE81	GO:0043982	histone H4-K8 acetylation	P
+UniProtKB	Q6IE81	GO:0043981	histone H4-K5 acetylation	P
+UniProtKB	Q6IE81	GO:0043966	histone H3 acetylation	P
+UniProtKB	Q6N021	GO:0080182	histone H3-K4 trimethylation	P
+UniProtKB	Q6NYC1	GO:0070079	histone H4-R3 demethylation	P
+UniProtKB	Q6NYC1	GO:0070079	histone H4-R3 demethylation	P
+UniProtKB	Q6NYC1	GO:0070079	histone H4-R3 demethylation	P
+UniProtKB	Q6NYC1	GO:0070078	histone H3-R2 demethylation	P
+UniProtKB	Q6NYC1	GO:0070079	histone H4-R3 demethylation	P
+UniProtKB	Q6NYC1	GO:0070078	histone H3-R2 demethylation	P
+UniProtKB	Q6P1J9	GO:0033523	histone H2B ubiquitination	P
+UniProtKB	Q6P1J9	GO:0010390	histone monoubiquitination	P
+UniProtKB	Q6PD62	GO:0080182	histone H3-K4 trimethylation	P
+UniProtKB	Q6PD62	GO:0033523	histone H2B ubiquitination	P
+UniProtKB	Q6PD62	GO:0010390	histone monoubiquitination	P
+UniProtKB	Q6PJG2	GO:0016575	histone deacetylation	P
+UniProtKB	Q6TGC4	GO:0036414	histone citrullination	P
+UniProtKB	Q6UXN9	GO:0080182	histone H3-K4 trimethylation	P
+UniProtKB	Q6UXN9	GO:0051568	histone H3-K4 methylation	P
+UniProtKB	Q6W2J9	GO:0035518	histone H2A monoubiquitination	P
+UniProtKB	Q6ZMT4	GO:0033169	histone H3-K9 demethylation	P
+UniProtKB	Q6ZMT4	GO:0033169	histone H3-K9 demethylation	P
+UniProtKB	Q6ZMT4	GO:0033169	histone H3-K9 demethylation	P
+UniProtKB	Q6ZMT4	GO:0071557	histone H3-K27 demethylation	P
+UniProtKB	Q6ZMT4	GO:0071557	histone H3-K27 demethylation	P
+UniProtKB	Q6ZMT4	GO:0071557	histone H3-K27 demethylation	P
+UniProtKB	Q6ZMT4	GO:0070544	histone H3-K36 demethylation	P
+UniProtKB	Q6ZMT4	GO:0035574	histone H4-K20 demethylation	P
+UniProtKB	Q6ZW49	GO:0051568	histone H3-K4 methylation	P
+UniProtKB	Q70CQ1	GO:0035616	histone H2B conserved C-terminal lysine deubiquitination	P
+UniProtKB	Q70EK9	GO:0016578	histone deubiquitination	P
+UniProtKB	Q7LBC6	GO:0033169	histone H3-K9 demethylation	P
+UniProtKB	Q7Z3B3	GO:0043984	histone H4-K16 acetylation	P
+UniProtKB	Q7Z3B3	GO:0043982	histone H4-K8 acetylation	P
+UniProtKB	Q7Z3B3	GO:0043981	histone H4-K5 acetylation	P
+UniProtKB	Q7Z3K6	GO:0016575	histone deacetylation	P
+UniProtKB	Q7Z6Z7	GO:0016574	histone ubiquitination	P
+UniProtKB	Q86SE9	GO:0036353	histone H2A-K119 monoubiquitination	P
+UniProtKB	Q86SE9	GO:0036353	histone H2A-K119 monoubiquitination	P
+UniProtKB	Q86TU7	GO:0010452	histone H3-K36 methylation	P
+UniProtKB	Q86U70	GO:0043973	histone H3-K4 acetylation	P
+UniProtKB	Q86UY6	GO:0043968	histone H2A acetylation	P
+UniProtKB	Q86UY6	GO:0043967	histone H4 acetylation	P
+UniProtKB	Q86VZ2	GO:0051568	histone H3-K4 methylation	P
+UniProtKB	Q86X55	GO:0034971	histone H3-R17 methylation	P
+UniProtKB	Q86X55	GO:0034970	histone H3-R2 methylation	P
+UniProtKB	Q86X55	GO:0016571	histone methylation	P
+UniProtKB	Q86X55	GO:0016571	histone methylation	P
+UniProtKB	Q86Y97	GO:0034773	histone H4-K20 trimethylation	P
+UniProtKB	Q8IUF8	GO:0070544	histone H3-K36 demethylation	P
+UniProtKB	Q8IUF8	GO:0034720	histone H3-K4 demethylation	P
+UniProtKB	Q8IWV8	GO:0033522	histone H2A ubiquitination	P
+UniProtKB	Q8IWV8	GO:0033522	histone H2A ubiquitination	P
+UniProtKB	Q8IXJ6	GO:0070933	histone H4 deacetylation	P
+UniProtKB	Q8IXJ6	GO:0070933	histone H4 deacetylation	P
+UniProtKB	Q8IXJ6	GO:0070932	histone H3 deacetylation	P
+UniProtKB	Q8IXJ6	GO:0016575	histone deacetylation	P
+UniProtKB	Q8IXJ6-1	GO:0016575	histone deacetylation	P
+UniProtKB	Q8IXJ6-2	GO:0016575	histone deacetylation	P
+UniProtKB	Q8IXJ6-2	GO:0016575	histone deacetylation	P
+UniProtKB	Q8IXJ6-5	GO:0016575	histone deacetylation	P
+UniProtKB	Q8IXJ6-5	GO:0016575	histone deacetylation	P
+UniProtKB	Q8IXJ9	GO:0035522	monoubiquitinated histone H2A deubiquitination	P
+UniProtKB	Q8IYH5	GO:0043967	histone H4 acetylation	P
+UniProtKB	Q8IYW5	GO:0070535	histone H2A K63-linked ubiquitination	P
+UniProtKB	Q8IYW5	GO:0070535	histone H2A K63-linked ubiquitination	P
+UniProtKB	Q8IYW5	GO:0070535	histone H2A K63-linked ubiquitination	P
+UniProtKB	Q8IYW5	GO:0070535	histone H2A K63-linked ubiquitination	P
+UniProtKB	Q8IYW5	GO:0036352	histone H2A-K15 ubiquitination	P
+UniProtKB	Q8IYW5	GO:0036352	histone H2A-K15 ubiquitination	P
+UniProtKB	Q8IYW5	GO:0036351	histone H2A-K13 ubiquitination	P
+UniProtKB	Q8IYW5	GO:0035518	histone H2A monoubiquitination	P
+UniProtKB	Q8IYW5	GO:0035518	histone H2A monoubiquitination	P
+UniProtKB	Q8IZ40	GO:0016575	histone deacetylation	P
+UniProtKB	Q8N108	GO:0016575	histone deacetylation	P
+UniProtKB	Q8N108	GO:0016575	histone deacetylation	P
+UniProtKB	Q8N344	GO:0016575	histone deacetylation	P
+UniProtKB	Q8N344	GO:0016575	histone deacetylation	P
+UniProtKB	Q8N371	GO:0070544	histone H3-K36 demethylation	P
+UniProtKB	Q8N371	GO:0070544	histone H3-K36 demethylation	P
+UniProtKB	Q8N488	GO:0035518	histone H2A monoubiquitination	P
+UniProtKB	Q8N5Y2	GO:0016575	histone deacetylation	P
+UniProtKB	Q8N5Y2	GO:0016573	histone acetylation	P
+UniProtKB	Q8N5Y2	GO:0043984	histone H4-K16 acetylation	P
+UniProtKB	Q8N5Y2	GO:0043968	histone H2A acetylation	P
+UniProtKB	Q8N5Y2	GO:0043967	histone H4 acetylation	P
+UniProtKB	Q8N5Y2	GO:0043984	histone H4-K16 acetylation	P
+UniProtKB	Q8N5Y2	GO:0043984	histone H4-K16 acetylation	P
+UniProtKB	Q8N6T7	GO:0070932	histone H3 deacetylation	P
+UniProtKB	Q8N7H5	GO:0033523	histone H2B ubiquitination	P
+UniProtKB	Q8N7H5	GO:0010390	histone monoubiquitination	P
+UniProtKB	Q8NB12	GO:0034968	histone lysine methylation	P
+UniProtKB	Q8NB78	GO:0034720	histone H3-K4 demethylation	P
+UniProtKB	Q8NB78	GO:0034720	histone H3-K4 demethylation	P
+UniProtKB	Q8NEZ4	GO:0097692	histone H3-K4 monomethylation	P
+UniProtKB	Q8NG66	GO:0016572	histone phosphorylation	P
+UniProtKB	Q8NHM5	GO:0070544	histone H3-K36 demethylation	P
+UniProtKB	Q8NHM5	GO:0035518	histone H2A monoubiquitination	P
+UniProtKB	Q8NI51	GO:0016571	histone methylation	P
+UniProtKB	Q8TBK2	GO:0034968	histone lysine methylation	P
+UniProtKB	Q8TDB6	GO:0010390	histone monoubiquitination	P
+UniProtKB	Q8TDB6	GO:0033523	histone H2B ubiquitination	P
+UniProtKB	Q8TDB6	GO:0033522	histone H2A ubiquitination	P
+UniProtKB	Q8TDB6	GO:0010390	histone monoubiquitination	P
+UniProtKB	Q8TDI0	GO:0043967	histone H4 acetylation	P
+UniProtKB	Q8TDI0	GO:0098532	histone H3-K27 trimethylation	P
+UniProtKB	Q8TF76	GO:2000751	histone H3-T3 phosphorylation involved in chromosome passenger complex localization to kinetochore	P
+UniProtKB	Q8WVC0	GO:0033523	histone H2B ubiquitination	P
+UniProtKB	Q8WVC0	GO:0010390	histone monoubiquitination	P
+UniProtKB	Q8WWB3	GO:0051568	histone H3-K4 methylation	P
+UniProtKB	Q8WYB5	GO:0043966	histone H3 acetylation	P
+UniProtKB	Q8WYB5	GO:0016573	histone acetylation	P
+UniProtKB	Q8WYB5	GO:0043966	histone H3 acetylation	P
+UniProtKB	Q8WYH8	GO:0044154	histone H3-K14 acetylation	P
+UniProtKB	Q8WYH8	GO:0043967	histone H4 acetylation	P
+UniProtKB	Q8WYH8	GO:0043966	histone H3 acetylation	P
+UniProtKB	Q92466	GO:0035518	histone H2A monoubiquitination	P
+UniProtKB	Q92560	GO:0035522	monoubiquitinated histone H2A deubiquitination	P
+UniProtKB	Q92560	GO:0035522	monoubiquitinated histone H2A deubiquitination	P
+UniProtKB	Q92613	GO:0043966	histone H3 acetylation	P
+UniProtKB	Q92613	GO:0043981	histone H4-K5 acetylation	P
+UniProtKB	Q92613	GO:0043982	histone H4-K8 acetylation	P
+UniProtKB	Q92613	GO:0043984	histone H4-K16 acetylation	P
+UniProtKB	Q92613	GO:0043983	histone H4-K12 acetylation	P
+UniProtKB	Q92613	GO:0043982	histone H4-K8 acetylation	P
+UniProtKB	Q92613	GO:0043981	histone H4-K5 acetylation	P
+UniProtKB	Q92613	GO:0043966	histone H3 acetylation	P
+UniProtKB	Q92769	GO:0070932	histone H3 deacetylation	P
+UniProtKB	Q92769	GO:0070933	histone H4 deacetylation	P
+UniProtKB	Q92769	GO:0070933	histone H4 deacetylation	P
+UniProtKB	Q92769	GO:0070932	histone H3 deacetylation	P
+UniProtKB	Q92769	GO:0016575	histone deacetylation	P
+UniProtKB	Q92793	GO:0016573	histone acetylation	P
+UniProtKB	Q92793	GO:1990258	histone glutamine methylation	P
+UniProtKB	Q92793	GO:0016573	histone acetylation	P
+UniProtKB	Q92794	GO:0043966	histone H3 acetylation	P
+UniProtKB	Q92794	GO:0016573	histone acetylation	P
+UniProtKB	Q92794	GO:0016573	histone acetylation	P
+UniProtKB	Q92794	GO:0043966	histone H3 acetylation	P
+UniProtKB	Q92830	GO:0016573	histone acetylation	P
+UniProtKB	Q92830	GO:0016573	histone acetylation	P
+UniProtKB	Q92830	GO:0043966	histone H3 acetylation	P
+UniProtKB	Q92830	GO:0043966	histone H3 acetylation	P
+UniProtKB	Q92830	GO:0016578	histone deubiquitination	P
+UniProtKB	Q92830	GO:0043966	histone H3 acetylation	P
+UniProtKB	Q92830	GO:0043966	histone H3 acetylation	P
+UniProtKB	Q92831	GO:0043966	histone H3 acetylation	P
+UniProtKB	Q92993	GO:0016573	histone acetylation	P
+UniProtKB	Q93009	GO:0035616	histone H2B conserved C-terminal lysine deubiquitination	P
+UniProtKB	Q969S8	GO:0016575	histone deacetylation	P
+UniProtKB	Q969S8-1	GO:0016575	histone deacetylation	P
+UniProtKB	Q969S8-1	GO:0016575	histone deacetylation	P
+UniProtKB	Q96BN2	GO:0043966	histone H3 acetylation	P
+UniProtKB	Q96DB2	GO:0016575	histone deacetylation	P
+UniProtKB	Q96EB6	GO:0070932	histone H3 deacetylation	P
+UniProtKB	Q96EB6	GO:0016575	histone deacetylation	P
+UniProtKB	Q96EB6	GO:0016575	histone deacetylation	P
+UniProtKB	Q96EB6	GO:0016575	histone deacetylation	P
+UniProtKB	Q96EB6	GO:0016575	histone deacetylation	P
+UniProtKB	Q96EB6	GO:0070932	histone H3 deacetylation	P
+UniProtKB	Q96EB6	GO:0070932	histone H3 deacetylation	P
+UniProtKB	Q96ES7	GO:0043966	histone H3 acetylation	P
+UniProtKB	Q96ES7	GO:0016573	histone acetylation	P
+UniProtKB	Q96ES7	GO:0043966	histone H3 acetylation	P
+UniProtKB	Q96EZ8	GO:0043984	histone H4-K16 acetylation	P
+UniProtKB	Q96EZ8	GO:0043982	histone H4-K8 acetylation	P
+UniProtKB	Q96EZ8	GO:0043981	histone H4-K5 acetylation	P
+UniProtKB	Q96GD4	GO:0016570	histone modification	P
+UniProtKB	Q96GD4	GO:0043988	histone H3-S28 phosphorylation	P
+UniProtKB	Q96IM9	GO:0051568	histone H3-K4 methylation	P
+UniProtKB	Q96KQ7	GO:0016571	histone methylation	P
+UniProtKB	Q96L73	GO:0016571	histone methylation	P
+UniProtKB	Q96L91	GO:0043968	histone H2A acetylation	P
+UniProtKB	Q96L91	GO:0043967	histone H4 acetylation	P
+UniProtKB	Q96LA8	GO:0034970	histone H3-R2 methylation	P
+UniProtKB	Q96LA8	GO:0034970	histone H3-R2 methylation	P
+UniProtKB	Q96LA8	GO:0016571	histone methylation	P
+UniProtKB	Q96PK6	GO:0016575	histone deacetylation	P
+UniProtKB	Q96PN7	GO:0016575	histone deacetylation	P
+UniProtKB	Q96RI1	GO:0034971	histone H3-R17 methylation	P
+UniProtKB	Q96RL1	GO:0070537	histone H2A K63-linked deubiquitination	P
+UniProtKB	Q96RL1	GO:0070537	histone H2A K63-linked deubiquitination	P
+UniProtKB	Q96ST3	GO:0016575	histone deacetylation	P
+UniProtKB	Q96T68	GO:0051567	histone H3-K9 methylation	P
+UniProtKB	Q96T68	GO:0051567	histone H3-K9 methylation	P
+UniProtKB	Q96T88	GO:0010390	histone monoubiquitination	P
+UniProtKB	Q96T88	GO:0016574	histone ubiquitination	P
+UniProtKB	Q96T88	GO:0010390	histone monoubiquitination	P
+UniProtKB	Q99496	GO:0035518	histone H2A monoubiquitination	P
+UniProtKB	Q99496	GO:0036353	histone H2A-K119 monoubiquitination	P
+UniProtKB	Q99496	GO:0035518	histone H2A monoubiquitination	P
+UniProtKB	Q99497	GO:0016570	histone modification	P
+UniProtKB	Q99497	GO:0016570	histone modification	P
+UniProtKB	Q99502	GO:0016576	histone dephosphorylation	P
+UniProtKB	Q99502	GO:0016576	histone dephosphorylation	P
+UniProtKB	Q99504	GO:0016576	histone dephosphorylation	P
+UniProtKB	Q99504	GO:0016576	histone dephosphorylation	P
+UniProtKB	Q99504	GO:0016576	histone dephosphorylation	P
+UniProtKB	Q99873	GO:0043985	histone H4-R3 methylation	P
+UniProtKB	Q99873	GO:0043985	histone H4-R3 methylation	P
+UniProtKB	Q99873	GO:0016571	histone methylation	P
+UniProtKB	Q99986	GO:0072355	histone H3-T3 phosphorylation	P
+UniProtKB	Q99986	GO:0043987	histone H3-S10 phosphorylation	P
+UniProtKB	Q9BQ87	GO:0016575	histone deacetylation	P
+UniProtKB	Q9BSM1	GO:0036353	histone H2A-K119 monoubiquitination	P
+UniProtKB	Q9BSM1	GO:0036353	histone H2A-K119 monoubiquitination	P
+UniProtKB	Q9BSM1	GO:0035518	histone H2A monoubiquitination	P
+UniProtKB	Q9BTA9	GO:0010390	histone monoubiquitination	P
+UniProtKB	Q9BTA9	GO:0071894	histone H2B conserved C-terminal lysine ubiquitination	P
+UniProtKB	Q9BTC8	GO:0016575	histone deacetylation	P
+UniProtKB	Q9BTK6	GO:0051568	histone H3-K4 methylation	P
+UniProtKB	Q9BV86	GO:0016571	histone methylation	P
+UniProtKB	Q9BVI0	GO:0043981	histone H4-K5 acetylation	P
+UniProtKB	Q9BVI0	GO:0043982	histone H4-K8 acetylation	P
+UniProtKB	Q9BVI0	GO:0043984	histone H4-K16 acetylation	P
+UniProtKB	Q9BVI0	GO:0016573	histone acetylation	P
+UniProtKB	Q9BVI0	GO:0043984	histone H4-K16 acetylation	P
+UniProtKB	Q9BVI0	GO:0043982	histone H4-K8 acetylation	P
+UniProtKB	Q9BVI0	GO:0043981	histone H4-K5 acetylation	P
+UniProtKB	Q9BY41	GO:0070933	histone H4 deacetylation	P
+UniProtKB	Q9BY41	GO:0070932	histone H3 deacetylation	P
+UniProtKB	Q9BYE7	GO:0036353	histone H2A-K119 monoubiquitination	P
+UniProtKB	Q9BYE7	GO:0036353	histone H2A-K119 monoubiquitination	P
+UniProtKB	Q9BYW2	GO:0097198	histone H3-K36 trimethylation	P
+UniProtKB	Q9BYW2	GO:0097198	histone H3-K36 trimethylation	P
+UniProtKB	Q9BYW2	GO:0097198	histone H3-K36 trimethylation	P
+UniProtKB	Q9BYW2	GO:0097198	histone H3-K36 trimethylation	P
+UniProtKB	Q9BYW2	GO:0097198	histone H3-K36 trimethylation	P
+UniProtKB	Q9BYW2	GO:0097198	histone H3-K36 trimethylation	P
+UniProtKB	Q9BYW2	GO:0097198	histone H3-K36 trimethylation	P
+UniProtKB	Q9BYW2	GO:0097676	histone H3-K36 dimethylation	P
+UniProtKB	Q9BYW2	GO:0097198	histone H3-K36 trimethylation	P
+UniProtKB	Q9BZ95	GO:0016571	histone methylation	P
+UniProtKB	Q9BZK7	GO:0016575	histone deacetylation	P
+UniProtKB	Q9C005	GO:0051568	histone H3-K4 methylation	P
+UniProtKB	Q9C005	GO:0051568	histone H3-K4 methylation	P
+UniProtKB	Q9C0A6	GO:0097198	histone H3-K36 trimethylation	P
+UniProtKB	Q9GZS3	GO:0080182	histone H3-K4 trimethylation	P
+UniProtKB	Q9GZV8	GO:0034972	histone H3-R26 methylation	P
+UniProtKB	Q9GZZ1	GO:0016573	histone acetylation	P
+UniProtKB	Q9H0D2	GO:0016575	histone deacetylation	P
+UniProtKB	Q9H0E9	GO:0016573	histone acetylation	P
+UniProtKB	Q9H0E9	GO:0043968	histone H2A acetylation	P
+UniProtKB	Q9H0E9	GO:0043967	histone H4 acetylation	P
+UniProtKB	Q9H2F5	GO:0043968	histone H2A acetylation	P
+UniProtKB	Q9H2F5	GO:0043967	histone H4 acetylation	P
+UniProtKB	Q9H3R0	GO:0033169	histone H3-K9 demethylation	P
+UniProtKB	Q9H3R0	GO:0033169	histone H3-K9 demethylation	P
+UniProtKB	Q9H3R0	GO:0033169	histone H3-K9 demethylation	P
+UniProtKB	Q9H3R0	GO:0033169	histone H3-K9 demethylation	P
+UniProtKB	Q9H3R0	GO:0070544	histone H3-K36 demethylation	P
+UniProtKB	Q9H4L7	GO:0070933	histone H4 deacetylation	P
+UniProtKB	Q9H4L7	GO:0070932	histone H3 deacetylation	P
+UniProtKB	Q9H4Z2	GO:0080182	histone H3-K4 trimethylation	P
+UniProtKB	Q9H4Z2	GO:0080182	histone H3-K4 trimethylation	P
+UniProtKB	Q9H5I1	GO:0034968	histone lysine methylation	P
+UniProtKB	Q9H5I1	GO:0036124	histone H3-K9 trimethylation	P
+UniProtKB	Q9H5I1	GO:0036123	histone H3-K9 dimethylation	P
+UniProtKB	Q9H6W3	GO:0070544	histone H3-K36 demethylation	P
+UniProtKB	Q9H6W3	GO:0034720	histone H3-K4 demethylation	P
+UniProtKB	Q9H6W3	GO:0034720	histone H3-K4 demethylation	P
+UniProtKB	Q9H6W3	GO:0070544	histone H3-K36 demethylation	P
+UniProtKB	Q9H7B4	GO:0034968	histone lysine methylation	P
+UniProtKB	Q9H7L9	GO:0016575	histone deacetylation	P
+UniProtKB	Q9H7L9	GO:0016575	histone deacetylation	P
+UniProtKB	Q9H7X0	GO:0043966	histone H3 acetylation	P
+UniProtKB	Q9H7X0	GO:0043967	histone H4 acetylation	P
+UniProtKB	Q9H7X0	GO:0043967	histone H4 acetylation	P
+UniProtKB	Q9H7Z6	GO:0043984	histone H4-K16 acetylation	P
+UniProtKB	Q9H7Z6	GO:0043984	histone H4-K16 acetylation	P
+UniProtKB	Q9H7Z6	GO:0043984	histone H4-K16 acetylation	P
+UniProtKB	Q9H7Z6	GO:0043982	histone H4-K8 acetylation	P
+UniProtKB	Q9H7Z6	GO:0043981	histone H4-K5 acetylation	P
+UniProtKB	Q9H7Z6	GO:0016573	histone acetylation	P
+UniProtKB	Q9H8E8	GO:0043966	histone H3 acetylation	P
+UniProtKB	Q9H9B1	GO:0016571	histone methylation	P
+UniProtKB	Q9H9L4	GO:0043984	histone H4-K16 acetylation	P
+UniProtKB	Q9H9L4	GO:0043982	histone H4-K8 acetylation	P
+UniProtKB	Q9H9L4	GO:0043981	histone H4-K5 acetylation	P
+UniProtKB	Q9H9L4	GO:0043984	histone H4-K16 acetylation	P
+UniProtKB	Q9H9L4	GO:0043982	histone H4-K8 acetylation	P
+UniProtKB	Q9H9L4	GO:0043981	histone H4-K5 acetylation	P
+UniProtKB	Q9HAF1	GO:0043968	histone H2A acetylation	P
+UniProtKB	Q9HAF1	GO:0043981	histone H4-K5 acetylation	P
+UniProtKB	Q9HAF1	GO:0043982	histone H4-K8 acetylation	P
+UniProtKB	Q9HAF1	GO:0043983	histone H4-K12 acetylation	P
+UniProtKB	Q9HAF1	GO:0044154	histone H3-K14 acetylation	P
+UniProtKB	Q9HAF1	GO:0044154	histone H3-K14 acetylation	P
+UniProtKB	Q9HAF1	GO:0043984	histone H4-K16 acetylation	P
+UniProtKB	Q9HAF1	GO:0043983	histone H4-K12 acetylation	P
+UniProtKB	Q9HAF1	GO:0043982	histone H4-K8 acetylation	P
+UniProtKB	Q9HAF1	GO:0043981	histone H4-K5 acetylation	P
+UniProtKB	Q9HAF1	GO:0043968	histone H2A acetylation	P
+UniProtKB	Q9HCI7	GO:0043984	histone H4-K16 acetylation	P
+UniProtKB	Q9HCI7	GO:0043984	histone H4-K16 acetylation	P
+UniProtKB	Q9HCU9	GO:0016575	histone deacetylation	P
+UniProtKB	Q9NPA8	GO:0016578	histone deubiquitination	P
+UniProtKB	Q9NPA8	GO:0016578	histone deubiquitination	P
+UniProtKB	Q9NPF5	GO:0043967	histone H4 acetylation	P
+UniProtKB	Q9NPF5	GO:0043968	histone H2A acetylation	P
+UniProtKB	Q9NPF5	GO:0043968	histone H2A acetylation	P
+UniProtKB	Q9NPF5	GO:0043967	histone H4 acetylation	P
+UniProtKB	Q9NQ92	GO:0043985	histone H4-R3 methylation	P
+UniProtKB	Q9NQ92	GO:0043985	histone H4-R3 methylation	P
+UniProtKB	Q9NQC1	GO:0043982	histone H4-K8 acetylation	P
+UniProtKB	Q9NQC1	GO:0043981	histone H4-K5 acetylation	P
+UniProtKB	Q9NQC1	GO:0043966	histone H3 acetylation	P
+UniProtKB	Q9NQC1	GO:0043984	histone H4-K16 acetylation	P
+UniProtKB	Q9NQC1	GO:0043983	histone H4-K12 acetylation	P
+UniProtKB	Q9NQC1	GO:0043982	histone H4-K8 acetylation	P
+UniProtKB	Q9NQC1	GO:0043981	histone H4-K5 acetylation	P
+UniProtKB	Q9NQC1	GO:0043966	histone H3 acetylation	P
+UniProtKB	Q9NQS7	GO:0016572	histone phosphorylation	P
+UniProtKB	Q9NQV7	GO:0051568	histone H3-K4 methylation	P
+UniProtKB	Q9NQV7	GO:0051567	histone H3-K9 methylation	P
+UniProtKB	Q9NQV7	GO:0044648	histone H3-K4 dimethylation	P
+UniProtKB	Q9NQV7	GO:0097692	histone H3-K4 monomethylation	P
+UniProtKB	Q9NQV7	GO:0097692	histone H3-K4 monomethylation	P
+UniProtKB	Q9NQV7	GO:0097676	histone H3-K36 dimethylation	P
+UniProtKB	Q9NQV7	GO:0097198	histone H3-K36 trimethylation	P
+UniProtKB	Q9NQV7	GO:0080182	histone H3-K4 trimethylation	P
+UniProtKB	Q9NQV7	GO:0080182	histone H3-K4 trimethylation	P
+UniProtKB	Q9NQW5	GO:0080182	histone H3-K4 trimethylation	P
+UniProtKB	Q9NQX1	GO:0051567	histone H3-K9 methylation	P
+UniProtKB	Q9NQX1	GO:0016575	histone deacetylation	P
+UniProtKB	Q9NQX1	GO:0016575	histone deacetylation	P
+UniProtKB	Q9NQX1	GO:0051567	histone H3-K9 methylation	P
+UniProtKB	Q9NR22	GO:0016571	histone methylation	P
+UniProtKB	Q9NR22	GO:0016571	histone methylation	P
+UniProtKB	Q9NR48	GO:0097676	histone H3-K36 dimethylation	P
+UniProtKB	Q9NRA0	GO:0043980	histone H2B-K12 acetylation	P
+UniProtKB	Q9NRA0	GO:0043977	histone H2A-K5 acetylation	P
+UniProtKB	Q9NRC8	GO:0070932	histone H3 deacetylation	P
+UniProtKB	Q9NRC8	GO:0016570	histone modification	P
+UniProtKB	Q9NRC8	GO:0070932	histone H3 deacetylation	P
+UniProtKB	Q9NRC8	GO:0070932	histone H3 deacetylation	P
+UniProtKB	Q9NRC8	GO:0070932	histone H3 deacetylation	P
+UniProtKB	Q9NRC8	GO:0070932	histone H3 deacetylation	P
+UniProtKB	Q9NRC8	GO:0070932	histone H3 deacetylation	P
+UniProtKB	Q9NRC8	GO:1990258	histone glutamine methylation	P
+UniProtKB	Q9NRF9	GO:0043966	histone H3 acetylation	P
+UniProtKB	Q9NRG4	GO:0034968	histone lysine methylation	P
+UniProtKB	Q9NS73	GO:0043966	histone H3 acetylation	P
+UniProtKB	Q9NV56	GO:0016573	histone acetylation	P
+UniProtKB	Q9NVD3	GO:0044648	histone H3-K4 dimethylation	P
+UniProtKB	Q9NVD3	GO:0097692	histone H3-K4 monomethylation	P
+UniProtKB	Q9NVD3	GO:0034773	histone H4-K20 trimethylation	P
+UniProtKB	Q9NVM4	GO:0016571	histone methylation	P
+UniProtKB	Q9NVM4	GO:0034969	histone arginine methylation	P
+UniProtKB	Q9NXR8	GO:0043968	histone H2A acetylation	P
+UniProtKB	Q9NXR8	GO:0043968	histone H2A acetylation	P
+UniProtKB	Q9NXR8	GO:0043967	histone H4 acetylation	P
+UniProtKB	Q9NXR8	GO:0043967	histone H4 acetylation	P
+UniProtKB	Q9P0U4	GO:0051568	histone H3-K4 methylation	P
+UniProtKB	Q9P275	GO:0016578	histone deubiquitination	P
+UniProtKB	Q9P2K3	GO:0016575	histone deacetylation	P
+UniProtKB	Q9P2N6	GO:0043984	histone H4-K16 acetylation	P
+UniProtKB	Q9P2N6	GO:0043982	histone H4-K8 acetylation	P
+UniProtKB	Q9P2N6	GO:0043981	histone H4-K5 acetylation	P
+UniProtKB	Q9P2N6	GO:0043984	histone H4-K16 acetylation	P
+UniProtKB	Q9P2N6	GO:0043982	histone H4-K8 acetylation	P
+UniProtKB	Q9P2N6	GO:0043981	histone H4-K5 acetylation	P
+UniProtKB	Q9UBL3	GO:0051568	histone H3-K4 methylation	P
+UniProtKB	Q9UBL3	GO:0051568	histone H3-K4 methylation	P
+UniProtKB	Q9UBL3	GO:0051568	histone H3-K4 methylation	P
+UniProtKB	Q9UBN7	GO:0016575	histone deacetylation	P
+UniProtKB	Q9UBN7	GO:0016575	histone deacetylation	P
+UniProtKB	Q9UBU8	GO:0016575	histone deacetylation	P
+UniProtKB	Q9UBU8	GO:0016573	histone acetylation	P
+UniProtKB	Q9UBU8	GO:0043968	histone H2A acetylation	P
+UniProtKB	Q9UBU8	GO:0043967	histone H4 acetylation	P
+UniProtKB	Q9UBU8	GO:0016575	histone deacetylation	P
+UniProtKB	Q9UBU8	GO:0043968	histone H2A acetylation	P
+UniProtKB	Q9UBU8	GO:0043967	histone H4 acetylation	P
+UniProtKB	Q9UGL1	GO:0034720	histone H3-K4 demethylation	P
+UniProtKB	Q9UGL1	GO:0034720	histone H3-K4 demethylation	P
+UniProtKB	Q9UGL1	GO:0034720	histone H3-K4 demethylation	P
+UniProtKB	Q9UGL1	GO:0034720	histone H3-K4 demethylation	P
+UniProtKB	Q9UGN5	GO:0016570	histone modification	P
+UniProtKB	Q9UI30	GO:0034968	histone lysine methylation	P
+UniProtKB	Q9UI42	GO:0016573	histone acetylation	P
+UniProtKB	Q9UIF9	GO:0016575	histone deacetylation	P
+UniProtKB	Q9UIG0	GO:0016572	histone phosphorylation	P
+UniProtKB	Q9UJU2	GO:0043967	histone H4 acetylation	P
+UniProtKB	Q9UJU2	GO:0043966	histone H3 acetylation	P
+UniProtKB	Q9UK80	GO:0016578	histone deubiquitination	P
+UniProtKB	Q9UKL0	GO:0016575	histone deacetylation	P
+UniProtKB	Q9UKL0	GO:0070933	histone H4 deacetylation	P
+UniProtKB	Q9UKN5	GO:0043985	histone H4-R3 methylation	P
+UniProtKB	Q9UKV0	GO:1990678	histone H4-K16 deacetylation	P
+UniProtKB	Q9UKV0	GO:0016575	histone deacetylation	P
+UniProtKB	Q9UKV0	GO:0070933	histone H4 deacetylation	P
+UniProtKB	Q9UKV0	GO:0070932	histone H3 deacetylation	P
+UniProtKB	Q9ULC6	GO:0036414	histone citrullination	P
+UniProtKB	Q9ULD4	GO:0044154	histone H3-K14 acetylation	P
+UniProtKB	Q9ULD4	GO:0044154	histone H3-K14 acetylation	P
+UniProtKB	Q9ULD4	GO:0043966	histone H3 acetylation	P
+UniProtKB	Q9ULM3	GO:0043966	histone H3 acetylation	P
+UniProtKB	Q9ULW8	GO:0036414	histone citrullination	P
+UniProtKB	Q9UM07	GO:0036414	histone citrullination	P
+UniProtKB	Q9UM07	GO:0036414	histone citrullination	P
+UniProtKB	Q9UM07	GO:0036414	histone citrullination	P
+UniProtKB	Q9UM07	GO:0036413	histone H3-R26 citrullination	P
+UniProtKB	Q9UM07	GO:0036413	histone H3-R26 citrullination	P
+UniProtKB	Q9UMN6	GO:0044648	histone H3-K4 dimethylation	P
+UniProtKB	Q9UMN6	GO:0097692	histone H3-K4 monomethylation	P
+UniProtKB	Q9UMN6	GO:0051568	histone H3-K4 methylation	P
+UniProtKB	Q9UMN6	GO:0051568	histone H3-K4 methylation	P
+UniProtKB	Q9UNL4	GO:0043984	histone H4-K16 acetylation	P
+UniProtKB	Q9UNL4	GO:0043983	histone H4-K12 acetylation	P
+UniProtKB	Q9UNL4	GO:0043982	histone H4-K8 acetylation	P
+UniProtKB	Q9UNL4	GO:0043981	histone H4-K5 acetylation	P
+UniProtKB	Q9UNL4	GO:0043966	histone H3 acetylation	P
+UniProtKB	Q9UPP1	GO:0033169	histone H3-K9 demethylation	P
+UniProtKB	Q9UPP1	GO:0033169	histone H3-K9 demethylation	P
+UniProtKB	Q9UPP1	GO:0033169	histone H3-K9 demethylation	P
+UniProtKB	Q9UPP1	GO:0033169	histone H3-K9 demethylation	P
+UniProtKB	Q9UPP1	GO:0033169	histone H3-K9 demethylation	P
+UniProtKB	Q9UPP1	GO:0071557	histone H3-K27 demethylation	P
+UniProtKB	Q9UPP1	GO:0071557	histone H3-K27 demethylation	P
+UniProtKB	Q9UPP1	GO:0070544	histone H3-K36 demethylation	P
+UniProtKB	Q9UPP1	GO:0070544	histone H3-K36 demethylation	P
+UniProtKB	Q9UPP1	GO:0035574	histone H4-K20 demethylation	P
+UniProtKB	Q9UPP1	GO:0035574	histone H4-K20 demethylation	P
+UniProtKB	Q9UPS6	GO:0044648	histone H3-K4 dimethylation	P
+UniProtKB	Q9UPS6	GO:0097692	histone H3-K4 monomethylation	P
+UniProtKB	Q9UPS6	GO:0080182	histone H3-K4 trimethylation	P
+UniProtKB	Q9UPS6	GO:0051568	histone H3-K4 methylation	P
+UniProtKB	Q9UPT9	GO:0016574	histone ubiquitination	P
+UniProtKB	Q9UPT9	GO:0016578	histone deubiquitination	P
+UniProtKB	Q9UPT9	GO:0016578	histone deubiquitination	P
+UniProtKB	Q9UQB9	GO:0016570	histone modification	P
+UniProtKB	Q9UQL6	GO:0016575	histone deacetylation	P
+UniProtKB	Q9Y230	GO:0016573	histone acetylation	P
+UniProtKB	Q9Y230	GO:0043968	histone H2A acetylation	P
+UniProtKB	Q9Y230	GO:0043967	histone H4 acetylation	P
+UniProtKB	Q9Y265	GO:0016573	histone acetylation	P
+UniProtKB	Q9Y265	GO:0043968	histone H2A acetylation	P
+UniProtKB	Q9Y265	GO:0043967	histone H4 acetylation	P
+UniProtKB	Q9Y2J8	GO:0036414	histone citrullination	P
+UniProtKB	Q9Y2J8	GO:0036413	histone H3-R26 citrullination	P
+UniProtKB	Q9Y2K7	GO:0070544	histone H3-K36 demethylation	P
+UniProtKB	Q9Y2K7	GO:0070544	histone H3-K36 demethylation	P
+UniProtKB	Q9Y4A5	GO:0016578	histone deubiquitination	P
+UniProtKB	Q9Y4A5	GO:0016573	histone acetylation	P
+UniProtKB	Q9Y4A5	GO:0043968	histone H2A acetylation	P
+UniProtKB	Q9Y4A5	GO:0043967	histone H4 acetylation	P
+UniProtKB	Q9Y4B6	GO:1990245	histone H2A-T120 phosphorylation	P
+UniProtKB	Q9Y4B6	GO:1990245	histone H2A-T120 phosphorylation	P
+UniProtKB	Q9Y4C1	GO:0033169	histone H3-K9 demethylation	P
+UniProtKB	Q9Y4C1	GO:0033169	histone H3-K9 demethylation	P
+UniProtKB	Q9Y4C1	GO:0033169	histone H3-K9 demethylation	P
+UniProtKB	Q9Y4E8	GO:0035616	histone H2B conserved C-terminal lysine deubiquitination	P
+UniProtKB	Q9Y5N5	GO:0034968	histone lysine methylation	P
+UniProtKB	Q9Y5T5	GO:0016578	histone deubiquitination	P
+UniProtKB	Q9Y5T5	GO:0070537	histone H2A K63-linked deubiquitination	P
+UniProtKB	Q9Y5T5	GO:0035522	monoubiquitinated histone H2A deubiquitination	P
+UniProtKB	Q9Y6I4	GO:0016578	histone deubiquitination	P
+UniProtKB	Q9Y6I4	GO:0016578	histone deubiquitination	P
+UniProtKB	Q9Y6J9	GO:0016573	histone acetylation	P
+UniProtKB	Q9Y6J9	GO:0043966	histone H3 acetylation	P

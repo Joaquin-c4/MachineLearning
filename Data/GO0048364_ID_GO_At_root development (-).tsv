@@ -1,0 +1,703 @@
+﻿GENE PRODUCT DB	GENE PRODUCT ID	GO TERM	GO NAME	GO ASPECT
+UniProtKB	A0MES8	GO:0010449	root meristem growth	P
+UniProtKB	A0MES8	GO:0048527	lateral root development	P
+UniProtKB	A7UL74	GO:0048364	root development	P
+UniProtKB	A7XDQ9	GO:0080147	root hair cell development	P
+UniProtKB	B3H5D3	GO:0048830	adventitious root development	P
+UniProtKB	B3H5J1	GO:0010082	regulation of root meristem growth	P
+UniProtKB	B3H5J1	GO:0048527	lateral root development	P
+UniProtKB	B3H5Q2	GO:0010082	regulation of root meristem growth	P
+UniProtKB	B3H5Q2	GO:0048766	root hair initiation	P
+UniProtKB	B3H5Q2	GO:0080147	root hair cell development	P
+UniProtKB	C0LGF5	GO:0010082	regulation of root meristem growth	P
+UniProtKB	C0LGQ4	GO:0048765	root hair cell differentiation	P
+UniProtKB	C0LGR3	GO:0010078	maintenance of root meristem identity	P
+UniProtKB	C0LGR3	GO:0010082	regulation of root meristem growth	P
+UniProtKB	C0LGV1	GO:0010078	maintenance of root meristem identity	P
+UniProtKB	C0LGV1	GO:0010449	root meristem growth	P
+UniProtKB	C0LGV1	GO:0010082	regulation of root meristem growth	P
+UniProtKB	C0LGX3	GO:0010102	lateral root morphogenesis	P
+UniProtKB	F4HQE2	GO:0048364	root development	P
+UniProtKB	F4HTM3	GO:0010053	root epidermal cell differentiation	P
+UniProtKB	F4HU83	GO:0048364	root development	P
+UniProtKB	F4HVZ5	GO:0080022	primary root development	P
+UniProtKB	F4HW04	GO:0010086	embryonic root morphogenesis	P
+UniProtKB	F4HW09	GO:0048364	root development	P
+UniProtKB	F4HYH6	GO:0048768	root hair cell tip growth	P
+UniProtKB	F4I312	GO:0010015	root morphogenesis	P
+UniProtKB	F4I443	GO:0010078	maintenance of root meristem identity	P
+UniProtKB	F4I460	GO:0048767	root hair elongation	P
+UniProtKB	F4I460	GO:0048767	root hair elongation	P
+UniProtKB	F4I4F2	GO:0080147	root hair cell development	P
+UniProtKB	F4I615	GO:0010053	root epidermal cell differentiation	P
+UniProtKB	F4I642	GO:0048364	root development	P
+UniProtKB	F4I7B6	GO:0080022	primary root development	P
+UniProtKB	F4I9A1	GO:0048364	root development	P
+UniProtKB	F4IAW5	GO:0010311	lateral root formation	P
+UniProtKB	F4IDS7	GO:0010015	root morphogenesis	P
+UniProtKB	F4IIU4	GO:0010102	lateral root morphogenesis	P
+UniProtKB	F4IKE6	GO:0010311	lateral root formation	P
+UniProtKB	F4ILF8	GO:0080147	root hair cell development	P
+UniProtKB	F4ILG6	GO:0048364	root development	P
+UniProtKB	F4IP55	GO:0048528	post-embryonic root development	P
+UniProtKB	F4IRB4	GO:0048527	lateral root development	P
+UniProtKB	F4IUG9	GO:0048767	root hair elongation	P
+UniProtKB	F4J2B8	GO:0010449	root meristem growth	P
+UniProtKB	F4J381	GO:0048364	root development	P
+UniProtKB	F4J8R4	GO:0010102	lateral root morphogenesis	P
+UniProtKB	F4J8R4	GO:0048364	root development	P
+UniProtKB	F4J9A0	GO:0010311	lateral root formation	P
+UniProtKB	F4J9A0	GO:0048829	root cap development	P
+UniProtKB	F4J9M5	GO:0010078	maintenance of root meristem identity	P
+UniProtKB	F4JAU3	GO:0080147	root hair cell development	P
+UniProtKB	F4JBX1	GO:0048527	lateral root development	P
+UniProtKB	F4JBX1	GO:0048527	lateral root development	P
+UniProtKB	F4JGZ1	GO:0048364	root development	P
+UniProtKB	F4JI44	GO:0048364	root development	P
+UniProtKB	F4JIK9	GO:0080147	root hair cell development	P
+UniProtKB	F4JLE5	GO:0048768	root hair cell tip growth	P
+UniProtKB	F4JLE5	GO:0048767	root hair elongation	P
+UniProtKB	F4JLE5	GO:0010053	root epidermal cell differentiation	P
+UniProtKB	F4JLE5	GO:0048768	root hair cell tip growth	P
+UniProtKB	F4JM19	GO:0048767	root hair elongation	P
+UniProtKB	F4JNX3	GO:0080147	root hair cell development	P
+UniProtKB	F4JQ95	GO:0048364	root development	P
+UniProtKB	F4JTS8	GO:0048364	root development	P
+UniProtKB	F4JTS8	GO:0048364	root development	P
+UniProtKB	F4JTU7	GO:0048767	root hair elongation	P
+UniProtKB	F4JY11	GO:0010015	root morphogenesis	P
+UniProtKB	F4K051	GO:0048364	root development	P
+UniProtKB	F4K0T5	GO:0010311	lateral root formation	P
+UniProtKB	F4K128	GO:0010078	maintenance of root meristem identity	P
+UniProtKB	F4K2A1	GO:0010449	root meristem growth	P
+UniProtKB	F4K2A1	GO:0048767	root hair elongation	P
+UniProtKB	F4K2A1	GO:0048364	root development	P
+UniProtKB	F4K2E9	GO:0048364	root development	P
+UniProtKB	F4K2E9	GO:0048767	root hair elongation	P
+UniProtKB	F4K3E4	GO:0048528	post-embryonic root development	P
+UniProtKB	F4K5J1	GO:0048768	root hair cell tip growth	P
+UniProtKB	F4K5J1	GO:0048767	root hair elongation	P
+UniProtKB	F4K6B8	GO:0010082	regulation of root meristem growth	P
+UniProtKB	F4K7C5	GO:0048767	root hair elongation	P
+UniProtKB	F4K8U4	GO:0048364	root development	P
+UniProtKB	F4KBT8	GO:0080022	primary root development	P
+UniProtKB	F4KBY0	GO:0048767	root hair elongation	P
+UniProtKB	F4KG58	GO:0010015	root morphogenesis	P
+UniProtKB	F4KGM7	GO:0010102	lateral root morphogenesis	P
+UniProtKB	F4KGM7	GO:0048364	root development	P
+UniProtKB	F4KGW7	GO:0010311	lateral root formation	P
+UniProtKB	F4KGW7	GO:0048364	root development	P
+UniProtKB	F4KHI3	GO:0010082	regulation of root meristem growth	P
+UniProtKB	F4KIH9	GO:0010082	regulation of root meristem growth	P
+UniProtKB	F4KIH9	GO:0010015	root morphogenesis	P
+UniProtKB	O04197	GO:0048364	root development	P
+UniProtKB	O04331	GO:0048527	lateral root development	P
+UniProtKB	O04379	GO:0048830	adventitious root development	P
+UniProtKB	O04474	GO:0048829	root cap development	P
+UniProtKB	O04547	GO:0010078	maintenance of root meristem identity	P
+UniProtKB	O22131	GO:0010311	lateral root formation	P
+UniProtKB	O22161	GO:0048527	lateral root development	P
+UniProtKB	O22161	GO:0048527	lateral root development	P
+UniProtKB	O22929	GO:0048364	root development	P
+UniProtKB	O23179	GO:0010311	lateral root formation	P
+UniProtKB	O23180	GO:0010311	lateral root formation	P
+UniProtKB	O23299	GO:0048767	root hair elongation	P
+UniProtKB	O24410	GO:0048364	root development	P
+UniProtKB	O48709	GO:0048768	root hair cell tip growth	P
+UniProtKB	O48709	GO:0048767	root hair elongation	P
+UniProtKB	O48709	GO:0048766	root hair initiation	P
+UniProtKB	O49397	GO:0010082	regulation of root meristem growth	P
+UniProtKB	O49397	GO:0010082	regulation of root meristem growth	P
+UniProtKB	O49397	GO:0048364	root development	P
+UniProtKB	O49397	GO:0080022	primary root development	P
+UniProtKB	O64614	GO:0048766	root hair initiation	P
+UniProtKB	O64614	GO:0048364	root development	P
+UniProtKB	O64647	GO:0048364	root development	P
+UniProtKB	O64682	GO:0048767	root hair elongation	P
+UniProtKB	O64682	GO:0048766	root hair initiation	P
+UniProtKB	O64948	GO:0048527	lateral root development	P
+UniProtKB	O65375	GO:0010054	trichoblast differentiation	P
+UniProtKB	O65440	GO:0010078	maintenance of root meristem identity	P
+UniProtKB	O65440	GO:0010078	maintenance of root meristem identity	P
+UniProtKB	O65570	GO:0048767	root hair elongation	P
+UniProtKB	O65628	GO:0010311	lateral root formation	P
+UniProtKB	O65782	GO:0048830	adventitious root development	P
+UniProtKB	O80345	GO:0010078	maintenance of root meristem identity	P
+UniProtKB	O80460	GO:0048364	root development	P
+UniProtKB	O80725	GO:0048767	root hair elongation	P
+UniProtKB	O80758	GO:0048364	root development	P
+UniProtKB	O80809	GO:0010078	maintenance of root meristem identity	P
+UniProtKB	O80928	GO:0090057	root radial pattern formation	P
+UniProtKB	O81001	GO:0048364	root development	P
+UniProtKB	O81020	GO:0048364	root development	P
+UniProtKB	O81081	GO:0080022	primary root development	P
+UniProtKB	O81210	GO:0010053	root epidermal cell differentiation	P
+UniProtKB	O81242	GO:0048766	root hair initiation	P
+UniProtKB	O81316	GO:0048768	root hair cell tip growth	P
+UniProtKB	O81417	GO:0080147	root hair cell development	P
+UniProtKB	O81417	GO:0080147	root hair cell development	P
+UniProtKB	O81417	GO:0080147	root hair cell development	P
+UniProtKB	O82289	GO:0010102	lateral root morphogenesis	P
+UniProtKB	O82734	GO:0048768	root hair cell tip growth	P
+UniProtKB	O82796	GO:0048364	root development	P
+UniProtKB	O82811	GO:0048527	lateral root development	P
+UniProtKB	O82811	GO:0048527	lateral root development	P
+UniProtKB	P0C7P8	GO:0048364	root development	P
+UniProtKB	P0CJ46	GO:0048767	root hair elongation	P
+UniProtKB	P0DKH9	GO:0048364	root development	P
+UniProtKB	P31265	GO:0048768	root hair cell tip growth	P
+UniProtKB	P31265	GO:0048527	lateral root development	P
+UniProtKB	P31265	GO:0048364	root development	P
+UniProtKB	P38557	GO:0048768	root hair cell tip growth	P
+UniProtKB	P38558	GO:0048768	root hair cell tip growth	P
+UniProtKB	P42697	GO:0048766	root hair initiation	P
+UniProtKB	P47735	GO:0010102	lateral root morphogenesis	P
+UniProtKB	P49177	GO:0048527	lateral root development	P
+UniProtKB	P49177	GO:0048364	root development	P
+UniProtKB	P53492	GO:0010053	root epidermal cell differentiation	P
+UniProtKB	P53492	GO:0048767	root hair elongation	P
+UniProtKB	P53492	GO:0048364	root development	P
+UniProtKB	P53492	GO:0048364	root development	P
+UniProtKB	P54144	GO:0010311	lateral root formation	P
+UniProtKB	P54144	GO:0080181	lateral root branching	P
+UniProtKB	P54887	GO:0048364	root development	P
+UniProtKB	P55034	GO:0048767	root hair elongation	P
+UniProtKB	P55034	GO:0048528	post-embryonic root development	P
+UniProtKB	P62598	GO:0010082	regulation of root meristem growth	P
+UniProtKB	P62598	GO:0010082	regulation of root meristem growth	P
+UniProtKB	P62598	GO:0048364	root development	P
+UniProtKB	P62598	GO:0080022	primary root development	P
+UniProtKB	P93005	GO:0010102	lateral root morphogenesis	P
+UniProtKB	P93022	GO:0010311	lateral root formation	P
+UniProtKB	P93022	GO:0048527	lateral root development	P
+UniProtKB	P93024	GO:0048364	root development	P
+UniProtKB	P93042	GO:0010053	root epidermal cell differentiation	P
+UniProtKB	P93749	GO:0048768	root hair cell tip growth	P
+UniProtKB	Q05085	GO:0048527	lateral root development	P
+UniProtKB	Q05466	GO:0010311	lateral root formation	P
+UniProtKB	Q05466	GO:0048364	root development	P
+UniProtKB	Q058G9	GO:0010311	lateral root formation	P
+UniProtKB	Q058G9	GO:0080022	primary root development	P
+UniProtKB	Q058G9	GO:0048364	root development	P
+UniProtKB	Q06327	GO:0010311	lateral root formation	P
+UniProtKB	Q06327	GO:0048364	root development	P
+UniProtKB	Q07100	GO:0048364	root development	P
+UniProtKB	Q07100	GO:0080022	primary root development	P
+UniProtKB	Q0WNP7	GO:0048767	root hair elongation	P
+UniProtKB	Q0WP44	GO:0048364	root development	P
+UniProtKB	Q0WPX9	GO:0048768	root hair cell tip growth	P
+UniProtKB	Q0WQX9	GO:0048364	root development	P
+UniProtKB	Q0WSH6	GO:0048364	root development	P
+UniProtKB	Q0WSN2	GO:0048364	root development	P
+UniProtKB	Q0WT40	GO:0048767	root hair elongation	P
+UniProtKB	Q0WV12	GO:0048765	root hair cell differentiation	P
+UniProtKB	Q0WV12	GO:0048364	root development	P
+UniProtKB	Q17TI5	GO:0010078	maintenance of root meristem identity	P
+UniProtKB	Q17TI5	GO:0048527	lateral root development	P
+UniProtKB	Q17TI5	GO:0048364	root development	P
+UniProtKB	Q1G3Q4	GO:0010078	maintenance of root meristem identity	P
+UniProtKB	Q1H5D2	GO:0048767	root hair elongation	P
+UniProtKB	Q1PE30	GO:0010053	root epidermal cell differentiation	P
+UniProtKB	Q24JN5	GO:0080147	root hair cell development	P
+UniProtKB	Q2V4E2	GO:0010078	maintenance of root meristem identity	P
+UniProtKB	Q2V4Q1	GO:0090057	root radial pattern formation	P
+UniProtKB	Q38819	GO:0010311	lateral root formation	P
+UniProtKB	Q38819	GO:0010311	lateral root formation	P
+UniProtKB	Q38830	GO:0048364	root development	P
+UniProtKB	Q38832	GO:0010102	lateral root morphogenesis	P
+UniProtKB	Q38838	GO:0010082	regulation of root meristem growth	P
+UniProtKB	Q38841	GO:0048364	root development	P
+UniProtKB	Q38864	GO:0080022	primary root development	P
+UniProtKB	Q38912	GO:0048767	root hair elongation	P
+UniProtKB	Q38912	GO:0048766	root hair initiation	P
+UniProtKB	Q38919	GO:0048767	root hair elongation	P
+UniProtKB	Q38919	GO:0048766	root hair initiation	P
+UniProtKB	Q38937	GO:0048767	root hair elongation	P
+UniProtKB	Q38937	GO:0048766	root hair initiation	P
+UniProtKB	Q38970	GO:0048364	root development	P
+UniProtKB	Q38997	GO:0080022	primary root development	P
+UniProtKB	Q38998	GO:0048767	root hair elongation	P
+UniProtKB	Q39008	GO:0010449	root meristem growth	P
+UniProtKB	Q39011	GO:0048765	root hair cell differentiation	P
+UniProtKB	Q39026	GO:0010082	regulation of root meristem growth	P
+UniProtKB	Q39026	GO:0048364	root development	P
+UniProtKB	Q39041	GO:0080022	primary root development	P
+UniProtKB	Q39065	GO:0048364	root development	P
+UniProtKB	Q39264	GO:0048767	root hair elongation	P
+UniProtKB	Q39264	GO:0048766	root hair initiation	P
+UniProtKB	Q3E880	GO:0010082	regulation of root meristem growth	P
+UniProtKB	Q3E880	GO:0010078	maintenance of root meristem identity	P
+UniProtKB	Q3E880	GO:0010082	regulation of root meristem growth	P
+UniProtKB	Q3E9I4	GO:0010078	maintenance of root meristem identity	P
+UniProtKB	Q3E9I4	GO:0048364	root development	P
+UniProtKB	Q3EBY6	GO:0048528	post-embryonic root development	P
+UniProtKB	Q3ECH9	GO:0010082	regulation of root meristem growth	P
+UniProtKB	Q3ECH9	GO:0010078	maintenance of root meristem identity	P
+UniProtKB	Q3ECJ5	GO:0010078	maintenance of root meristem identity	P
+UniProtKB	Q3ECU1	GO:0010078	maintenance of root meristem identity	P
+UniProtKB	Q3EDG5	GO:0010082	regulation of root meristem growth	P
+UniProtKB	Q3EDI6	GO:0010078	maintenance of root meristem identity	P
+UniProtKB	Q3S4A7	GO:0048364	root development	P
+UniProtKB	Q42384	GO:0048364	root development	P
+UniProtKB	Q42418	GO:0048527	lateral root development	P
+UniProtKB	Q42449	GO:0048527	lateral root development	P
+UniProtKB	Q42510	GO:0010311	lateral root formation	P
+UniProtKB	Q42510	GO:0048765	root hair cell differentiation	P
+UniProtKB	Q4PSF4	GO:0010015	root morphogenesis	P
+UniProtKB	Q4PSX1	GO:0010078	maintenance of root meristem identity	P
+UniProtKB	Q56WH4	GO:0048364	root development	P
+UniProtKB	Q570C0	GO:0010311	lateral root formation	P
+UniProtKB	Q58G01	GO:0048364	root development	P
+UniProtKB	Q5E924	GO:0080022	primary root development	P
+UniProtKB	Q5XVG3	GO:0080181	lateral root branching	P
+UniProtKB	Q5YGP7	GO:0010449	root meristem growth	P
+UniProtKB	Q5YGP7	GO:0048364	root development	P
+UniProtKB	Q5YGP7	GO:0048364	root development	P
+UniProtKB	Q5YGP8	GO:0010449	root meristem growth	P
+UniProtKB	Q5YGP8	GO:0048364	root development	P
+UniProtKB	Q5YGP8	GO:0048364	root development	P
+UniProtKB	Q66GQ6	GO:0048766	root hair initiation	P
+UniProtKB	Q66GQ6	GO:0048765	root hair cell differentiation	P
+UniProtKB	Q66GQ6	GO:0048765	root hair cell differentiation	P
+UniProtKB	Q66GQ6	GO:0010053	root epidermal cell differentiation	P
+UniProtKB	Q66GQ6	GO:0048765	root hair cell differentiation	P
+UniProtKB	Q67XD9	GO:0048364	root development	P
+UniProtKB	Q67Y93	GO:0010311	lateral root formation	P
+UniProtKB	Q67Y93	GO:0048527	lateral root development	P
+UniProtKB	Q689D6	GO:0010102	lateral root morphogenesis	P
+UniProtKB	Q6DSU1	GO:0010082	regulation of root meristem growth	P
+UniProtKB	Q6DSU1	GO:0010082	regulation of root meristem growth	P
+UniProtKB	Q6GKV1	GO:0048767	root hair elongation	P
+UniProtKB	Q6ID76	GO:0010082	regulation of root meristem growth	P
+UniProtKB	Q6ID76	GO:0010082	regulation of root meristem growth	P
+UniProtKB	Q6IMT0	GO:0048768	root hair cell tip growth	P
+UniProtKB	Q6IWA9	GO:0010078	maintenance of root meristem identity	P
+UniProtKB	Q6IWA9	GO:0010078	maintenance of root meristem identity	P
+UniProtKB	Q6J9N8	GO:0010311	lateral root formation	P
+UniProtKB	Q6J9Q2	GO:0010102	lateral root morphogenesis	P
+UniProtKB	Q6J9S1	GO:0048528	post-embryonic root development	P
+UniProtKB	Q6NKR2	GO:0048364	root development	P
+UniProtKB	Q6NKR6	GO:0080147	root hair cell development	P
+UniProtKB	Q6NLQ8	GO:0010311	lateral root formation	P
+UniProtKB	Q6NLQ8	GO:0010311	lateral root formation	P
+UniProtKB	Q6NMC6	GO:0048364	root development	P
+UniProtKB	Q6NMF0	GO:0010078	maintenance of root meristem identity	P
+UniProtKB	Q6NNI6	GO:0048766	root hair initiation	P
+UniProtKB	Q6NNL3	GO:0010082	regulation of root meristem growth	P
+UniProtKB	Q6NNL9	GO:0010311	lateral root formation	P
+UniProtKB	Q6NNL9	GO:0048364	root development	P
+UniProtKB	Q6NNL9	GO:0048364	root development	P
+UniProtKB	Q6PQQ3	GO:0010311	lateral root formation	P
+UniProtKB	Q6PQQ3	GO:0048364	root development	P
+UniProtKB	Q700D2	GO:0048364	root development	P
+UniProtKB	Q700D2	GO:0048364	root development	P
+UniProtKB	Q7DMA9	GO:0048527	lateral root development	P
+UniProtKB	Q7DMA9	GO:0048364	root development	P
+UniProtKB	Q7X9H6	GO:0010311	lateral root formation	P
+UniProtKB	Q7XJM8	GO:0048768	root hair cell tip growth	P
+UniProtKB	Q7XJU0	GO:0048364	root development	P
+UniProtKB	Q84J75	GO:0048364	root development	P
+UniProtKB	Q84RD1	GO:0080147	root hair cell development	P
+UniProtKB	Q84TE6	GO:0048527	lateral root development	P
+UniProtKB	Q84TE9	GO:0048364	root development	P
+UniProtKB	Q84TE9	GO:0090057	root radial pattern formation	P
+UniProtKB	Q84VW5	GO:0048364	root development	P
+UniProtKB	Q84W98	GO:0010078	maintenance of root meristem identity	P
+UniProtKB	Q84WK0	GO:0048766	root hair initiation	P
+UniProtKB	Q84WU2	GO:0010078	maintenance of root meristem identity	P
+UniProtKB	Q84WU6	GO:0048830	adventitious root development	P
+UniProtKB	Q8GWE6	GO:0048364	root development	P
+UniProtKB	Q8GWR0	GO:0010101	post-embryonic root morphogenesis	P
+UniProtKB	Q8GY25	GO:0048830	adventitious root development	P
+UniProtKB	Q8GYC1	GO:0048364	root development	P
+UniProtKB	Q8GYH7	GO:0010082	regulation of root meristem growth	P
+UniProtKB	Q8GYX9	GO:0010015	root morphogenesis	P
+UniProtKB	Q8H174	GO:0048364	root development	P
+UniProtKB	Q8H1D2	GO:0010078	maintenance of root meristem identity	P
+UniProtKB	Q8H965	GO:0048364	root development	P
+UniProtKB	Q8L627	GO:0010311	lateral root formation	P
+UniProtKB	Q8L6Y1	GO:0048767	root hair elongation	P
+UniProtKB	Q8L796	GO:0010311	lateral root formation	P
+UniProtKB	Q8L7U4	GO:0010449	root meristem growth	P
+UniProtKB	Q8L866	GO:0010311	lateral root formation	P
+UniProtKB	Q8L8A8	GO:0048364	root development	P
+UniProtKB	Q8L8Y3	GO:0048527	lateral root development	P
+UniProtKB	Q8L8Y3	GO:0048364	root development	P
+UniProtKB	Q8L9H6	GO:0010078	maintenance of root meristem identity	P
+UniProtKB	Q8L9Y2	GO:0010015	root morphogenesis	P
+UniProtKB	Q8LAD7	GO:0010102	lateral root morphogenesis	P
+UniProtKB	Q8LB08	GO:0048364	root development	P
+UniProtKB	Q8LBI1	GO:0010015	root morphogenesis	P
+UniProtKB	Q8LC03	GO:0080022	primary root development	P
+UniProtKB	Q8LC59	GO:0048527	lateral root development	P
+UniProtKB	Q8LDS4	GO:0010015	root morphogenesis	P
+UniProtKB	Q8LEG1	GO:0048766	root hair initiation	P
+UniProtKB	Q8LEG3	GO:0048528	post-embryonic root development	P
+UniProtKB	Q8LFD3	GO:0010311	lateral root formation	P
+UniProtKB	Q8LFD3	GO:0048527	lateral root development	P
+UniProtKB	Q8LFL4	GO:0010078	maintenance of root meristem identity	P
+UniProtKB	Q8LFX7	GO:0048527	lateral root development	P
+UniProtKB	Q8LGU6	GO:0010071	root meristem specification	P
+UniProtKB	Q8LGU6	GO:0048829	root cap development	P
+UniProtKB	Q8LGU6	GO:0048364	root development	P
+UniProtKB	Q8LLV8	GO:0048364	root development	P
+UniProtKB	Q8LRK8	GO:0010053	root epidermal cell differentiation	P
+UniProtKB	Q8RWX7	GO:0048364	root development	P
+UniProtKB	Q8RWZ1	GO:0010071	root meristem specification	P
+UniProtKB	Q8RWZ3	GO:0048767	root hair elongation	P
+UniProtKB	Q8RWZ6	GO:0010015	root morphogenesis	P
+UniProtKB	Q8RWZ6	GO:0048364	root development	P
+UniProtKB	Q8RX55	GO:0080147	root hair cell development	P
+UniProtKB	Q8RXG3	GO:0010082	regulation of root meristem growth	P
+UniProtKB	Q8RXP6	GO:0048364	root development	P
+UniProtKB	Q8RXU6	GO:0010449	root meristem growth	P
+UniProtKB	Q8RXU6	GO:0010311	lateral root formation	P
+UniProtKB	Q8RY59	GO:0010102	lateral root morphogenesis	P
+UniProtKB	Q8RYC8	GO:0010311	lateral root formation	P
+UniProtKB	Q8RYC8	GO:0048527	lateral root development	P
+UniProtKB	Q8S3D5	GO:0048767	root hair elongation	P
+UniProtKB	Q8S3D5	GO:0048765	root hair cell differentiation	P
+UniProtKB	Q8S3D5	GO:0080147	root hair cell development	P
+UniProtKB	Q8S8F8	GO:0048765	root hair cell differentiation	P
+UniProtKB	Q8S8M2	GO:0010078	maintenance of root meristem identity	P
+UniProtKB	Q8S8M9	GO:0048767	root hair elongation	P
+UniProtKB	Q8VXV7	GO:0048364	root development	P
+UniProtKB	Q8VXZ5	GO:0080147	root hair cell development	P
+UniProtKB	Q8VZ80	GO:0010311	lateral root formation	P
+UniProtKB	Q8VZA0	GO:0090057	root radial pattern formation	P
+UniProtKB	Q8VZQ2	GO:0048364	root development	P
+UniProtKB	Q8W030	GO:0080022	primary root development	P
+UniProtKB	Q8W031	GO:0080022	primary root development	P
+UniProtKB	Q8W1X2	GO:0010054	trichoblast differentiation	P
+UniProtKB	Q8W261	GO:0010082	regulation of root meristem growth	P
+UniProtKB	Q8W4D0	GO:0010082	regulation of root meristem growth	P
+UniProtKB	Q93V47	GO:0048527	lateral root development	P
+UniProtKB	Q93VH1	GO:0048766	root hair initiation	P
+UniProtKB	Q93VH1	GO:0048364	root development	P
+UniProtKB	Q93VK8	GO:0010082	regulation of root meristem growth	P
+UniProtKB	Q93VK8	GO:0048527	lateral root development	P
+UniProtKB	Q93WF6	GO:0048364	root development	P
+UniProtKB	Q93YN9	GO:0048527	lateral root development	P
+UniProtKB	Q93YR9	GO:0048829	root cap development	P
+UniProtKB	Q93YR9	GO:0048829	root cap development	P
+UniProtKB	Q93ZS6	GO:0010311	lateral root formation	P
+UniProtKB	Q940D0	GO:0010082	regulation of root meristem growth	P
+UniProtKB	Q940D0	GO:0010082	regulation of root meristem growth	P
+UniProtKB	Q940D0	GO:0048364	root development	P
+UniProtKB	Q940D0	GO:0080022	primary root development	P
+UniProtKB	Q940Z2	GO:0010082	regulation of root meristem growth	P
+UniProtKB	Q941C5	GO:0010078	maintenance of root meristem identity	P
+UniProtKB	Q945S5	GO:0048364	root development	P
+UniProtKB	Q946J8	GO:0048364	root development	P
+UniProtKB	Q949M9	GO:0048767	root hair elongation	P
+UniProtKB	Q94A02	GO:0010078	maintenance of root meristem identity	P
+UniProtKB	Q94A02	GO:0048527	lateral root development	P
+UniProtKB	Q94A02	GO:0080022	primary root development	P
+UniProtKB	Q94A97	GO:0010053	root epidermal cell differentiation	P
+UniProtKB	Q94AA4	GO:0010053	root epidermal cell differentiation	P
+UniProtKB	Q94AH1	GO:0010015	root morphogenesis	P
+UniProtKB	Q94AN2	GO:0048364	root development	P
+UniProtKB	Q94AN2	GO:0048364	root development	P
+UniProtKB	Q94B65	GO:0048527	lateral root development	P
+UniProtKB	Q94B65	GO:0080147	root hair cell development	P
+UniProtKB	Q94BZ1	GO:0048364	root development	P
+UniProtKB	Q94CE5	GO:0048364	root development	P
+UniProtKB	Q94CK9	GO:0048364	root development	P
+UniProtKB	Q94F20	GO:0010015	root morphogenesis	P
+UniProtKB	Q94FL6	GO:0080022	primary root development	P
+UniProtKB	Q96247	GO:0010311	lateral root formation	P
+UniProtKB	Q96247	GO:0010311	lateral root formation	P
+UniProtKB	Q96247	GO:0048829	root cap development	P
+UniProtKB	Q96247	GO:0048765	root hair cell differentiation	P
+UniProtKB	Q96276	GO:0010053	root epidermal cell differentiation	P
+UniProtKB	Q96292	GO:0010053	root epidermal cell differentiation	P
+UniProtKB	Q96292	GO:0048768	root hair cell tip growth	P
+UniProtKB	Q96292	GO:0048767	root hair elongation	P
+UniProtKB	Q96293	GO:0048768	root hair cell tip growth	P
+UniProtKB	Q9AR19	GO:0010015	root morphogenesis	P
+UniProtKB	Q9ASQ2	GO:0048767	root hair elongation	P
+UniProtKB	Q9ASW1	GO:0080147	root hair cell development	P
+UniProtKB	Q9AT61	GO:0010311	lateral root formation	P
+UniProtKB	Q9C4Z6	GO:0048364	root development	P
+UniProtKB	Q9C500	GO:0048527	lateral root development	P
+UniProtKB	Q9C565	GO:0010082	regulation of root meristem growth	P
+UniProtKB	Q9C5G5	GO:0048768	root hair cell tip growth	P
+UniProtKB	Q9C5U0	GO:0010086	embryonic root morphogenesis	P
+UniProtKB	Q9C6B2	GO:0010015	root morphogenesis	P
+UniProtKB	Q9C6B2	GO:0048767	root hair elongation	P
+UniProtKB	Q9C6B8	GO:0048364	root development	P
+UniProtKB	Q9C707	GO:0048766	root hair initiation	P
+UniProtKB	Q9C7W7	GO:0010053	root epidermal cell differentiation	P
+UniProtKB	Q9C878	GO:0048829	root cap development	P
+UniProtKB	Q9C878	GO:0048829	root cap development	P
+UniProtKB	Q9C888	GO:0048364	root development	P
+UniProtKB	Q9C958	GO:0048527	lateral root development	P
+UniProtKB	Q9C999	GO:0010311	lateral root formation	P
+UniProtKB	Q9C9G7	GO:0010015	root morphogenesis	P
+UniProtKB	Q9C9Q5	GO:0080147	root hair cell development	P
+UniProtKB	Q9C9Q6	GO:0080147	root hair cell development	P
+UniProtKB	Q9C9Q8	GO:0048364	root development	P
+UniProtKB	Q9C9Z9	GO:0010078	maintenance of root meristem identity	P
+UniProtKB	Q9CA25	GO:0010311	lateral root formation	P
+UniProtKB	Q9CA25	GO:0048829	root cap development	P
+UniProtKB	Q9CA64	GO:0010086	embryonic root morphogenesis	P
+UniProtKB	Q9CA75	GO:0048767	root hair elongation	P
+UniProtKB	Q9FDX9	GO:0048527	lateral root development	P
+UniProtKB	Q9FF53	GO:0048767	root hair elongation	P
+UniProtKB	Q9FFG5	GO:0048767	root hair elongation	P
+UniProtKB	Q9FFH3	GO:0048364	root development	P
+UniProtKB	Q9FFN7	GO:0048364	root development	P
+UniProtKB	Q9FG38	GO:0048364	root development	P
+UniProtKB	Q9FG73	GO:0010015	root morphogenesis	P
+UniProtKB	Q9FG74	GO:0048766	root hair initiation	P
+UniProtKB	Q9FGF6	GO:0010082	regulation of root meristem growth	P
+UniProtKB	Q9FGF6	GO:0048527	lateral root development	P
+UniProtKB	Q9FGF8	GO:0062211	root regeneration	P
+UniProtKB	Q9FGL5	GO:0010311	lateral root formation	P
+UniProtKB	Q9FHI1	GO:0010449	root meristem growth	P
+UniProtKB	Q9FHI1	GO:0048364	root development	P
+UniProtKB	Q9FHY8	GO:0048768	root hair cell tip growth	P
+UniProtKB	Q9FHY8	GO:0048767	root hair elongation	P
+UniProtKB	Q9FHY8	GO:0080147	root hair cell development	P
+UniProtKB	Q9FI37	GO:0048364	root development	P
+UniProtKB	Q9FI39	GO:0048364	root development	P
+UniProtKB	Q9FIQ5	GO:0010015	root morphogenesis	P
+UniProtKB	Q9FIT8	GO:0048768	root hair cell tip growth	P
+UniProtKB	Q9FJ13	GO:0010053	root epidermal cell differentiation	P
+UniProtKB	Q9FJ13	GO:0048765	root hair cell differentiation	P
+UniProtKB	Q9FJ87	GO:0010015	root morphogenesis	P
+UniProtKB	Q9FJV0	GO:0010311	lateral root formation	P
+UniProtKB	Q9FK72	GO:0048527	lateral root development	P
+UniProtKB	Q9FK72	GO:0048364	root development	P
+UniProtKB	Q9FKA0	GO:0048527	lateral root development	P
+UniProtKB	Q9FLJ8	GO:0080147	root hair cell development	P
+UniProtKB	Q9FLJ8	GO:0080147	root hair cell development	P
+UniProtKB	Q9FLU1	GO:0048364	root development	P
+UniProtKB	Q9FM03	GO:0090057	root radial pattern formation	P
+UniProtKB	Q9FM65	GO:0048364	root development	P
+UniProtKB	Q9FM65	GO:0048364	root development	P
+UniProtKB	Q9FM80	GO:0048364	root development	P
+UniProtKB	Q9FMA0	GO:0010311	lateral root formation	P
+UniProtKB	Q9FMH6	GO:0048527	lateral root development	P
+UniProtKB	Q9FMJ0	GO:0048768	root hair cell tip growth	P
+UniProtKB	Q9FMT4	GO:0048364	root development	P
+UniProtKB	Q9FNI1	GO:0080147	root hair cell development	P
+UniProtKB	Q9FPT1	GO:0010078	maintenance of root meristem identity	P
+UniProtKB	Q9FR44	GO:0048528	post-embryonic root development	P
+UniProtKB	Q9FRV4	GO:0048527	lateral root development	P
+UniProtKB	Q9FT44	GO:0010449	root meristem growth	P
+UniProtKB	Q9FUS8	GO:0048527	lateral root development	P
+UniProtKB	Q9FVE6	GO:0048364	root development	P
+UniProtKB	Q9FVQ1	GO:0048364	root development	P
+UniProtKB	Q9FVQ4	GO:0048527	lateral root development	P
+UniProtKB	Q9FX67	GO:0080022	primary root development	P
+UniProtKB	Q9FX68	GO:0048364	root development	P
+UniProtKB	Q9FXA8	GO:0048364	root development	P
+UniProtKB	Q9FXD6	GO:0010082	regulation of root meristem growth	P
+UniProtKB	Q9FXD6	GO:0010082	regulation of root meristem growth	P
+UniProtKB	Q9FYA2	GO:0010055	atrichoblast differentiation	P
+UniProtKB	Q9FYA2	GO:0048527	lateral root development	P
+UniProtKB	Q9FYK2	GO:0048767	root hair elongation	P
+UniProtKB	Q9FZE4	GO:0010078	maintenance of root meristem identity	P
+UniProtKB	Q9LFB2	GO:0048829	root cap development	P
+UniProtKB	Q9LFE0	GO:0048528	post-embryonic root development	P
+UniProtKB	Q9LFE0	GO:0048364	root development	P
+UniProtKB	Q9LFH0	GO:0048364	root development	P
+UniProtKB	Q9LFL0	GO:0048767	root hair elongation	P
+UniProtKB	Q9LFM3	GO:0048364	root development	P
+UniProtKB	Q9LFU0	GO:0080022	primary root development	P
+UniProtKB	Q9LHL5	GO:0048364	root development	P
+UniProtKB	Q9LHP4	GO:0010078	maintenance of root meristem identity	P
+UniProtKB	Q9LHP4	GO:0010449	root meristem growth	P
+UniProtKB	Q9LHP4	GO:0010082	regulation of root meristem growth	P
+UniProtKB	Q9LIR4	GO:0048364	root development	P
+UniProtKB	Q9LJX0	GO:0048527	lateral root development	P
+UniProtKB	Q9LJX0	GO:0048364	root development	P
+UniProtKB	Q9LKB9	GO:0048767	root hair elongation	P
+UniProtKB	Q9LMH0	GO:0010449	root meristem growth	P
+UniProtKB	Q9LMM6	GO:0048364	root development	P
+UniProtKB	Q9LMN6	GO:0048527	lateral root development	P
+UniProtKB	Q9LMZ9	GO:0048527	lateral root development	P
+UniProtKB	Q9LN62	GO:0080147	root hair cell development	P
+UniProtKB	Q9LN94	GO:0048767	root hair elongation	P
+UniProtKB	Q9LNC4	GO:0048364	root development	P
+UniProtKB	Q9LNI5	GO:0080147	root hair cell development	P
+UniProtKB	Q9LPD9	GO:0010082	regulation of root meristem growth	P
+UniProtKB	Q9LPD9	GO:0048364	root development	P
+UniProtKB	Q9LPL4	GO:0010311	lateral root formation	P
+UniProtKB	Q9LPS1	GO:0080147	root hair cell development	P
+UniProtKB	Q9LPV4	GO:0048767	root hair elongation	P
+UniProtKB	Q9LPW7	GO:0048527	lateral root development	P
+UniProtKB	Q9LPW7	GO:0080022	primary root development	P
+UniProtKB	Q9LQ55	GO:0048766	root hair initiation	P
+UniProtKB	Q9LQF2	GO:0048364	root development	P
+UniProtKB	Q9LQF2	GO:0048364	root development	P
+UniProtKB	Q9LQQ9	GO:0010311	lateral root formation	P
+UniProtKB	Q9LR29	GO:0080022	primary root development	P
+UniProtKB	Q9LRV2	GO:0010449	root meristem growth	P
+UniProtKB	Q9LRZ5	GO:0048364	root development	P
+UniProtKB	Q9LS08	GO:0048364	root development	P
+UniProtKB	Q9LS08	GO:0080147	root hair cell development	P
+UniProtKB	Q9LSQ3	GO:0080147	root hair cell development	P
+UniProtKB	Q9LT31	GO:0048528	post-embryonic root development	P
+UniProtKB	Q9LT35	GO:0010311	lateral root formation	P
+UniProtKB	Q9LT56	GO:0010053	root epidermal cell differentiation	P
+UniProtKB	Q9LTA6	GO:0048364	root development	P
+UniProtKB	Q9LTT8	GO:0010071	root meristem specification	P
+UniProtKB	Q9LU05	GO:0048768	root hair cell tip growth	P
+UniProtKB	Q9LUB7	GO:0010078	maintenance of root meristem identity	P
+UniProtKB	Q9LUB7	GO:0010071	root meristem specification	P
+UniProtKB	Q9LUB7	GO:0080022	primary root development	P
+UniProtKB	Q9LUW0	GO:0010311	lateral root formation	P
+UniProtKB	Q9LUW0	GO:0048364	root development	P
+UniProtKB	Q9LV28	GO:0048364	root development	P
+UniProtKB	Q9LV97	GO:0010078	maintenance of root meristem identity	P
+UniProtKB	Q9LVC0	GO:0048767	root hair elongation	P
+UniProtKB	Q9LVD0	GO:0010078	maintenance of root meristem identity	P
+UniProtKB	Q9LVD0	GO:0010078	maintenance of root meristem identity	P
+UniProtKB	Q9LVD0	GO:0048527	lateral root development	P
+UniProtKB	Q9LVD0	GO:0048527	lateral root development	P
+UniProtKB	Q9LVD0	GO:0048364	root development	P
+UniProtKB	Q9LVD0	GO:0048364	root development	P
+UniProtKB	Q9LVM1	GO:0048364	root development	P
+UniProtKB	Q9LVR0	GO:0048364	root development	P
+UniProtKB	Q9LVS0	GO:0048527	lateral root development	P
+UniProtKB	Q9LX29	GO:0010311	lateral root formation	P
+UniProtKB	Q9LX29	GO:0048829	root cap development	P
+UniProtKB	Q9LX29	GO:0048364	root development	P
+UniProtKB	Q9LX29	GO:0048364	root development	P
+UniProtKB	Q9LXD1	GO:0010311	lateral root formation	P
+UniProtKB	Q9LXR9	GO:0048364	root development	P
+UniProtKB	Q9LXU0	GO:0010078	maintenance of root meristem identity	P
+UniProtKB	Q9LXW3	GO:0048767	root hair elongation	P
+UniProtKB	Q9LY03	GO:0048364	root development	P
+UniProtKB	Q9LYU7	GO:0010078	maintenance of root meristem identity	P
+UniProtKB	Q9LZ56	GO:0090057	root radial pattern formation	P
+UniProtKB	Q9LZJ7	GO:0010054	trichoblast differentiation	P
+UniProtKB	Q9LZX7	GO:0048364	root development	P
+UniProtKB	Q9M000	GO:0048768	root hair cell tip growth	P
+UniProtKB	Q9M085	GO:0010053	root epidermal cell differentiation	P
+UniProtKB	Q9M157	GO:0048765	root hair cell differentiation	P
+UniProtKB	Q9M1E6	GO:0090057	root radial pattern formation	P
+UniProtKB	Q9M1K5	GO:0048767	root hair elongation	P
+UniProtKB	Q9M1P7	GO:0048364	root development	P
+UniProtKB	Q9M1R4	GO:0048364	root development	P
+UniProtKB	Q9M1S8	GO:0048364	root development	P
+UniProtKB	Q9M1S8	GO:0010082	regulation of root meristem growth	P
+UniProtKB	Q9M224	GO:0048527	lateral root development	P
+UniProtKB	Q9M224	GO:0048527	lateral root development	P
+UniProtKB	Q9M2J7	GO:0010311	lateral root formation	P
+UniProtKB	Q9M384	GO:0048364	root development	P
+UniProtKB	Q9M811	GO:0048364	root development	P
+UniProtKB	Q9M811	GO:0080147	root hair cell development	P
+UniProtKB	Q9M8M7	GO:0048364	root development	P
+UniProtKB	Q9M8M7	GO:0080022	primary root development	P
+UniProtKB	Q9M9W3	GO:0048768	root hair cell tip growth	P
+UniProtKB	Q9M9W8	GO:0048364	root development	P
+UniProtKB	Q9MA17	GO:0048829	root cap development	P
+UniProtKB	Q9MA17	GO:0048829	root cap development	P
+UniProtKB	Q9MA17	GO:0048829	root cap development	P
+UniProtKB	Q9MA41	GO:0010053	root epidermal cell differentiation	P
+UniProtKB	Q9MAG8	GO:0048364	root development	P
+UniProtKB	Q9S736	GO:0010078	maintenance of root meristem identity	P
+UniProtKB	Q9S736	GO:0010071	root meristem specification	P
+UniProtKB	Q9S736	GO:0080022	primary root development	P
+UniProtKB	Q9S757	GO:0080147	root hair cell development	P
+UniProtKB	Q9S757	GO:0080147	root hair cell development	P
+UniProtKB	Q9S775	GO:0048364	root development	P
+UniProtKB	Q9S7I2	GO:0010102	lateral root morphogenesis	P
+UniProtKB	Q9S7N2	GO:0010078	maintenance of root meristem identity	P
+UniProtKB	Q9S7N2	GO:0048364	root development	P
+UniProtKB	Q9S7N2	GO:0080022	primary root development	P
+UniProtKB	Q9S7S5	GO:0048767	root hair elongation	P
+UniProtKB	Q9S7Z8	GO:0048767	root hair elongation	P
+UniProtKB	Q9S7Z8	GO:0048766	root hair initiation	P
+UniProtKB	Q9S7Z8	GO:0048364	root development	P
+UniProtKB	Q9S814	GO:0048765	root hair cell differentiation	P
+UniProtKB	Q9S836	GO:0048829	root cap development	P
+UniProtKB	Q9S9W2	GO:0048767	root hair elongation	P
+UniProtKB	Q9SA49	GO:0090057	root radial pattern formation	P
+UniProtKB	Q9SAJ6	GO:0080022	primary root development	P
+UniProtKB	Q9SB51	GO:0048364	root development	P
+UniProtKB	Q9SCZ4	GO:0048364	root development	P
+UniProtKB	Q9SEI0	GO:0048765	root hair cell differentiation	P
+UniProtKB	Q9SFC6	GO:0010053	root epidermal cell differentiation	P
+UniProtKB	Q9SGW3	GO:0048528	post-embryonic root development	P
+UniProtKB	Q9SH31	GO:0048767	root hair elongation	P
+UniProtKB	Q9SHL8	GO:0010311	lateral root formation	P
+UniProtKB	Q9SI38	GO:0048527	lateral root development	P
+UniProtKB	Q9SI38	GO:0048527	lateral root development	P
+UniProtKB	Q9SI56	GO:0048527	lateral root development	P
+UniProtKB	Q9SI56	GO:0080022	primary root development	P
+UniProtKB	Q9SI57	GO:0010082	regulation of root meristem growth	P
+UniProtKB	Q9SIV0	GO:0048830	adventitious root development	P
+UniProtKB	Q9SIY3	GO:0048364	root development	P
+UniProtKB	Q9SJR5	GO:0048364	root development	P
+UniProtKB	Q9SJR5	GO:0048364	root development	P
+UniProtKB	Q9SK32	GO:0010082	regulation of root meristem growth	P
+UniProtKB	Q9SKD9	GO:0048527	lateral root development	P
+UniProtKB	Q9SKN5	GO:0048829	root cap development	P
+UniProtKB	Q9SKN5	GO:0048829	root cap development	P
+UniProtKB	Q9SKP6	GO:0080022	primary root development	P
+UniProtKB	Q9SL15	GO:0048364	root development	P
+UniProtKB	Q9SL67	GO:0010078	maintenance of root meristem identity	P
+UniProtKB	Q9SLB7	GO:0010311	lateral root formation	P
+UniProtKB	Q9SLV0	GO:0010015	root morphogenesis	P
+UniProtKB	Q9SN12	GO:0048527	lateral root development	P
+UniProtKB	Q9SND6	GO:0010082	regulation of root meristem growth	P
+UniProtKB	Q9SP02	GO:0048364	root development	P
+UniProtKB	Q9SPU7	GO:0010449	root meristem growth	P
+UniProtKB	Q9SQH6	GO:0048767	root hair elongation	P
+UniProtKB	Q9SQH9	GO:0010311	lateral root formation	P
+UniProtKB	Q9SQH9	GO:0080181	lateral root branching	P
+UniProtKB	Q9SRN4	GO:0080147	root hair cell development	P
+UniProtKB	Q9SRT0	GO:0048527	lateral root development	P
+UniProtKB	Q9SRU2	GO:0010311	lateral root formation	P
+UniProtKB	Q9SRU2	GO:0010311	lateral root formation	P
+UniProtKB	Q9SRU2	GO:0048364	root development	P
+UniProtKB	Q9SRY3	GO:0048364	root development	P
+UniProtKB	Q9STV4	GO:0048364	root development	P
+UniProtKB	Q9SUQ2	GO:0048364	root development	P
+UniProtKB	Q9SV87	GO:0048829	root cap development	P
+UniProtKB	Q9SV87	GO:0048829	root cap development	P
+UniProtKB	Q9SVY1	GO:0080022	primary root development	P
+UniProtKB	Q9SY55	GO:0048364	root development	P
+UniProtKB	Q9SYK4	GO:0048364	root development	P
+UniProtKB	Q9SYT0	GO:0080022	primary root development	P
+UniProtKB	Q9SZ06	GO:0062211	root regeneration	P
+UniProtKB	Q9SZ11	GO:0010053	root epidermal cell differentiation	P
+UniProtKB	Q9SZ11	GO:0048765	root hair cell differentiation	P
+UniProtKB	Q9SZD4	GO:0010311	lateral root formation	P
+UniProtKB	Q9SZD4	GO:0010078	maintenance of root meristem identity	P
+UniProtKB	Q9SZD4	GO:0010078	maintenance of root meristem identity	P
+UniProtKB	Q9SZD4	GO:0010015	root morphogenesis	P
+UniProtKB	Q9SZD4	GO:0048829	root cap development	P
+UniProtKB	Q9SZD4	GO:0048364	root development	P
+UniProtKB	Q9SZE2	GO:0010015	root morphogenesis	P
+UniProtKB	Q9XEE2	GO:0080022	primary root development	P
+UniProtKB	Q9XFM0	GO:0010102	lateral root morphogenesis	P
+UniProtKB	Q9XIA9	GO:0010311	lateral root formation	P
+UniProtKB	Q9XIE2	GO:0048364	root development	P
+UniProtKB	Q9XIE2	GO:0080147	root hair cell development	P
+UniProtKB	Q9XIE6	GO:0048364	root development	P
+UniProtKB	Q9XIN0	GO:0010479	stele development	P
+UniProtKB	Q9XIN0	GO:0010078	maintenance of root meristem identity	P
+UniProtKB	Q9XIN0	GO:0048364	root development	P
+UniProtKB	Q9ZNQ8	GO:0048364	root development	P
+UniProtKB	Q9ZNS0	GO:0010311	lateral root formation	P
+UniProtKB	Q9ZPQ9	GO:0048765	root hair cell differentiation	P
+UniProtKB	Q9ZQ46	GO:0048364	root development	P
+UniProtKB	Q9ZQP1	GO:0048364	root development	P
+UniProtKB	Q9ZSI1	GO:0010311	lateral root formation	P
+UniProtKB	Q9ZSP5	GO:0010102	lateral root morphogenesis	P
+UniProtKB	Q9ZU64	GO:0090057	root radial pattern formation	P
+UniProtKB	Q9ZUG9	GO:0048767	root hair elongation	P
+UniProtKB	Q9ZUG9	GO:0048765	root hair cell differentiation	P
+UniProtKB	Q9ZUG9	GO:0080147	root hair cell development	P
+UniProtKB	Q9ZUU1	GO:0048364	root development	P
+UniProtKB	Q9ZV40	GO:0080022	primary root development	P
+UniProtKB	Q9ZVH0	GO:0048829	root cap development	P
+UniProtKB	Q9ZWA6	GO:0048364	root development	P
+UniProtKB	Q9ZWJ9	GO:0010082	regulation of root meristem growth	P
+UniProtKB	Q9ZWJ9	GO:0048364	root development	P
+UniProtKB	Q9ZWM9	GO:0048527	lateral root development	P
