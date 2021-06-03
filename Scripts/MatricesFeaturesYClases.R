@@ -30,7 +30,7 @@ for(i in 1:length(listaGO)){
 data = vector(mode = "list", length = 8)
 
 for(i in 1:length(data)){
-  data[[i]] <- data.frame(ID = IDs_prueba[[i]], 
+  data[[i]] <- data.frame(ID = IDs[[i]], 
                           GO1 = if(i==1) {1} else {as.integer(IDs[[i]] %in% listaGO[[1]]$V2)},
                           GO2 = if(i==2) {1} else {as.integer(IDs[[i]] %in% listaGO[[2]]$V2)}, 
                           GO3 = if(i==3) {1} else {as.integer(IDs[[i]] %in% listaGO[[3]]$V2)}, 
@@ -314,7 +314,7 @@ Pfam <- read.csv("https://raw.githubusercontent.com/ferbracalente/ML/main/Data/P
                  as.is = TRUE, sep = "\t", header= FALSE, skip = 3)
 Pfam <- Pfam[-c(5336:nrow(Pfam)),]
 
-length(unique(Pfam$V2)) #Vemos que hay algunos IDs que no se encontró Pfam
+length(unique(Pfam$V2)) #Vemos que hay algunos IDs que no se encontrÃ³ Pfam
 
 sum(! ID2 %in% unique(Pfam$V2)) # 19 IDs sin Pfam
 
