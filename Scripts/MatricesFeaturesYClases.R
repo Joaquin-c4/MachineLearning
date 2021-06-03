@@ -279,7 +279,7 @@ write.table(Features, file = 'Features.txt', append = FALSE, sep="\t", dec=".",
 
 #------------- Creamos archivo MULTIFASTA para hacer Pfam-------
 
-MultiFasta<-"D:/OneDrive - fbioyf.unr.edu.ar/Especializ_Bioinf/7-Procesamiento_inteligente_de_datos/Trabajo-Joaquin/MultiFASTA.fasta"
+MultiFasta<-"D:/OneDrive - fbioyf.unr.edu.ar/Especializ_Bioinf/7-Procesamiento_inteligente_de_datos/Trabajo-Final/MultiFASTA.fasta"
 
 for (i in 1:nrow(UniprotSeq2)){
   cat(paste(">", UniprotSeq2[i,1],sep = " "),"\n", file= MultiFasta, append=TRUE)
